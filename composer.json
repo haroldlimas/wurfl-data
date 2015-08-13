@@ -1,41 +1,47 @@
 {
-    "name": "mimmi20/wurfl-data",
-    "description": "a Data Store that holds decompiled data from Wurfl",
-    "type": "library",
-    "license": "MIT",
-    "keywords": ["Browser", "user agent", "http", "parser", "user-agent"],
-    "homepage": "https://github.com/mimmi20/wurfl-data",
-    "authors": [
-        {
-            "name": "Thomas Müller",
-            "homepage": "https://github.com/mimmi20",
-            "role": "Developer"
-        },
-        {
-            "name": "Contributors",
-            "homepage": "https://github.com/mimmi20/wurfl-data/graphs/contributors"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/mimmi20/wurfl-data/issues",
-        "source": "https://github.com/mimmi20/wurfl-data"
+  "name": "mimmi20/wurfl-data",
+  "description": "a Data Store that holds decompiled data from Wurfl",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "Browser",
+    "user agent",
+    "http",
+    "parser",
+    "user-agent"
+  ],
+  "homepage": "https://github.com/mimmi20/wurfl-data",
+  "authors": [
+    {
+      "name": "Thomas Müller",
+      "homepage": "https://github.com/mimmi20",
+      "role": "Developer"
     },
-    "require": {
-        "php": ">=5.4.0",
-        "psr/log": "~1.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "*",
-        "monolog/monolog": "dev-master"
-    },
-    "autoload": {
-        "psr-4": {
-            "WurflData\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "WurflDataTest\\": "tests/"
-        }
+    {
+      "name": "Contributors",
+      "homepage": "https://github.com/mimmi20/wurfl-data/graphs/contributors"
     }
+  ],
+  "support": {
+    "issues": "https://github.com/mimmi20/wurfl-data/issues",
+    "source": "https://github.com/mimmi20/wurfl-data"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "psr/log": "~1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*",
+    "monolog/monolog": "~1.13"
+  },
+  "autoload": {
+    "psr-4": {
+      "WurflData\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "WurflDataTest\\": "tests/"
+    }
+  }
 }
