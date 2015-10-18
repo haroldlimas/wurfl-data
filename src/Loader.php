@@ -67,7 +67,7 @@ class Loader
             $filename = __DIR__ . '/../data/' . $wurflKey . '.php';
 
             if (!file_exists($filename)) {
-                $logger->err(new Exception('File "' . $filename . '" was not found'));
+                $logger->error(new Exception('File "' . $filename . '" was not found'));
                 break;
             }
 
@@ -75,7 +75,7 @@ class Loader
             $data = require $filename;
 
             if (!isset($data['fallback'])) {
-                $logger->err(new Exception('File "' . $filename . '" does not contain the fallback property'));
+                $logger->error(new Exception('File "' . $filename . '" does not contain the fallback property'));
                 break;
             }
 
@@ -89,7 +89,7 @@ class Loader
             $wurflKey = $data['fallback'];
 
             if (!isset($data['capabilities'])) {
-                $logger->err(new Exception('File "' . $filename . '" does not contain capabilities'));
+                $logger->error(new Exception('File "' . $filename . '" does not contain capabilities'));
                 break;
             }
 
