@@ -79,6 +79,13 @@ class Loader
                 break;
             }
 
+            if (!file_exists(__DIR__ . '/../data/' . $data['fallback'] . '.php')) {
+                $logger->error(
+                    new Exception('File "' . $filename . '" contains a fallback property for a not existing file')
+                );
+                break;
+            }
+
             $wurflKey = $data['fallback'];
 
             if (!isset($data['capabilities'])) {

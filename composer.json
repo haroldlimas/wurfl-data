@@ -21,12 +21,12 @@
         "source": "https://github.com/mimmi20/wurfl-data"
     },
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.5.0",
         "psr/log": "~1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
-        "monolog/monolog": "dev-master"
+        "monolog/monolog": "~1"
     },
     "autoload": {
         "psr-4": {
