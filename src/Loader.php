@@ -81,7 +81,10 @@ class Loader
 
             if (!file_exists(__DIR__ . '/../data/' . $data['fallback'] . '.php')) {
                 $logger->error(
-                    new Exception('File "' . $filename . '" contains a fallback property for a not existing file')
+                    new Exception(
+                        'File "' . $filename . '" contains a fallback property for a not existing file'
+                        . ' (' . $data['fallback'] . '.php)'
+                    )
                 );
                 break;
             }
