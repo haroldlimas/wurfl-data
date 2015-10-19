@@ -74,7 +74,7 @@ class Loader
             /** @var array $data */
             $data = require $filename;
 
-            if (!isset($data['fallback'])) {
+            if (!array_key_exists('fallback', $data)) {
                 $logger->error(new Exception('File "' . $filename . '" does not contain the fallback property'));
                 break;
             }
