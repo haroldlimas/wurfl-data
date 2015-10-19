@@ -1,8 +1,7 @@
 <?php
-return array (
-  'id' => 'lg_p505_ver1_subuav11e',
-  'fallback' => 'lg_p505_ver1',
-  'capabilities' => 
-  array (
-  ),
+return array(
+    'id'           => 'lg_p505_ver1_subuav11e',
+    'fallback'     => 'lg_p505_ver1',
+    'capabilities' => array(
+    ),
 );

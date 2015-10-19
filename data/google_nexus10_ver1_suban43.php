@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'google_nexus10_ver1_suban43',
-  'fallback' => 'google_nexus10_ver1',
-  'capabilities' => 
-  array (
-    'device_os_version' => '4.3',
-  ),
+return array(
+    'id'           => 'google_nexus10_ver1_suban43',
+    'fallback'     => 'google_nexus10_ver1',
+    'capabilities' => array(
+        'device_os_version' => '4.3',
+    ),
 );

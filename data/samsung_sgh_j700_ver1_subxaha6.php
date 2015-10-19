@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'samsung_sgh_j700_ver1_subxaha6',
-  'fallback' => 'samsung_sgh_j700l_ver1',
-  'capabilities' => 
-  array (
-    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-J700-ORANGE.xml',
-  ),
+return array(
+    'id'           => 'samsung_sgh_j700_ver1_subxaha6',
+    'fallback'     => 'samsung_sgh_j700l_ver1',
+    'capabilities' => array(
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-J700-ORANGE.xml',
+    ),
 );

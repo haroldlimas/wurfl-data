@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'generic_smarttv_boxeebox_browser',
-  'fallback' => 'generic_smarttv_browser',
-  'capabilities' => 
-  array (
-    'model_name' => 'Boxee Box',
-  ),
+return array(
+    'id'           => 'generic_smarttv_boxeebox_browser',
+    'fallback'     => 'generic_smarttv_browser',
+    'capabilities' => array(
+        'model_name' => 'Boxee Box',
+    ),
 );

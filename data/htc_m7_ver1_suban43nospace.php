@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'htc_m7_ver1_suban43nospace',
-  'fallback' => 'htc_m7_ver1',
-  'capabilities' => 
-  array (
-    'device_os_version' => '4.3',
-  ),
+return array(
+    'id'           => 'htc_m7_ver1_suban43nospace',
+    'fallback'     => 'htc_m7_ver1',
+    'capabilities' => array(
+        'device_os_version' => '4.3',
+    ),
 );

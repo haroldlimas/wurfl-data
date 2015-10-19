@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'sonyericsson_lt30p_ver1_suban41se',
-  'fallback' => 'sonyericsson_lt30p_ver1',
-  'capabilities' => 
-  array (
-    'device_os_version' => '4.1',
-  ),
+return array(
+    'id'           => 'sonyericsson_lt30p_ver1_suban41se',
+    'fallback'     => 'sonyericsson_lt30p_ver1',
+    'capabilities' => array(
+        'device_os_version' => '4.1',
+    ),
 );

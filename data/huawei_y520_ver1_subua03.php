@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'huawei_y520_ver1_subua03',
-  'fallback' => 'huawei_y520_ver1',
-  'capabilities' => 
-  array (
-    'model_name' => 'Y520-U03',
-  ),
+return array(
+    'id'           => 'huawei_y520_ver1_subua03',
+    'fallback'     => 'huawei_y520_ver1',
+    'capabilities' => array(
+        'model_name' => 'Y520-U03',
+    ),
 );

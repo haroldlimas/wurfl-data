@@ -1,8 +1,7 @@
 <?php
-return array (
-  'id' => 'nokia_n85_ver1_sub11043',
-  'fallback' => 'nokia_n85_ver1',
-  'capabilities' => 
-  array (
-  ),
+return array(
+    'id'           => 'nokia_n85_ver1_sub11043',
+    'fallback'     => 'nokia_n85_ver1',
+    'capabilities' => array(
+    ),
 );

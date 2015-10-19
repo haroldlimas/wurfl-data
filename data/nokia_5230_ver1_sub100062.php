@@ -1,8 +1,7 @@
 <?php
-return array (
-  'id' => 'nokia_5230_ver1_sub100062',
-  'fallback' => 'nokia_5230_ver1',
-  'capabilities' => 
-  array (
-  ),
+return array(
+    'id'           => 'nokia_5230_ver1_sub100062',
+    'fallback'     => 'nokia_5230_ver1',
+    'capabilities' => array(
+    ),
 );

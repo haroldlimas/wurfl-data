@@ -1,11 +1,10 @@
 <?php
-return array (
-  'id' => 'sonyericsson_lt26i_ver1_suban40nose_subuachrome',
-  'fallback' => 'sonyericsson_lt26i_ver1_suban40nose',
-  'capabilities' => 
-  array (
-    'full_flash_support' => 'false',
-    'mobile_browser' => 'Chrome Mobile',
-    'mobile_browser_version' => '18',
-  ),
+return array(
+    'id'           => 'sonyericsson_lt26i_ver1_suban40nose_subuachrome',
+    'fallback'     => 'sonyericsson_lt26i_ver1_suban40nose',
+    'capabilities' => array(
+        'full_flash_support' => 'false',
+        'mobile_browser' => 'Chrome Mobile',
+        'mobile_browser_version' => '18',
+    ),
 );

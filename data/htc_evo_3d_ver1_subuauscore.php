@@ -1,8 +1,7 @@
 <?php
-return array (
-  'id' => 'htc_evo_3d_ver1_subuauscore',
-  'fallback' => 'htc_evo_3d_ver1',
-  'capabilities' => 
-  array (
-  ),
+return array(
+    'id'           => 'htc_evo_3d_ver1_subuauscore',
+    'fallback'     => 'htc_evo_3d_ver1',
+    'capabilities' => array(
+    ),
 );

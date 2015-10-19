@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'lg_8180_ver1_sub10',
-  'fallback' => 'lg_8180_ver1',
-  'capabilities' => 
-  array (
-    'max_data_rate' => '384',
-  ),
+return array(
+    'id'           => 'lg_8180_ver1_sub10',
+    'fallback'     => 'lg_8180_ver1',
+    'capabilities' => array(
+        'max_data_rate' => '384',
+    ),
 );

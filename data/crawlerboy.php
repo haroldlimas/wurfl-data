@@ -1,8 +1,7 @@
 <?php
-return array (
-  'id' => 'crawlerboy',
-  'fallback' => 'generic_mobile',
-  'capabilities' => 
-  array (
-  ),
+return array(
+    'id'           => 'crawlerboy',
+    'fallback'     => 'generic_mobile',
+    'capabilities' => array(
+    ),
 );

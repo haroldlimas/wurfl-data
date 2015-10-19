@@ -1,10 +1,9 @@
 <?php
-return array (
-  'id' => 'nokia_7650_ver1_sub09otaclient',
-  'fallback' => 'nokia_7650_ver1',
-  'capabilities' => 
-  array (
-    'max_data_rate' => '40',
-    'nokia_edition' => '0',
-  ),
+return array(
+    'id'           => 'nokia_7650_ver1_sub09otaclient',
+    'fallback'     => 'nokia_7650_ver1',
+    'capabilities' => array(
+        'max_data_rate' => '40',
+        'nokia_edition' => '0',
+    ),
 );

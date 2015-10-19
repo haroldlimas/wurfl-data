@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'palm_treo680_ver1_subblazer45_subua2',
-  'fallback' => 'palm_treo680_ver1',
-  'capabilities' => 
-  array (
-    'max_data_rate' => '9',
-  ),
+return array(
+    'id'           => 'palm_treo680_ver1_subblazer45_subua2',
+    'fallback'     => 'palm_treo680_ver1',
+    'capabilities' => array(
+        'max_data_rate' => '9',
+    ),
 );

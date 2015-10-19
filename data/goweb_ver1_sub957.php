@@ -1,8 +1,7 @@
 <?php
-return array (
-  'id' => 'goweb_ver1_sub957',
-  'fallback' => 'goweb_ver1',
-  'capabilities' => 
-  array (
-  ),
+return array(
+    'id'           => 'goweb_ver1_sub957',
+    'fallback'     => 'goweb_ver1',
+    'capabilities' => array(
+    ),
 );

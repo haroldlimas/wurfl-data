@@ -1,8 +1,7 @@
 <?php
-return array (
-  'id' => 'ezos_ver1_subonlinepilot',
-  'fallback' => 'generic_ezos',
-  'capabilities' => 
-  array (
-  ),
+return array(
+    'id'           => 'ezos_ver1_subonlinepilot',
+    'fallback'     => 'generic_ezos',
+    'capabilities' => array(
+    ),
 );

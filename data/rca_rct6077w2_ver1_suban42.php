@@ -1,9 +1,8 @@
 <?php
-return array (
-  'id' => 'rca_rct6077w2_ver1_suban42',
-  'fallback' => 'rca_rct6077w2_ver1',
-  'capabilities' => 
-  array (
-    'device_os_version' => '4.2',
-  ),
+return array(
+    'id'           => 'rca_rct6077w2_ver1_suban42',
+    'fallback'     => 'rca_rct6077w2_ver1',
+    'capabilities' => array(
+        'device_os_version' => '4.2',
+    ),
 );
