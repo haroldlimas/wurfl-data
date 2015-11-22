@@ -6,6 +6,7 @@ return array(
         'model_name' => 'M650',
         'brand_name' => 'Huawei',
         'marketing_name' => 'Sprint Express',
+        'release_date' => '2011_november',
         'physical_screen_height' => '40',
         'physical_screen_width' => '53',
         'resolution_height' => '240',

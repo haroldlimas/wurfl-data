@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'htc_6435_ver1',
     'capabilities' => array(
         'model_name' => 'HTL21',
-        'device_os_version' => '4.1',
         'marketing_name' => 'Butterfly',
+        'device_os_version' => '4.1',
     ),
 );

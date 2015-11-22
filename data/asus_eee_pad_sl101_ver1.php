@@ -7,8 +7,8 @@ return array(
         'brand_name' => 'Asus',
         'marketing_name' => 'Eee Pad SL101 Slider',
         'physical_screen_height' => '136',
-        'density_class' => '1.0',
         'physical_screen_width' => '218',
         'resolution_height' => '800',
+        'density_class' => '1.0',
     ),
 );

@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Inter',
         'physical_screen_height' => '98',
         'physical_screen_width' => '65',
-        'resolution_width' => '640',
         'resolution_height' => '960',
+        'resolution_width' => '640',
     ),
 );

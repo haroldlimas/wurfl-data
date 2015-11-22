@@ -8,9 +8,9 @@ return array(
         'marketing_name' => 'One Touch 960C',
         'release_date' => '2012_november',
         'physical_screen_height' => '94',
-        'density_class' => '1.5',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

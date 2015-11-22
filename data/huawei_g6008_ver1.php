@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Huawei',
         'physical_screen_height' => '31',
         'physical_screen_width' => '41',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

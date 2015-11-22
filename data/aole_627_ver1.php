@@ -6,7 +6,7 @@ return array(
         'model_name' => '627',
         'brand_name' => 'Aole',
         'release_date' => '2012_june',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

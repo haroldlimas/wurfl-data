@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Motorola',
         'physical_screen_height' => '72',
         'physical_screen_width' => '54',
-        'resolution_width' => '480',
         'resolution_height' => '640',
+        'resolution_width' => '480',
     ),
 );

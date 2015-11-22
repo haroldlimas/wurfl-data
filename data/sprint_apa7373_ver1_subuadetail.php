@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'sprint_apa7373_ver1',
     'capabilities' => array(
         'model_name' => 'PLS7373ADR',
-        'device_os_version' => '2.2',
-        'model_extra_info' => 'Ting/Credo',
         'marketing_name' => 'Detail',
+        'model_extra_info' => 'Ting/Credo',
+        'device_os_version' => '2.2',
     ),
 );

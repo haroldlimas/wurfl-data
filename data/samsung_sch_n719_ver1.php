@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'SCH-N719',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'CDMA',
         'marketing_name' => 'Galaxy Note II',
+        'model_extra_info' => 'CDMA',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'One E9 Plus',
         'brand_name' => 'HTC',
+        'release_date' => '2015_march',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '1440',
         'resolution_height' => '2560',
+        'resolution_width' => '1440',
     ),
 );

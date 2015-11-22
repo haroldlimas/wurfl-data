@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'mobile_browser_version' => '11',
         'device_os_version' => '8.1',
+        'model_name' => 'Lumia 625h',
     ),
 );

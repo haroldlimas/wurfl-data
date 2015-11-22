@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Micromax',
         'physical_screen_height' => '35',
         'physical_screen_width' => '28',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
     ),
 );

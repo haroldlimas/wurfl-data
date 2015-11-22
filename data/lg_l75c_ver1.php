@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'L75C',
         'brand_name' => 'LG',
-        'model_extra_info' => 'for TracFone',
         'marketing_name' => 'Optimus Zip',
+        'model_extra_info' => 'for TracFone',
         'release_date' => '2012_august',
         'physical_screen_height' => '68',
-        'density_class' => '1.0',
         'physical_screen_width' => '46',
+        'density_class' => '1.0',
     ),
 );

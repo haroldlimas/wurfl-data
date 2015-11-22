@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'generic_xhtml',
     'capabilities' => array(
         'mobile_browser' => 'Teleca-Obigo',
-        'device_os' => 'MTK/Nucleus OS',
         'mobile_browser_version' => 'Q03',
         'model_name' => 'X880B',
         'brand_name' => 'LCT',
+        'device_os' => 'MTK/Nucleus OS',
         'image_inlining' => 'true',
     ),
 );

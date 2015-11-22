@@ -8,9 +8,9 @@ return array(
         'marketing_name' => 'Liquid Gallant E350',
         'release_date' => '2012_december',
         'physical_screen_height' => '96',
-        'density_class' => '1.5',
         'physical_screen_width' => '54',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'density_class' => '1.5',
     ),
 );

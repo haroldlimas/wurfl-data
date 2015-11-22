@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'BP4270',
         'brand_name' => 'LG',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
         'streaming_real_media' => 'none',
     ),
 );

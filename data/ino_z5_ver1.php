@@ -4,6 +4,6 @@ return array(
     'fallback'     => 'generic_android_ver4_2',
     'capabilities' => array(
         'model_name' => 'Z5',
-        'brand_name' => 'IMO',
+        'brand_name' => 'iNO',
     ),
 );

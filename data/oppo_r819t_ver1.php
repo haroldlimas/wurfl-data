@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'OPPO',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

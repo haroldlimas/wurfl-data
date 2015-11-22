@@ -8,7 +8,7 @@ return array(
         'brand_name' => 'Dell',
         'physical_screen_height' => '95',
         'physical_screen_width' => '151',
-        'resolution_width' => '1280',
         'resolution_height' => '800',
+        'resolution_width' => '1280',
     ),
 );

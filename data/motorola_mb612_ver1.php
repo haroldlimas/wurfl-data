@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Motorola',
         'marketing_name' => 'XPRT',
         'physical_screen_height' => '66',
-        'density_class' => '1.0',
         'physical_screen_width' => '44',
+        'density_class' => '1.0',
     ),
 );

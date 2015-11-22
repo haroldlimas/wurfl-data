@@ -10,8 +10,8 @@ return array(
         'physical_screen_height' => '36',
         'physical_screen_width' => '29',
         'max_image_width' => '96',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
         'max_image_height' => '120',
     ),
 );

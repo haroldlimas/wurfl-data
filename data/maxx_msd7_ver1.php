@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Play',
         'physical_screen_height' => '44',
         'physical_screen_width' => '36',
-        'resolution_width' => '144',
         'resolution_height' => '176',
+        'resolution_width' => '144',
     ),
 );

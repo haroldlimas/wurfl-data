@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'A71',
         'brand_name' => 'Micromax',
+        'release_date' => '2014_january',
     ),
 );

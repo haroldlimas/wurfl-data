@@ -6,9 +6,9 @@ return array(
         'model_name' => 'P9514',
         'brand_name' => 'Lifetab',
         'physical_screen_height' => '216',
-        'density_class' => '1.0',
         'physical_screen_width' => '135',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
+        'density_class' => '1.0',
     ),
 );

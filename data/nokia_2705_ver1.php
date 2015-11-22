@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => '2705',
         'max_image_width' => '168',
-        'resolution_width' => '176',
         'resolution_height' => '220',
+        'resolution_width' => '176',
         'max_image_height' => '180',
         'max_data_rate' => '384',
         'j2me_midp_2_0' => 'true',

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'UCWeb',
         'mobile_browser_version' => '9',
-        'model_name' => 'M355',
         'device_os_version' => '4.0',
+        'model_name' => 'M355',
     ),
 );

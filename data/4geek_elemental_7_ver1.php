@@ -3,8 +3,8 @@ return array(
     'id'           => '4geek_elemental_7_ver1',
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'Elemental 7 Tablet',
+        'is_tablet' => 'true',
         'brand_name' => '4geek',
         'can_assign_phone_number' => 'false',
         'release_date' => '2014_december',

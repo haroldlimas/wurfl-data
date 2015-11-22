@@ -6,5 +6,6 @@ return array(
         'model_name' => 'M8Sw',
         'brand_name' => 'HTC',
         'marketing_name' => 'HTC One E8',
+        'release_date' => '2014_june',
     ),
 );

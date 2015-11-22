@@ -6,8 +6,9 @@ return array(
         'model_name' => 'IM-A750K',
         'brand_name' => 'Sky',
         'marketing_name' => 'Mirach A',
+        'release_date' => '2011_april',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

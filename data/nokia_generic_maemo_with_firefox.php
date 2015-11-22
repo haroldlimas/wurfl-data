@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'nokia_generic_maemo',
     'capabilities' => array(
         'mobile_browser' => 'Firefox',
-        'model_name' => 'Generic Maemo with Fennec',
         'release_date' => '2011_january',
+        'model_name' => 'Generic Maemo with Fennec',
     ),
 );

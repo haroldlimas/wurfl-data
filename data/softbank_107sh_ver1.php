@@ -4,13 +4,14 @@ return array(
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
         'model_name' => 'SBM107SH',
-        'manufacturer_name' => 'Sharp',
         'brand_name' => 'Softbank',
+        'manufacturer_name' => 'Sharp',
         'marketing_name' => 'Pantone 5 107SH',
+        'release_date' => '2012_july',
         'physical_screen_height' => '82',
-        'density_class' => '1.5',
         'physical_screen_width' => '47',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

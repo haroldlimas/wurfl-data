@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'docomo_generic_jap_ver2',
     'capabilities' => array(
         'columns' => '11',
-        'max_image_width' => '121',
         'rows' => '11',
-        'resolution_width' => '176',
+        'max_image_width' => '121',
         'resolution_height' => '198',
+        'resolution_width' => '176',
         'max_image_height' => '190',
         'flash_lite_version' => '',
     ),

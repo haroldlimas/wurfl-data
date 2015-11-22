@@ -6,11 +6,11 @@ return array(
         'model_name' => 'IM-A880S',
         'brand_name' => 'Pantech',
         'marketing_name' => 'Vega LTE-A',
-        'release_date' => '2013_september',
+        'release_date' => '2013_august',
         'physical_screen_height' => '124',
         'physical_screen_width' => '70',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

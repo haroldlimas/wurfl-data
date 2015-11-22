@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'OliPad 110',
         'brand_name' => 'Olivetti',
+        'max_image_width' => '1280',
         'physical_screen_height' => '135',
         'physical_screen_width' => '216',
-        'max_image_width' => '1280',
-        'resolution_width' => '1280',
         'resolution_height' => '800',
+        'resolution_width' => '1280',
     ),
 );

@@ -6,7 +6,7 @@ return array(
         'model_name' => 'BM-SWU300',
         'brand_name' => 'Huawei',
         'marketing_name' => 'IDEOS',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

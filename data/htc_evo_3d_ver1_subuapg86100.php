@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'htc_evo_3d_ver1',
     'capabilities' => array(
         'model_name' => 'PG86100',
-        'model_extra_info' => 'aka Shooter',
         'marketing_name' => 'EVO 3D',
+        'model_extra_info' => 'aka Shooter',
     ),
 );

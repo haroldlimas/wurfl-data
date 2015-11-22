@@ -6,8 +6,9 @@ return array(
         'model_name' => 'AS695',
         'brand_name' => 'LG',
         'marketing_name' => 'Optimus Plus',
+        'release_date' => '2012_march',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'P252i',
         'max_image_width' => '132',
-        'resolution_width' => '132',
         'resolution_height' => '176',
+        'resolution_width' => '132',
         'preferred_markup' => 'html_wi_imode_html_5',
         'flash_lite_version' => '',
     ),

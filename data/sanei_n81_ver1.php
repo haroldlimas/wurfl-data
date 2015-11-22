@@ -3,8 +3,8 @@ return array(
     'id'           => 'sanei_n81_ver1',
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'N81',
+        'is_tablet' => 'true',
         'brand_name' => 'Sanei',
         'can_assign_phone_number' => 'false',
         'release_date' => '2012_september',

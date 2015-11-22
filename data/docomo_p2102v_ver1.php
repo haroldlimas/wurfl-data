@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'P2102V',
         'max_image_width' => '176',
-        'resolution_width' => '176',
         'resolution_height' => '198',
+        'resolution_width' => '176',
         'max_image_height' => '198',
         'html_wi_imode_htmlx_1' => 'true',
         'preferred_markup' => 'html_wi_imode_htmlx_1',

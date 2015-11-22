@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'mobile_browser_version' => '34',
-        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL_ONE_TOUCH_7040D.xml',
         'model_name' => 'ONE TOUCH 7040D',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL_ONE_TOUCH_7040D.xml',
     ),
 );

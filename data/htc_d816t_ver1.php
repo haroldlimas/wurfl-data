@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'D816t',
         'brand_name' => 'HTC',
-        'marketing_name' => 'HTC A5',
+        'marketing_name' => 'Desire 816',
         'release_date' => '2014_march',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

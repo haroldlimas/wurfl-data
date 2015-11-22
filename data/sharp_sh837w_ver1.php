@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'SH837W',
         'brand_name' => 'Sharp',
+        'release_date' => '2013_january',
     ),
 );

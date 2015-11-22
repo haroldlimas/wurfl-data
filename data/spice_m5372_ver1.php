@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Boss Dura 3',
         'physical_screen_height' => '53',
         'physical_screen_width' => '32',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

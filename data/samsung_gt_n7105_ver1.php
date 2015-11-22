@@ -7,8 +7,8 @@ return array(
         'brand_name' => 'Samsung',
         'physical_screen_height' => '123',
         'physical_screen_width' => '70',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

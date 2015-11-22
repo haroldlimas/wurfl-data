@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => '2014011',
         'brand_name' => 'Xiaomi',
+        'release_date' => '2014_april',
     ),
 );

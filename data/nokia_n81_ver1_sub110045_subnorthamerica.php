@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'uaprof' => 'http://nds.nokia.com/uaprof/NN81-3r100.xml',
         'model_extra_info' => 'North America',
-        'wifi' => 'true',
         'max_data_rate' => '384',
+        'wifi' => 'true',
         'accept_third_party_cookie' => 'false',
     ),
 );

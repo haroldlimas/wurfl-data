@@ -8,8 +8,8 @@ return array(
         'brand_name' => 'i-mobile',
         'columns' => '11',
         'rows' => '6',
-        'resolution_width' => '176',
         'resolution_height' => '240',
+        'resolution_width' => '176',
         'colors' => '65536',
     ),
 );

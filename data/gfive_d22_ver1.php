@@ -6,7 +6,7 @@ return array(
         'model_name' => 'D_22',
         'brand_name' => 'GFive',
         'physical_screen_height' => '45',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

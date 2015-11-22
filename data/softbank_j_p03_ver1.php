@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'J-P03',
         'max_image_width' => '96',
-        'resolution_width' => '96',
         'resolution_height' => '95',
+        'resolution_width' => '96',
         'max_image_height' => '95',
         'colors' => '256',
         'preferred_markup' => 'html_wi_mml_html',

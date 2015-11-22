@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'docomo_generic_jap_ver1',
     'capabilities' => array(
         'model_name' => 'F502i',
-        'max_image_width' => '96',
-        'resolution_width' => '96',
         'resolution_height' => '78',
+        'max_image_width' => '96',
         'max_image_height' => '91',
+        'resolution_width' => '96',
         'streaming_real_media' => 'none',
         'colors' => '256',
         'preferred_markup' => 'html_wi_imode_html_2',

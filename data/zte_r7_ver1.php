@@ -8,7 +8,7 @@ return array(
         'release_date' => '2012_january',
         'columns' => '240',
         'max_image_width' => '296',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

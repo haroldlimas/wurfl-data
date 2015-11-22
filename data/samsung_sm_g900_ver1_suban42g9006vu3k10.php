@@ -6,5 +6,7 @@ return array(
         'mobile_browser' => 'UCWeb',
         'mobile_browser_version' => '10',
         'device_os_version' => '4.2',
+        'model_name' => 'SM-G9006V',
+        'model_extra_info' => '',
     ),
 );

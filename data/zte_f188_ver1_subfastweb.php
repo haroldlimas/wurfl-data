@@ -3,10 +3,10 @@ return array(
     'id'           => 'zte_f188_ver1_subfastweb',
     'fallback'     => 'zte_f188_ver1',
     'capabilities' => array(
-        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-F188(FASTWEBF188).xml',
-        'model_name' => 'F188',
-        'marketing_name' => 'Fastweb',
         'release_date' => '2009_june',
+        'model_name' => 'F188',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-F188(FASTWEBF188).xml',
+        'marketing_name' => 'Fastweb',
         'columns' => '15',
         'rows' => '8',
         'colors' => '65536',

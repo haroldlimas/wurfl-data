@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
         'model_name' => '50DC II',
         'brand_name' => 'Szenio',
         'marketing_name' => 'Syreni 50DC II',

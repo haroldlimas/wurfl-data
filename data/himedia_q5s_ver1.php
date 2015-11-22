@@ -6,5 +6,6 @@ return array(
         'mobile_browser_version' => '30',
         'model_name' => 'Q5S',
         'brand_name' => 'HiMedia',
+        'release_date' => '2015_june',
     ),
 );

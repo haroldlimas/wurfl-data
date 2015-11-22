@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'colors' => '4096',
         'max_image_width' => '100',
-        'resolution_width' => '100',
-        'resolution_height' => '120',
         'max_image_height' => '91',
+        'resolution_height' => '120',
+        'resolution_width' => '100',
         'preferred_markup' => 'html_wi_imode_html_3',
         'model_name' => 'D211i',
         'flash_lite_version' => '',

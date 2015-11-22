@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'F120K',
         'brand_name' => 'LG',
-        'model_extra_info' => 'for KT',
         'marketing_name' => 'Optimus LTE TAG',
+        'model_extra_info' => 'for KT',
+        'release_date' => '2012_february',
         'physical_screen_height' => '94',
-        'density_class' => '1.5',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
+        'density_class' => '1.5',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

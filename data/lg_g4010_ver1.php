@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'lg_generic',
     'capabilities' => array(
         'model_name' => '4010',
-        'wml_1_2' => 'true',
         'preferred_markup' => 'wml_1_2',
+        'wml_1_2' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

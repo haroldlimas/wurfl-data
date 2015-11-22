@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Aoson',
         'physical_screen_height' => '198',
         'physical_screen_width' => '148',
-        'resolution_width' => '1536',
         'resolution_height' => '2048',
+        'resolution_width' => '1536',
     ),
 );

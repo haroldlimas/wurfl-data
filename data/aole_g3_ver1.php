@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'G3',
         'brand_name' => 'Aole',
+        'release_date' => '2012_october',
     ),
 );

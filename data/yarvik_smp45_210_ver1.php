@@ -5,10 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'Ingenia Synchro',
         'brand_name' => 'Yarvik',
+        'release_date' => '2012_february',
+        'resolution_height' => '960',
+        'resolution_width' => '540',
         'columns' => '36',
         'rows' => '10',
-        'resolution_width' => '540',
-        'resolution_height' => '960',
         'gif_animated' => 'true',
         'colors' => '16777216',
         'max_data_rate' => '7200',

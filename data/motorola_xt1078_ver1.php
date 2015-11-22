@@ -5,11 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'XT1078',
         'brand_name' => 'Motorola',
-        'marketing_name' => 'Motorola Moto G 4G',
         'release_date' => '2015_march',
+        'marketing_name' => 'Moto G 4G (2nd Gen)',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
+        'density_class' => '2.0',
+        'max_image_width' => '360',
     ),
 );

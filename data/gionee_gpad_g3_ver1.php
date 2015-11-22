@@ -6,9 +6,9 @@ return array(
         'model_name' => 'GPad G3',
         'brand_name' => 'Gionee',
         'release_date' => '2013_october',
-        'physical_screen_height' => '69',
-        'physical_screen_width' => '122',
-        'resolution_width' => '480',
+        'physical_screen_height' => '122',
+        'physical_screen_width' => '69',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

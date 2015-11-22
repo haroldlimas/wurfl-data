@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Viettel',
         'release_date' => '2011_may',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

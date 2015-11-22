@@ -10,8 +10,8 @@ return array(
         'ajax_support_javascript' => 'false',
         'columns' => '11',
         'rows' => '6',
-        'resolution_width' => '220',
         'resolution_height' => '340',
+        'resolution_width' => '220',
         'colors' => '256',
     ),
 );

@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'C161',
         'ringtone_voices' => '16',
-        'wallpaper' => 'true',
         'wallpaper_colors' => '16',
-        'wallpaper_jpg' => 'true',
         'wallpaper_gif' => 'true',
-        'ringtone_midi_polyphonic' => 'true',
+        'wallpaper_jpg' => 'true',
         'screensaver' => 'true',
+        'ringtone_midi_polyphonic' => 'true',
+        'wallpaper' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

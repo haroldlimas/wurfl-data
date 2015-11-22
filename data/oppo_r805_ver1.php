@@ -6,6 +6,7 @@ return array(
         'model_name' => 'R805',
         'brand_name' => 'Oppo',
         'marketing_name' => 'Real R805',
+        'release_date' => '2012_may',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

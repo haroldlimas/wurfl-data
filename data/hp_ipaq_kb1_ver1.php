@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'iPAQ Glisten',
         'physical_screen_height' => '39',
         'physical_screen_width' => '51',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

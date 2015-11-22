@@ -8,8 +8,8 @@ return array(
         'marketing_name' => 'HTC One',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

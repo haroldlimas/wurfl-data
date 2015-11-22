@@ -5,7 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Star',
         'brand_name' => 'Explay',
-        'physical_screen_height' => '74',
+        'release_date' => '2012_september',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

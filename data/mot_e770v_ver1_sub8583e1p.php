@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'playback_acodec_aac' => 'heaac2',
         'playback_3gpp' => 'true',
-        'playback_vcodec_h263_0' => '10',
         'playback_vcodec_mpeg4_sp' => '0',
+        'playback_vcodec_h263_0' => '10',
     ),
 );

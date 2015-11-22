@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'A10',
         'brand_name' => 'Karbonn',
+        'release_date' => '2013_july',
     ),
 );

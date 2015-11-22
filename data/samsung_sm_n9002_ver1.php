@@ -8,8 +8,8 @@ return array(
         'marketing_name' => 'Galaxy Note 3 Duos',
         'physical_screen_height' => '127',
         'physical_screen_width' => '71',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

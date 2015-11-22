@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'max_data_rate' => '40',
         'oma_support' => 'true',
-        'aac' => 'true',
         'mp3' => 'true',
+        'aac' => 'true',
         'oma_v_1_0_separate_delivery' => 'true',
     ),
 );

@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Advan',
         'physical_screen_height' => '78',
         'physical_screen_width' => '44',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

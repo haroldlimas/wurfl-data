@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Oyster 500',
         'brand_name' => 'Tecmobile',
+        'release_date' => '2012_october',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

@@ -6,8 +6,8 @@ return array(
         'model_name' => 'T20e',
         'softkey_support' => 'true',
         'max_image_width' => '101',
-        'xhtml_support_level' => '-1',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'streaming_real_media' => 'none',
     ),
 );

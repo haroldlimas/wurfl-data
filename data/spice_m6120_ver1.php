@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Palmtab',
         'physical_screen_height' => '102',
         'physical_screen_width' => '77',
-        'resolution_width' => '960',
         'resolution_height' => '1280',
+        'resolution_width' => '960',
     ),
 );

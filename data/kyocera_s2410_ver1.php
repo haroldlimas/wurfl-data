@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'S2410',
         'brand_name' => 'Kyocera',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
         'max_image_height' => '130',
     ),
 );

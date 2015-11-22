@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Galaxy Gear',
         'brand_name' => 'Samsung',
+        'release_date' => '2014_october',
     ),
 );

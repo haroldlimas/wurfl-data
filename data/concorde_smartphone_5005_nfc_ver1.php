@@ -10,8 +10,8 @@ return array(
         'marketing_name' => '5005 NFC SmartPhone',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

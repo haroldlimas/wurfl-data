@@ -6,6 +6,7 @@ return array(
         'model_name' => 'H868C',
         'brand_name' => 'Huawei',
         'marketing_name' => 'Glory',
+        'release_date' => '2013_may',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

@@ -6,7 +6,7 @@ return array(
         'model_name' => 'D3',
         'brand_name' => 'Tecno',
         'release_date' => '2012_may',
-        'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

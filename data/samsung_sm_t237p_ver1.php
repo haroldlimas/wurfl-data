@@ -8,9 +8,9 @@ return array(
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Tab 3',
         'release_date' => '2013_april',
+        'resolution_height' => '1024',
+        'resolution_width' => '600',
         'physical_screen_height' => '154',
         'physical_screen_width' => '90',
-        'resolution_width' => '600',
-        'resolution_height' => '1024',
     ),
 );

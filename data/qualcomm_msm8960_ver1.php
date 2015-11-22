@@ -6,5 +6,6 @@ return array(
         'model_name' => 'MSM8960',
         'brand_name' => 'Qualcomm',
         'marketing_name' => 'MSM8960 Development Board',
+        'release_date' => '2011_october',
     ),
 );

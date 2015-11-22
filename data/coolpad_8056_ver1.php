@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => '8056',
         'brand_name' => 'Coolpad',
+        'release_date' => '2013_february',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

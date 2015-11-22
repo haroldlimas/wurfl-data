@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'A602',
         'brand_name' => 'Sunon',
-        'model_extra_info' => 'aka F602',
         'marketing_name' => 'Flying A602',
+        'model_extra_info' => 'aka F602',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

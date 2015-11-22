@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Onda',
         'physical_screen_height' => '175',
         'physical_screen_width' => '95',
-        'resolution_width' => '552',
         'resolution_height' => '1024',
+        'resolution_width' => '552',
     ),
 );

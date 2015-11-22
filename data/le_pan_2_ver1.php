@@ -7,8 +7,8 @@ return array(
         'brand_name' => 'Le Pan',
         'release_date' => '2012_february',
         'physical_screen_height' => '148',
-        'density_class' => '1.0',
         'physical_screen_width' => '198',
         'resolution_width' => '1024',
+        'density_class' => '1.0',
     ),
 );

@@ -12,8 +12,8 @@ return array(
         'wallpaper_preferred_height' => '273',
         'columns' => '12',
         'max_image_width' => '228',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
         'max_image_height' => '280',
     ),
 );

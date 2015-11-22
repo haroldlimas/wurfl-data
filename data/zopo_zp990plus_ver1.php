@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'ZOPO',
         'physical_screen_height' => '133',
         'physical_screen_width' => '75',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

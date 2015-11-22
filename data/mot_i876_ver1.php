@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'mot_i877_ver1',
     'capabilities' => array(
         'model_name' => 'i876',
-        'streaming_acodec_aac' => 'heaac',
         'streaming_real_media' => 'none',
+        'streaming_acodec_aac' => 'heaac',
         'playback_acodec_aac' => 'heaac',
     ),
 );

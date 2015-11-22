@@ -3,8 +3,8 @@ return array(
     'id'           => 'aoc_d70j08_ver1',
     'fallback'     => 'generic_android_ver4_2',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'D70J08',
+        'is_tablet' => 'true',
         'brand_name' => 'AOC',
         'release_date' => '2014_december',
         'physical_screen_height' => '92',

@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'APC715CKT',
         'brand_name' => 'HTC',
-        'model_extra_info' => 'Sprint',
         'marketing_name' => 'EVO Design 4G',
+        'model_extra_info' => 'Sprint',
+        'release_date' => '2011_october',
         'physical_screen_height' => '89',
-        'density_class' => '1.5',
         'physical_screen_width' => '50',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'density_class' => '1.5',
     ),
 );

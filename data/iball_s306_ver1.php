@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'S-306',
         'brand_name' => 'iBall',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
     ),
 );

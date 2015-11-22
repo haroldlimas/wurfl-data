@@ -6,6 +6,7 @@ return array(
         'model_name' => 'A24',
         'brand_name' => 'Micromax',
         'marketing_name' => 'Bolt A24',
+        'release_date' => '2014_january',
         'physical_screen_height' => '60',
         'physical_screen_width' => '40',
     ),

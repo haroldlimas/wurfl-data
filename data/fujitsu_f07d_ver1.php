@@ -6,10 +6,11 @@ return array(
         'model_name' => 'F-07D',
         'brand_name' => 'Fujitsu',
         'marketing_name' => 'ARROWS u F-07D',
+        'release_date' => '2011_june',
         'physical_screen_height' => '88',
-        'density_class' => '1.5',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

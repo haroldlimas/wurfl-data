@@ -5,14 +5,15 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '30',
-        'is_tablet' => 'true',
         'model_name' => 'M-MP8S4B3G',
+        'is_tablet' => 'true',
         'brand_name' => 'Mediacom',
         'marketing_name' => 'Mediacom Smartpad 8.0',
         'can_assign_phone_number' => 'false',
+        'release_date' => '2014_december',
         'physical_screen_height' => '173',
         'physical_screen_width' => '108',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
     ),
 );

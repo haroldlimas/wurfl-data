@@ -6,6 +6,7 @@ return array(
         'model_name' => 'FL40L',
         'brand_name' => 'LG',
         'marketing_name' => '070touch',
+        'release_date' => '2014_august',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'M65',
         'model_extra_info' => 'Vodafone',
+        'playback_vcodec_h263_0' => '10',
         'playback_3gpp' => 'true',
         'playback_acodec_amr' => 'nb',
-        'playback_vcodec_h263_0' => '10',
         'streaming_real_media' => 'none',
         'video' => 'true',
     ),

@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
         'mobile_browser_version' => '34',
-        'is_tablet' => 'true',
         'model_name' => 'Touch Book 7.0',
+        'is_tablet' => 'true',
         'brand_name' => 'Blu',
         'can_assign_phone_number' => 'false',
         'release_date' => '2011_december',

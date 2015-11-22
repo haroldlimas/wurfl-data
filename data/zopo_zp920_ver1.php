@@ -6,10 +6,10 @@ return array(
         'model_name' => 'ZP920',
         'brand_name' => 'Zopo',
         'release_date' => '2015_january',
+        'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'physical_screen_height' => '116',
         'physical_screen_width' => '65',
-        'resolution_width' => '1080',
-        'resolution_height' => '1920',
         'nfc_support' => 'true',
     ),
 );

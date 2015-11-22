@@ -4,9 +4,9 @@ return array(
     'fallback'     => 'lg_vx10000_ver1',
     'capabilities' => array(
         'model_name' => 'VX10000',
-        'model_extra_info' => 'Verizon Wireless',
         'marketing_name' => 'Voyager',
-        'streaming_real_media' => 'none',
+        'model_extra_info' => 'Verizon Wireless',
         'streaming_vcodec_h263_0' => '10',
+        'streaming_real_media' => 'none',
     ),
 );

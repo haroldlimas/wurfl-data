@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'A840',
         'model_extra_info' => 'Verizon Wireless',
-        'physical_screen_height' => '44',
         'physical_screen_width' => '35',
+        'physical_screen_height' => '44',
         'streaming_real_media' => 'none',
     ),
 );

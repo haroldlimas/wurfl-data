@@ -6,8 +6,8 @@ return array(
         'model_name' => 'BM-LTBU300',
         'brand_name' => 'ZTE',
         'marketing_name' => 'Light Tab',
-        'density_class' => '1.0',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.0',
     ),
 );

@@ -3,8 +3,8 @@ return array(
     'id'           => 'multitech_ta_m92xbt_ver1',
     'fallback'     => 'generic_android_ver4_2',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'TA-M92XBT',
+        'is_tablet' => 'true',
         'brand_name' => 'Multitech',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '118',

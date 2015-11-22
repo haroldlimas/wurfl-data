@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'L-04A',
         'max_image_width' => '240',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
         'max_image_height' => '313',
         'xhtml_table_support' => 'true',
         'flash_lite_version' => '1_1',

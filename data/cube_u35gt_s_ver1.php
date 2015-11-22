@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Cube',
         'physical_screen_height' => '161',
         'physical_screen_width' => '121',
-        'resolution_width' => '768',
         'resolution_height' => '1024',
+        'resolution_width' => '768',
     ),
 );

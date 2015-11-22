@@ -5,7 +5,10 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '130',
         'physical_screen_width' => '222',
-        'resolution_width' => '1024',
         'resolution_height' => '600',
+        'resolution_width' => '1024',
+        'is_tablet' => 'true',
+        'model_name' => 'MHTMID-B1005DC',
+        'brand_name' => 'Mikona',
     ),
 );

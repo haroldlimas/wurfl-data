@@ -5,13 +5,13 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '33',
-        'is_tablet' => 'true',
         'model_name' => 'HZ1010B-T2',
+        'is_tablet' => 'true',
         'brand_name' => 'Londge',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '136',
         'physical_screen_width' => '218',
-        'resolution_width' => '1280',
         'resolution_height' => '800',
+        'resolution_width' => '1280',
     ),
 );

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'T868',
         'brand_name' => 'Best Sonny',
+        'release_date' => '2012_june',
     ),
 );

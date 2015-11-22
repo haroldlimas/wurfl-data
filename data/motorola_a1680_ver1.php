@@ -4,9 +4,9 @@ return array(
     'fallback'     => 'generic_android_ver1_6',
     'capabilities' => array(
         'max_image_width' => '320',
-        'resolution_width' => '480',
         'resolution_height' => '800',
-        'model_name' => 'A1680',
+        'resolution_width' => '480',
         'brand_name' => 'Motorola',
+        'model_name' => 'A1680',
     ),
 );

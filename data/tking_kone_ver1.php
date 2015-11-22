@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'K-one',
         'brand_name' => 'T-King',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

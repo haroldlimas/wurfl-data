@@ -7,6 +7,7 @@ return array(
         'model_name' => '4018A',
         'brand_name' => 'Alcatel',
         'marketing_name' => 'Pop D1',
+        'release_date' => '2014_september',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

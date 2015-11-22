@@ -5,7 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'HS-U820',
         'brand_name' => 'Hisense',
-        'physical_screen_height' => '74',
+        'release_date' => '2013_february',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'nokia_6210_ver1',
     'capabilities' => array(
         'model_name' => '6210e',
-        'xhtml_support_level' => '-1',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'streaming_real_media' => 'none',
         'flash_lite_version' => '2_1',
         'fl_wallpaper' => 'true',

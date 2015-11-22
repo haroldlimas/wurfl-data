@@ -9,7 +9,7 @@ return array(
         'marketing_name' => 'Champ 3.5G',
         'physical_screen_height' => '58',
         'physical_screen_width' => '44',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

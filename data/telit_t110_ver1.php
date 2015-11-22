@@ -4,14 +4,14 @@ return array(
     'fallback'     => 'telit_gm822_ver1',
     'capabilities' => array(
         'model_name' => 't110',
+        'wallpaper_preferred_height' => '160',
+        'wallpaper_preferred_width' => '128',
+        'ringtone_3gpp' => 'true',
         'ringtone_voices' => '16',
         'wallpaper_colors' => '12',
-        'wallpaper_preferred_width' => '128',
-        'wallpaper_preferred_height' => '160',
         'ringtone_midi_polyphonic' => 'true',
-        'ringtone_3gpp' => 'true',
-        'max_image_width' => '121',
         'resolution_width' => '128',
+        'max_image_width' => '121',
         'streaming_real_media' => 'none',
     ),
 );

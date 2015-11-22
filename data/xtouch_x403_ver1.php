@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'X403',
         'brand_name' => 'Xtouch',
+        'release_date' => '2012_november',
         'physical_screen_height' => '100',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

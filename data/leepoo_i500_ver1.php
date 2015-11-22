@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'i500',
         'brand_name' => 'Leepoo',
+        'release_date' => '2012_may',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

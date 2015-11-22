@@ -8,7 +8,7 @@ return array(
         'model_extra_info' => 'aka Robyn',
         'physical_screen_height' => '52',
         'physical_screen_width' => '39',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

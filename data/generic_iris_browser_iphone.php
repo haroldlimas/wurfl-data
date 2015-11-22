@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'device_os' => 'Windows Mobile OS',
         'device_os_version' => '5',
-        'resolution_width' => '320',
         'resolution_height' => '320',
+        'resolution_width' => '320',
     ),
 );

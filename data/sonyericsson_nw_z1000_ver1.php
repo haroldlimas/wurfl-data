@@ -6,10 +6,11 @@ return array(
         'model_name' => 'NW-Z1000',
         'brand_name' => 'SonyEricsson',
         'can_assign_phone_number' => 'false',
+        'release_date' => '2012_february',
         'physical_screen_height' => '86',
-        'density_class' => '1.5',
         'physical_screen_width' => '69',
-        'resolution_width' => '640',
         'resolution_height' => '800',
+        'resolution_width' => '640',
+        'density_class' => '1.5',
     ),
 );

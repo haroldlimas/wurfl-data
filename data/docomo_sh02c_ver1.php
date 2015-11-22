@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'SH-02C',
         'release_date' => '2010_november',
+        'max_image_width' => '240',
+        'max_image_height' => '328',
+        'resolution_width' => '480',
+        'resolution_height' => '854',
         'physical_screen_height' => '71',
         'physical_screen_width' => '40',
-        'max_image_width' => '240',
-        'resolution_height' => '854',
-        'resolution_width' => '480',
-        'max_image_height' => '328',
         'flash_lite_version' => '3_1',
     ),
 );

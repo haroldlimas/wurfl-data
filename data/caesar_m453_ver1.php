@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Caesar',
         'physical_screen_height' => '106',
         'physical_screen_width' => '71',
-        'resolution_width' => '640',
         'resolution_height' => '960',
+        'resolution_width' => '640',
     ),
 );

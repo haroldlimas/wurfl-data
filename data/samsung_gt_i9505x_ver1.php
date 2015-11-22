@@ -5,12 +5,15 @@ return array(
     'capabilities' => array(
         'model_name' => 'GT-i9505x',
         'brand_name' => 'Samsung',
-        'marketing_name' => 'Samsung Galaxy S4 LTE',
         'release_date' => '2013_june',
+        'marketing_name' => 'Samsung Galaxy S4 LTE',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
+        'density_class' => '3.0',
+        'max_image_width' => '360',
+        'max_image_height' => '640',
         'nfc_support' => 'true',
     ),
 );

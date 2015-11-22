@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'RAZR V9m',
         'model_extra_info' => 'Verizon Wireless',
-        'playback_mp4' => 'true',
-        'playback_3gpp' => 'true',
-        'playback_3g2' => 'true',
         'playback_vcodec_h263_0' => '10',
+        'playback_3g2' => 'true',
+        'playback_3gpp' => 'true',
+        'playback_mp4' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

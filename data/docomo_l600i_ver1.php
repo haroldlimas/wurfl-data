@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'colors' => '65536',
         'max_image_width' => '170',
-        'resolution_width' => '176',
-        'resolution_height' => '220',
         'max_image_height' => '189',
+        'resolution_height' => '220',
+        'resolution_width' => '176',
         'preferred_markup' => 'html_wi_imode_htmlx_1_1',
         'model_name' => 'L600i',
         'flash_lite_version' => '',

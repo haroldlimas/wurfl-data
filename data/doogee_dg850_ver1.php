@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'DG850',
         'brand_name' => 'DOOGEE',
-        'marketing_name' => 'HITMAN DG850',
         'release_date' => '2014_june',
+        'marketing_name' => 'HITMAN DG850',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

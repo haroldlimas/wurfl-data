@@ -7,10 +7,10 @@ return array(
         'model_extra_info' => 'Verizon Wireless',
         'gif_animated' => 'true',
         'wallpaper_jpg' => 'true',
-        'playback_mp4' => 'true',
-        'playback_3gpp' => 'true',
-        'playback_acodec_amr' => 'nb',
         'playback_3g2' => 'true',
+        'playback_3gpp' => 'true',
+        'playback_mp4' => 'true',
+        'playback_acodec_amr' => 'nb',
         'streaming_real_media' => 'none',
     ),
 );

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH T599N',
         'brand_name' => 'Samsung',
+        'release_date' => '2013_may',
     ),
 );

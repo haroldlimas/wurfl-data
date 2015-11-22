@@ -5,13 +5,13 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '30',
-        'is_tablet' => 'true',
         'model_name' => 'MT-830',
         'brand_name' => 'Vidix',
+        'is_tablet' => 'true',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '153',
         'physical_screen_width' => '92',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

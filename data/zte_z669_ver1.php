@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Z669',
         'brand_name' => 'ZTE',
-        'marketing_name' => 'Prelude 2',
         'release_date' => '2014_december',
+        'marketing_name' => 'Prelude 2',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

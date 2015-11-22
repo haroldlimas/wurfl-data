@@ -3,8 +3,8 @@ return array(
     'id'           => 'allwinner_m901d_ver1',
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'M901D',
+        'is_tablet' => 'true',
         'brand_name' => 'Allwinner',
         'can_assign_phone_number' => 'true',
         'release_date' => '2014_november',

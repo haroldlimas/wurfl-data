@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'generic_android_ver4_2_tablet',
     'capabilities' => array(
         'model_name' => 'A70M',
-        'brand_name' => 'China',
+        'brand_name' => 'Alldaymall',
         'physical_screen_height' => '92',
         'physical_screen_width' => '153',
-        'resolution_width' => '800',
         'resolution_height' => '480',
+        'resolution_width' => '800',
     ),
 );

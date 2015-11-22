@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'E5680',
         'brand_name' => 'Konka',
+        'release_date' => '2012_august',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

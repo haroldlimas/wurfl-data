@@ -4,9 +4,9 @@ return array(
     'fallback'     => 'mot_mib22_generic',
     'capabilities' => array(
         'model_name' => 'C698p',
-        'max_image_width' => '170',
-        'resolution_height' => '220',
         'resolution_width' => '176',
+        'resolution_height' => '220',
+        'max_image_width' => '170',
         'max_image_height' => '220',
         'wallpaper' => 'true',
         'screensaver' => 'true',

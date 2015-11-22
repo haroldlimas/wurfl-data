@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'i365/i365is',
         'brand_name' => 'Motorola',
-        'model_extra_info' => 'for Nextel',
         'marketing_name' => 'iDEN i365/i365is',
+        'model_extra_info' => 'for Nextel',
         'release_date' => '2008_september',
     ),
 );

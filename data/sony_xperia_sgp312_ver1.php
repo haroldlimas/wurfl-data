@@ -8,8 +8,8 @@ return array(
         'brand_name' => 'Sony',
         'physical_screen_height' => '136',
         'physical_screen_width' => '218',
-        'resolution_width' => '1920',
         'resolution_height' => '1200',
+        'resolution_width' => '1920',
         'nfc_support' => 'true',
     ),
 );

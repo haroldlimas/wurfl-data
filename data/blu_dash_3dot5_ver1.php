@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Dash 3.5',
         'brand_name' => 'Blu',
-        'marketing_name' => 'Dash 3.5',
         'release_date' => '2012_september',
+        'marketing_name' => 'Dash 3.5',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

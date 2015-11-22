@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
         'model_name' => 'T790',
-        'manufacturer_name' => 'ZTE',
         'brand_name' => 'Telstra',
+        'manufacturer_name' => 'ZTE',
         'marketing_name' => 'Pulse',
         'release_date' => '2013_october',
         'physical_screen_height' => '74',

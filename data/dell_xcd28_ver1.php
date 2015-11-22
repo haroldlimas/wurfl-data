@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'XCD28',
         'brand_name' => 'Dell',
-        'model_extra_info' => 'Rebranded as XCD28',
         'marketing_name' => '',
+        'model_extra_info' => 'Rebranded as XCD28',
     ),
 );

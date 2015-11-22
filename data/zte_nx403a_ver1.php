@@ -6,9 +6,10 @@ return array(
         'model_name' => 'NX403A',
         'brand_name' => 'ZTE',
         'marketing_name' => 'Nubia Z5S',
+        'release_date' => '2013_december',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

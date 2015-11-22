@@ -7,9 +7,9 @@ return array(
         'mobile_browser' => 'Opera',
         'mobile_browser_version' => '8.6',
         'video' => 'true',
-        'playback_acodec_aac' => 'lc',
         'playback_3gpp' => 'true',
-        'playback_acodec_amr' => 'nb',
         'playback_vcodec_h263_0' => '40',
+        'playback_acodec_aac' => 'lc',
+        'playback_acodec_amr' => 'nb',
     ),
 );

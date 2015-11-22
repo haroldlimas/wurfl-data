@@ -6,9 +6,10 @@ return array(
         'model_name' => 'ALE-L21',
         'brand_name' => 'Huawei',
         'release_date' => '2015_may',
+        'marketing_name' => 'P8 Lite',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

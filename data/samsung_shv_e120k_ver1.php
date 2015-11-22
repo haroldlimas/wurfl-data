@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'SHV-E120K',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'Korean Telecom',
         'marketing_name' => 'Galaxy SII HD',
+        'model_extra_info' => 'Korean Telecom',
+        'release_date' => '2011_december',
         'physical_screen_height' => '105',
-        'density_class' => '2.0',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
+        'density_class' => '2.0',
     ),
 );

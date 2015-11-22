@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Yummy Duo',
         'brand_name' => 'Highscreen',
+        'device_os_version' => '2.3',
     ),
 );

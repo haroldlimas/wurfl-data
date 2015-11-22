@@ -6,9 +6,10 @@ return array(
         'model_name' => 'Crescent',
         'brand_name' => 'ZTE',
         'marketing_name' => 'San Francisco II',
+        'release_date' => '2011_november',
         'physical_screen_height' => '77',
         'physical_screen_width' => '46',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

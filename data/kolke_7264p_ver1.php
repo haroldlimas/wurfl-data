@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
         'mobile_browser_version' => '30',
-        'is_tablet' => 'true',
         'model_name' => '7264P',
         'brand_name' => 'Kolke',
         'release_date' => '2013_june',
+        'is_tablet' => 'true',
         'physical_screen_height' => '92',
         'physical_screen_width' => '153',
         'resolution_width' => '800',

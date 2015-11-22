@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'A10',
         'brand_name' => 'Bellefonte',
+        'release_date' => '2012_march',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

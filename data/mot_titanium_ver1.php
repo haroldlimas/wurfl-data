@@ -7,9 +7,9 @@ return array(
         'brand_name' => 'Motorola',
         'release_date' => '2011_may',
         'physical_screen_height' => '66',
-        'density_class' => '1.0',
         'physical_screen_width' => '44',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
+        'density_class' => '1.0',
     ),
 );

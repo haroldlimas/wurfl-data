@@ -6,7 +6,7 @@ return array(
         'model_name' => 'Aqua QWERTY',
         'brand_name' => 'Intex',
         'release_date' => '2014_april',
-        'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'apple_iphone_ver4',
     'capabilities' => array(
         'model_name' => 'A1241',
-        'model_extra_info' => '',
         'marketing_name' => 'iPhone 3G',
+        'model_extra_info' => '',
     ),
 );

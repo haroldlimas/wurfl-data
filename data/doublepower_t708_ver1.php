@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '30',
-        'is_tablet' => 'true',
         'model_name' => 'T-708',
+        'is_tablet' => 'true',
         'brand_name' => 'Double Power',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '92',

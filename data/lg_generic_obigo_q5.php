@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Teleca-Obigo',
         'mobile_browser_version' => '5.0',
-        'brand_name' => 'LG',
         'release_date' => '2006_july',
+        'brand_name' => 'LG',
         'image_inlining' => 'true',
         'css_spriting' => 'true',
     ),

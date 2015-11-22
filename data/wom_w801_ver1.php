@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'W801',
         'brand_name' => 'WOM',
+        'release_date' => '2011_june',
         'physical_screen_height' => '77',
         'physical_screen_width' => '46',
     ),

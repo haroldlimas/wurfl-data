@@ -8,7 +8,7 @@ return array(
         'model_extra_info' => 'Black',
         'physical_screen_height' => '120',
         'physical_screen_width' => '72',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

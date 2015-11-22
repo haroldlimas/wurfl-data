@@ -6,8 +6,8 @@ return array(
         'model_name' => 'A210',
         'brand_name' => 'Cricket',
         'marketing_name' => 'CAPTR II',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
         'colors' => '262144',
     ),
 );

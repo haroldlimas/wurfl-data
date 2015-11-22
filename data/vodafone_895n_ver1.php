@@ -6,5 +6,6 @@ return array(
         'model_name' => '895n',
         'brand_name' => 'Vodafone',
         'marketing_name' => 'Smart Prime 6',
+        'release_date' => '2015_may',
     ),
 );

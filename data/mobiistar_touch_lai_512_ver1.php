@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'Touch Lai 512',
         'brand_name' => 'Mobiistar',
-        'marketing_name' => 'Touch Lai 512',
         'release_date' => '2013_october',
+        'marketing_name' => 'Touch Lai 512',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

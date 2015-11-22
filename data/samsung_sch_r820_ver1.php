@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'SCH-R820',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'for MetroPCS',
         'marketing_name' => 'Samsung Galaxy Admire 4G',
+        'model_extra_info' => 'for MetroPCS',
         'release_date' => '2013_february',
         'physical_screen_height' => '78',
-        'density_class' => '1.0',
         'physical_screen_width' => '52',
+        'density_class' => '1.0',
     ),
 );

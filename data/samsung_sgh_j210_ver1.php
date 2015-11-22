@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-J210',
         'brand_name' => 'Samsung',
-        'physical_screen_height' => '32',
         'physical_screen_width' => '32',
+        'physical_screen_height' => '32',
         'streaming_real_media' => 'none',
     ),
 );

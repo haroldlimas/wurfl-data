@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Defy Pro',
         'release_date' => '2012_april',
         'physical_screen_height' => '58',
-        'density_class' => '1.0',
         'physical_screen_width' => '39',
+        'density_class' => '1.0',
     ),
 );

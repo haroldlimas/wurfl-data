@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'F-05F',
         'brand_name' => 'Fujitsu',
-        'marketing_name' => 'Arrows NX',
         'release_date' => '2014_may',
+        'marketing_name' => 'Arrows NX',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

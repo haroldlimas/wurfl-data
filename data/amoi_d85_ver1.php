@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'D85',
         'brand_name' => 'Amoi',
+        'resolution_width' => '128',
         'max_image_width' => '121',
         'resolution_height' => '160',
-        'resolution_width' => '128',
         'max_image_height' => '130',
         'streaming_real_media' => 'none',
     ),

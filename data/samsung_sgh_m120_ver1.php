@@ -6,8 +6,8 @@ return array(
         'model_name' => 'SGH M120',
         'brand_name' => 'Samsung',
         'release_date' => '2008_january',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
         'streaming_real_media' => 'none',
     ),
 );

@@ -6,9 +6,10 @@ return array(
         'model_name' => 'L86C',
         'brand_name' => 'LG',
         'marketing_name' => 'Optimus Showtime',
+        'release_date' => '2013_february',
         'physical_screen_height' => '94',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

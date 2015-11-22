@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Android 4.3',
         'device_os_version' => '4.3',
+        'release_date' => '2013_july',
     ),
 );

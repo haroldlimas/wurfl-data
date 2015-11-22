@@ -6,6 +6,7 @@ return array(
         'model_name' => 'E621',
         'brand_name' => 'K-Touch',
         'model_extra_info' => 'China Mobile',
+        'release_date' => '2012_september',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

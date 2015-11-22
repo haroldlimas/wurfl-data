@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => '4110',
         'brand_name' => 'TCL',
+        'release_date' => '2013_august',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

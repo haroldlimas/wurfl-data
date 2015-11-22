@@ -7,9 +7,10 @@ return array(
         'brand_name' => 'Coolpad',
         'marketing_name' => 'S6',
         'release_date' => '2014_may',
+        'device_os_version' => '4.3',
         'physical_screen_height' => '132',
         'physical_screen_width' => '75',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'VX8000',
         'model_extra_info' => 'Verizon Wireless',
-        'wallpaper_png' => 'false',
         'ringtone_mp3' => 'true',
+        'wallpaper_png' => 'false',
         'streaming_real_media' => 'none',
     ),
 );

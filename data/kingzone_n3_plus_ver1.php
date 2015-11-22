@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'model_name' => 'N3 Plus',
-        'brand_name' => 'Kingzone',
+        'brand_name' => 'KingZone',
         'release_date' => '2013_december',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

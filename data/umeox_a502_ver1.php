@@ -6,7 +6,7 @@ return array(
         'model_name' => 'A502',
         'brand_name' => 'Umeox',
         'physical_screen_height' => '68',
-        'density_class' => '1.0',
         'physical_screen_width' => '46',
+        'density_class' => '1.0',
     ),
 );

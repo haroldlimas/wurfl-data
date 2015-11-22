@@ -7,7 +7,7 @@ return array(
         'model_extra_info' => '',
         'physical_screen_height' => '161',
         'physical_screen_width' => '121',
-        'resolution_width' => '1536',
         'resolution_height' => '20',
+        'resolution_width' => '1536',
     ),
 );

@@ -6,7 +6,7 @@ return array(
         'pointing_method' => 'touchscreen',
         'model_name' => 'E500',
         'brand_name' => 'LG',
-        'resolution_width' => '240',
         'resolution_height' => '400',
+        'resolution_width' => '240',
     ),
 );

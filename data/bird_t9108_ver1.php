@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'T9108',
         'brand_name' => 'Bird',
+        'release_date' => '2012_september',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

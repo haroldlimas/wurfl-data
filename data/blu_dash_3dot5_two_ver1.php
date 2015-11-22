@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'DASH 3.5 II',
         'brand_name' => 'Blu',
+        'release_date' => '2015_january',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

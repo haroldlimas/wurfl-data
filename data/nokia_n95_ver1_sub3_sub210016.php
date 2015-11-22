@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'nokia_n95_ver1_sub100014',
     'capabilities' => array(
         'flash_lite_version' => '3_0',
-        'wifi' => 'true',
         'max_data_rate' => '1800',
+        'wifi' => 'true',
         'accept_third_party_cookie' => 'false',
     ),
 );

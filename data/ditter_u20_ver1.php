@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'U20',
         'brand_name' => 'Ditter',
+        'is_smarttv' => 'true',
     ),
 );

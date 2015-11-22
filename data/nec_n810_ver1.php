@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'N810',
         'brand_name' => 'NEC',
-        'max_image_width' => '155',
         'resolution_width' => '160',
+        'max_image_width' => '155',
         'streaming_real_media' => 'none',
     ),
 );

@@ -4,12 +4,12 @@ return array(
     'fallback'     => 'sie_ef81_ver1',
     'capabilities' => array(
         'brand_name' => 'BenQ-Siemens',
-        'physical_screen_height' => '45',
         'physical_screen_width' => '34',
-        'playback_mp4' => 'true',
-        'playback_3gpp' => 'true',
-        'playback_acodec_amr' => 'nb',
+        'physical_screen_height' => '45',
         'playback_3g2' => 'true',
+        'playback_3gpp' => 'true',
+        'playback_mp4' => 'true',
+        'playback_acodec_amr' => 'nb',
         'streaming_real_media' => 'none',
     ),
 );

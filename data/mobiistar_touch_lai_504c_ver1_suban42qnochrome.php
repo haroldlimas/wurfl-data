@@ -6,10 +6,10 @@ return array(
         'mobile_browser' => 'Android Webkit',
         'mobile_browser_version' => '',
         'model_name' => 'Touch Lai 504Q',
-        'device_os_version' => '4.2',
         'marketing_name' => 'Touch Lai 504Q',
         'release_date' => '2014_june',
-        'resolution_width' => '480',
+        'device_os_version' => '4.2',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

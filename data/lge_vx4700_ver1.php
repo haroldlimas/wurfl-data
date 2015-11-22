@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'VX4700',
         'brand_name' => 'LG',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
         'max_image_height' => '100',
         'streaming_real_media' => 'none',
     ),

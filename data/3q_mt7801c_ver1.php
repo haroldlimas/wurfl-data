@@ -7,7 +7,7 @@ return array(
         'brand_name' => '3Q',
         'physical_screen_height' => '150',
         'physical_screen_width' => '120',
-        'resolution_width' => '768',
         'resolution_height' => '1024',
+        'resolution_width' => '768',
     ),
 );

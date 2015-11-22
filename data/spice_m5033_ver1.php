@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Boss M-5033',
         'physical_screen_height' => '94',
         'physical_screen_width' => '75',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
     ),
 );

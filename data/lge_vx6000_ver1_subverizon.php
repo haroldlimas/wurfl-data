@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'VX6000',
         'model_extra_info' => 'Verizon Wireless',
-        'ringtone_mp3' => 'false',
         'wallpaper_png' => 'false',
+        'ringtone_mp3' => 'false',
         'ringtone_qcelp' => 'false',
         'mms_qcelp' => 'false',
         'streaming_real_media' => 'none',

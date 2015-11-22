@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'S680',
         'brand_name' => 'Lenovo',
+        'release_date' => '2012_july',
         'physical_screen_height' => '94',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

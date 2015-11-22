@@ -7,7 +7,7 @@ return array(
         'mobile_browser_version' => '9',
         'model_name' => 'iPhone 5',
         'physical_screen_height' => '89',
-        'resolution_width' => '640',
         'resolution_height' => '1136',
+        'resolution_width' => '640',
     ),
 );

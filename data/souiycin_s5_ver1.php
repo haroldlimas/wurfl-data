@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Souiycin',
         'physical_screen_height' => '148',
         'physical_screen_width' => '198',
-        'resolution_width' => '1024',
         'resolution_height' => '768',
+        'resolution_width' => '1024',
     ),
 );

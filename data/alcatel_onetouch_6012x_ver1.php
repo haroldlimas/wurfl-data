@@ -6,10 +6,10 @@ return array(
         'model_name' => 'One Touch 6012X',
         'brand_name' => 'Alcatel',
         'marketing_name' => 'Touch Idol Mini',
-        'release_date' => '2013_december',
+        'release_date' => '2013_september',
         'physical_screen_height' => '96',
         'physical_screen_width' => '54',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

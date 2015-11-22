@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => '709v82_jbla198',
         'brand_name' => 'Alps',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

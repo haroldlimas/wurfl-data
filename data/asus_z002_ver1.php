@@ -7,9 +7,10 @@ return array(
         'mobile_browser_version' => '28',
         'model_name' => 'Z002',
         'brand_name' => 'Asus',
+        'marketing_name' => 'ZenFone 6',
         'physical_screen_height' => '133',
         'physical_screen_width' => '75',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

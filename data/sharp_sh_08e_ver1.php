@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Aquos Pad',
         'physical_screen_height' => '151',
         'physical_screen_width' => '95',
-        'resolution_width' => '1200',
         'resolution_height' => '1920',
+        'resolution_width' => '1200',
     ),
 );

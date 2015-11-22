@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'htc_evo_3d_ver1',
     'capabilities' => array(
         'model_name' => 'X515C',
-        'device_os_version' => '4.0',
         'marketing_name' => 'EVO 3D',
+        'device_os_version' => '4.0',
     ),
 );

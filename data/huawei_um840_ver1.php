@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'UM840',
         'brand_name' => 'Huawei',
-        'model_extra_info' => 'Movilnet',
         'marketing_name' => 'Evolution',
+        'model_extra_info' => 'Movilnet',
+        'density_class' => '1.0',
         'physical_screen_height' => '68',
         'physical_screen_width' => '46',
-        'density_class' => '1.0',
     ),
 );

@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'lg_e975_ver1',
     'capabilities' => array(
         'mobile_browser_version' => '37',
-        'model_name' => 'E977',
         'device_os_version' => '4.1',
+        'model_name' => 'E977',
     ),
 );

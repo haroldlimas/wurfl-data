@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'L39C/V100',
         'brand_name' => 'LG',
+        'release_date' => '2013_october',
         'physical_screen_height' => '81',
         'physical_screen_width' => '54',
     ),

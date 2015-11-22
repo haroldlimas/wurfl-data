@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Claro',
         'physical_screen_height' => '29',
         'physical_screen_width' => '36',
-        'resolution_width' => '160',
         'resolution_height' => '128',
+        'resolution_width' => '160',
     ),
 );

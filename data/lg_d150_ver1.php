@@ -7,6 +7,7 @@ return array(
         'model_name' => 'D150',
         'brand_name' => 'LG',
         'release_date' => '2014_may',
+        'marketing_name' => 'L35',
         'physical_screen_height' => '68',
         'physical_screen_width' => '46',
     ),

@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Z788G',
         'brand_name' => 'ZTE',
+        'release_date' => '2012_august',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

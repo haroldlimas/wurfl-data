@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Tecno',
         'physical_screen_height' => '37',
         'physical_screen_width' => '55',
-        'resolution_width' => '480',
         'resolution_height' => '320',
+        'resolution_width' => '480',
     ),
 );

@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'ASK',
         'physical_screen_height' => '129',
         'physical_screen_width' => '73',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

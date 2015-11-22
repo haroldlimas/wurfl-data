@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'B8401',
         'brand_name' => 'Bitel',
+        'release_date' => '2012_may',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

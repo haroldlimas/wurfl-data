@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'htc_one_s_ver1',
     'capabilities' => array(
         'model_name' => 'Z560e',
-        'device_os_version' => '4.1',
         'brand_name' => 'HTC',
+        'device_os_version' => '4.1',
     ),
 );

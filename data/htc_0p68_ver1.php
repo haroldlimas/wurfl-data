@@ -7,6 +7,7 @@ return array(
         'model_name' => '0P6B',
         'brand_name' => 'HTC',
         'marketing_name' => 'M8 Mini',
+        'release_date' => '2014_march',
         'nfc_support' => 'true',
     ),
 );

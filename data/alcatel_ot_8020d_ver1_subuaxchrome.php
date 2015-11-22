@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'mobile_browser_version' => '33',
-        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ONE_TOUCH_8020X.xml',
         'model_name' => 'ONE TOUCH 8020X',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ONE_TOUCH_8020X.xml',
         'marketing_name' => 'ALCATEL ONE TOUCH 8020X',
     ),
 );

@@ -6,9 +6,10 @@ return array(
         'model_name' => 'L22',
         'brand_name' => 'LG',
         'release_date' => '2013_november',
+        'marketing_name' => 'G2',
         'physical_screen_height' => '116',
         'physical_screen_width' => '65',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

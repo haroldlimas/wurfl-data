@@ -5,5 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Fire OS',
         'brand_name' => 'Amazon',
+        'pointing_method' => 'clickwheel',
+        'is_smarttv' => 'true',
     ),
 );

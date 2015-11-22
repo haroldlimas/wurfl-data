@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'video' => 'true',
         'playback_3gpp' => 'true',
-        'playback_acodec_amr' => 'nb',
         'playback_vcodec_h263_0' => '40',
+        'playback_acodec_amr' => 'nb',
     ),
 );

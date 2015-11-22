@@ -5,5 +5,7 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'model_name' => 'U700',
+        'brand_name' => 'Unnecto',
     ),
 );

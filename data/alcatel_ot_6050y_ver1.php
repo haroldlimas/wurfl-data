@@ -8,11 +8,11 @@ return array(
         'model_name' => 'ONE TOUCH 6050Y',
         'brand_name' => 'Alcatel',
         'marketing_name' => 'Idol 2 S',
-        'release_date' => '2014_april',
+        'release_date' => '2014_june',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

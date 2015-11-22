@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'softbank_generic',
     'capabilities' => array(
         'flash_lite_version' => '3_0',
-        'resolution_height' => '400',
         'max_image_height' => '350',
+        'resolution_height' => '400',
         'model_name' => '832SH s',
     ),
 );

@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'winwap_ver3',
     'capabilities' => array(
         'model_name' => 'WinWAP Pro 3.1',
-        'greyscale' => 'true',
         'png' => 'false',
+        'greyscale' => 'true',
     ),
 );

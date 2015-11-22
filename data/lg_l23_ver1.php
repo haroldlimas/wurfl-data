@@ -6,10 +6,11 @@ return array(
         'model_name' => 'L23',
         'brand_name' => 'LG',
         'marketing_name' => 'G Flex',
+        'release_date' => '2013_november',
         'physical_screen_height' => '133',
         'physical_screen_width' => '75',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

@@ -6,6 +6,7 @@ return array(
         'model_name' => 'PAP3540DUO',
         'brand_name' => 'Prestigio',
         'marketing_name' => 'MultiPhone 3540 Duo',
+        'release_date' => '2013_august',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

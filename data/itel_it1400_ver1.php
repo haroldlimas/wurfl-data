@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'IT1400',
         'brand_name' => 'Itel',
+        'marketing_name' => 'Itel iNote Mini',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

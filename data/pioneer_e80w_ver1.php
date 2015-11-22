@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'E80w',
         'brand_name' => 'Pioneer',
+        'release_date' => '2012_august',
         'physical_screen_height' => '103',
         'physical_screen_width' => '58',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

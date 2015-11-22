@@ -6,6 +6,7 @@ return array(
         'model_name' => 'icx1227',
         'brand_name' => 'Sony',
         'marketing_name' => 'Walkman',
+        'release_date' => '2012_october',
         'physical_screen_height' => '68',
         'physical_screen_width' => '46',
     ),

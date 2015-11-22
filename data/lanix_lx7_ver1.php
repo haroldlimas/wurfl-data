@@ -8,7 +8,7 @@ return array(
         'model_extra_info' => 'for Telcel',
         'physical_screen_height' => '36',
         'physical_screen_width' => '47',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

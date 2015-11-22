@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '166',
         'physical_screen_width' => '104',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
         'device_os_version' => '4.0',
     ),
 );

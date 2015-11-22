@@ -6,6 +6,7 @@ return array(
         'model_name' => 'X1',
         'brand_name' => 'Intex',
         'marketing_name' => 'Cloud',
+        'release_date' => '2013_july',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

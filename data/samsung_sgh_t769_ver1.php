@@ -5,12 +5,14 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-T769',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'T-Mobile',
         'marketing_name' => 'Galaxy S Blaze 4G',
+        'model_extra_info' => 'T-Mobile',
+        'release_date' => '2012_january',
         'physical_screen_height' => '87',
-        'density_class' => '1.5',
         'physical_screen_width' => '52',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
+        'max_image_height' => '533',
     ),
 );

@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => '8050',
         'brand_name' => 'Coolpad',
+        'release_date' => '2012_april',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
     ),
 );

@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'S4505M',
         'brand_name' => 'DNS',
+        'resolution_width' => '540',
         'physical_screen_height' => '102',
         'physical_screen_width' => '58',
         'resolution_height' => '960',
-        'resolution_width' => '540',
     ),
 );

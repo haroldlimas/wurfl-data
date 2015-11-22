@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'A390t',
         'brand_name' => 'Lenovo',
+        'release_date' => '2013_april',
     ),
 );

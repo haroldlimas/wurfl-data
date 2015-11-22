@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '30',
-        'model_name' => 'S850c',
         'device_os_version' => '4.4',
+        'model_name' => 'S850c',
     ),
 );

@@ -5,10 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'Auxus Note 5.5',
         'brand_name' => 'iBerry',
+        'release_date' => '2014_august',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

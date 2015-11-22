@@ -9,9 +9,9 @@ return array(
         'can_assign_phone_number' => 'false',
         'release_date' => '2009_september',
         'physical_screen_height' => '73',
-        'dual_orientation' => 'true',
         'physical_screen_width' => '42',
-        'resolution_width' => '272',
         'resolution_height' => '480',
+        'resolution_width' => '272',
+        'dual_orientation' => 'true',
     ),
 );

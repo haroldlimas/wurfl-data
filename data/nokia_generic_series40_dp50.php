@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'nokia_edition' => '5',
         'flash_lite_version' => '2_1',
-        'streaming_acodec_aac' => 'lc',
-        'streaming_vcodec_h263_0' => '10',
         'streaming_acodec_amr' => 'nb',
+        'streaming_vcodec_h263_0' => '10',
+        'streaming_acodec_aac' => 'lc',
         'ringtone_mp3' => 'true',
         'cookie_support' => 'true',
         'resolution_width' => '176',

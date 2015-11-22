@@ -6,11 +6,11 @@ return array(
         'model_name' => 'GT-I8200N',
         'brand_name' => 'Samsung',
         'marketing_name' => 'S III mini',
-        'release_date' => '2014_march',
+        'release_date' => '2012_november',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
         'nfc_support' => 'true',
     ),
 );

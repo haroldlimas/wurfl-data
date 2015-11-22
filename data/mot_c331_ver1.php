@@ -3,8 +3,8 @@ return array(
     'id'           => 'mot_c331_ver1',
     'fallback'     => 'uptext_generic',
     'capabilities' => array(
-        'model_name' => 'C331',
         'brand_name' => 'Motorola',
+        'model_name' => 'C331',
         'text_imelody' => 'true',
         'ringtone_voices' => '16',
         'ringtone_midi_monophonic' => 'true',

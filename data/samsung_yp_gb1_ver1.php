@@ -8,9 +8,9 @@ return array(
         'marketing_name' => 'Player 4',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '88',
-        'density_class' => '1.5',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

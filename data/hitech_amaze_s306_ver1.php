@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Amaze S306',
         'brand_name' => 'Hitech',
+        'release_date' => '2015_march',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

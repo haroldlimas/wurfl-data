@@ -4,9 +4,9 @@ return array(
     'fallback'     => 'sec_e530_ver1',
     'capabilities' => array(
         'max_data_rate' => '40',
-        'wallpaper_jpg' => 'true',
-        'wallpaper_preferred_width' => '173',
         'wallpaper_preferred_height' => '174',
+        'wallpaper_preferred_width' => '173',
+        'wallpaper_jpg' => 'true',
         'j2me_max_jar_size' => '300000',
     ),
 );

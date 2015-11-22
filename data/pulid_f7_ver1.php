@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'F7',
         'brand_name' => 'Pulid',
+        'release_date' => '2012_june',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

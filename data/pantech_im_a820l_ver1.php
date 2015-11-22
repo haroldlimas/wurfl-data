@@ -6,10 +6,11 @@ return array(
         'model_name' => 'IM-A820L',
         'brand_name' => 'Pantech',
         'marketing_name' => 'Vega LTE EX',
+        'release_date' => '2012_january',
         'physical_screen_height' => '98',
-        'density_class' => '2.0',
         'physical_screen_width' => '61',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
+        'density_class' => '2.0',
     ),
 );

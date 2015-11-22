@@ -4,11 +4,11 @@ return array(
     'fallback'     => 'generic_android_ver4_2',
     'capabilities' => array(
         'model_name' => 'MX X3',
-        'brand_name' => 'Pandawill',
+        'brand_name' => 'Maxon',
         'release_date' => '2013_september',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

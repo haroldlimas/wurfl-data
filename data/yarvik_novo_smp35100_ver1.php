@@ -6,5 +6,6 @@ return array(
         'model_name' => 'SMP35-100',
         'brand_name' => 'Yarvik',
         'marketing_name' => 'Novo Compact',
+        'release_date' => '2013_april',
     ),
 );

@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'ME550c',
         'video' => 'true',
-        'max_image_width' => '169',
         'resolution_width' => '176',
-        'playback_acodec_aac' => 'heaac',
+        'max_image_width' => '169',
         'playback_3gpp' => 'true',
+        'playback_acodec_aac' => 'heaac',
         'playback_acodec_amr' => 'nb',
-        'streaming_acodec_aac' => 'heaac',
         'streaming_real_media' => 'none',
+        'streaming_acodec_aac' => 'heaac',
     ),
 );

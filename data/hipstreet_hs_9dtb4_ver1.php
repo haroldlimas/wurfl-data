@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Hipstreet',
         'physical_screen_height' => '118',
         'physical_screen_width' => '197',
-        'resolution_width' => '800',
         'resolution_height' => '480',
+        'resolution_width' => '800',
     ),
 );

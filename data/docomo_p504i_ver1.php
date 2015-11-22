@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'docomo_generic_jap_ver1',
     'capabilities' => array(
         'model_name' => 'P504i',
-        'max_image_width' => '132',
         'rows' => '9',
-        'resolution_height' => '144',
         'resolution_width' => '132',
+        'resolution_height' => '144',
+        'max_image_width' => '132',
         'max_image_height' => '108',
         'j2me_storage_size' => '1500',
         'streaming_real_media' => 'none',

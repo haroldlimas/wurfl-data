@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Artes',
         'physical_screen_height' => '148',
         'physical_screen_width' => '198',
-        'resolution_width' => '2048',
         'resolution_height' => '1536',
+        'resolution_width' => '2048',
     ),
 );

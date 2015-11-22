@@ -8,9 +8,9 @@ return array(
         'marketing_name' => 'Galaxy S Duos',
         'release_date' => '2011_august',
         'physical_screen_height' => '99',
-        'density_class' => '1.5',
         'physical_screen_width' => '60',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

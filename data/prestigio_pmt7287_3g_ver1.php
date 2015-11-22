@@ -5,13 +5,13 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'mobile_browser_version' => '36',
-        'is_tablet' => 'true',
         'model_name' => 'PMT7287_3G',
         'brand_name' => 'Prestigio',
+        'is_tablet' => 'true',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '105',
         'physical_screen_width' => '175',
-        'resolution_width' => '1280',
         'resolution_height' => '768',
+        'resolution_width' => '1280',
     ),
 );

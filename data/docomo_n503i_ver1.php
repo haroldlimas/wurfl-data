@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'N503i',
         'columns' => '10',
-        'max_image_width' => '118',
         'rows' => '10',
-        'resolution_height' => '130',
         'resolution_width' => '120',
+        'resolution_height' => '130',
+        'max_image_width' => '118',
         'max_image_height' => '128',
         'j2me_storage_size' => '96',
         'streaming_real_media' => 'none',

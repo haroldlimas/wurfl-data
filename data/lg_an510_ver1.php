@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'has_qwerty_keyboard' => 'true',
         'pointing_method' => 'touchscreen',
-        'uaprof' => 'http://uaprof.ntelospcs.net/AN510.xml',
         'model_name' => 'AN510',
+        'uaprof' => 'http://uaprof.ntelospcs.net/AN510.xml',
         'brand_name' => 'LG',
         'marketing_name' => 'Prestige',
         'physical_screen_height' => '60',

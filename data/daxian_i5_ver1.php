@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'I5',
         'brand_name' => 'DaXian',
+        'release_date' => '2012_december',
         'physical_screen_height' => '127',
         'physical_screen_width' => '85',
     ),

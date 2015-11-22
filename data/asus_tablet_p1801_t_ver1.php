@@ -9,7 +9,7 @@ return array(
         'marketing_name' => 'Tablet AiO',
         'physical_screen_height' => '230',
         'physical_screen_width' => '408',
-        'resolution_width' => '1920',
         'resolution_height' => '1080',
+        'resolution_width' => '1920',
     ),
 );

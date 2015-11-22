@@ -6,10 +6,10 @@ return array(
         'model_name' => 'n22i',
         'jpg' => 'true',
         'colors' => '4096',
-        'ringtone_voices' => '40',
         'wallpaper_colors' => '12',
         'wallpaper_jpg' => 'true',
         'wallpaper_preferred_height' => '130',
+        'ringtone_voices' => '40',
         'streaming_real_media' => 'none',
     ),
 );

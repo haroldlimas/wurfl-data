@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'Y770',
         'brand_name' => 'ZTE',
+        'mobileoptimized' => 'false',
+        'handheldfriendly' => 'true',
+        'image_inlining' => 'true',
         'viewport_width' => '',
         'viewport_supported' => 'false',
-        'mobileoptimized' => 'false',
-        'image_inlining' => 'true',
-        'handheldfriendly' => 'true',
         'css_spriting' => 'true',
     ),
 );

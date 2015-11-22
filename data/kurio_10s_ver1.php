@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => '10S',
         'brand_name' => 'Kurio',
+        'resolution_width' => '1280',
         'physical_screen_height' => '136',
         'physical_screen_width' => '218',
-        'resolution_width' => '1280',
     ),
 );

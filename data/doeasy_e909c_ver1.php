@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'E909C',
         'brand_name' => 'Doeasy',
+        'release_date' => '2012_december',
     ),
 );

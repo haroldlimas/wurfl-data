@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'SH-02E',
         'brand_name' => 'DoCoMo',
+        'release_date' => '2012_december',
         'physical_screen_height' => '109',
         'physical_screen_width' => '62',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

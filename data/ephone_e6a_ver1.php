@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'E6A',
         'brand_name' => 'Ephone',
+        'release_date' => '2012_june',
         'physical_screen_height' => '85',
         'physical_screen_width' => '57',
     ),

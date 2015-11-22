@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'N213',
         'brand_name' => 'Onda',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
         'max_data_rate' => '40',
     ),
 );

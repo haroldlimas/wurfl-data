@@ -8,9 +8,9 @@ return array(
         'marketing_name' => 'Eluga V P-06D',
         'release_date' => '2012_may',
         'physical_screen_height' => '102',
-        'density_class' => '2.0',
         'physical_screen_width' => '58',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
+        'density_class' => '2.0',
     ),
 );

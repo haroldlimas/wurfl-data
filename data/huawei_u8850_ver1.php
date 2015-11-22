@@ -6,10 +6,11 @@ return array(
         'model_name' => 'U8850',
         'brand_name' => 'Huawei',
         'marketing_name' => 'Vision',
+        'release_date' => '2011_august',
         'physical_screen_height' => '81',
-        'density_class' => '1.5',
         'physical_screen_width' => '49',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

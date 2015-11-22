@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Aqua V2',
         'brand_name' => 'Intex',
+        'release_date' => '2014_december',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

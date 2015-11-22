@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'A305e',
         'brand_name' => 'Lenovo',
+        'release_date' => '2013_july',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

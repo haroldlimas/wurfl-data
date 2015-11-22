@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'firefox_37_0',
     'capabilities' => array(
         'mobile_browser_version' => '38.0',
+        'canvas_support' => 'full',
     ),
 );

@@ -6,9 +6,9 @@ return array(
         'model_name' => 'VX-8600',
         'model_extra_info' => 'Verizon Wireless',
         'gif_animated' => 'true',
-        'ringtone_mp3' => 'true',
         'wallpaper_jpg' => 'true',
         'ringtone_midi_polyphonic' => 'true',
+        'ringtone_mp3' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

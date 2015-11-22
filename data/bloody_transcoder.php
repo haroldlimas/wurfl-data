@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Transcoder',
         'brand_name' => 'Generic',
-        'unique' => 'false',
         'release_date' => '2007_january',
+        'unique' => 'false',
         'is_transcoder' => 'true',
     ),
 );

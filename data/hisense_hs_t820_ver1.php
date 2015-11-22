@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'HS-T820',
         'brand_name' => 'Hisense',
+        'release_date' => '2013_april',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

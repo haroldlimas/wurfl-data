@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'AE906',
         'brand_name' => 'Aolou',
+        'release_date' => '2012_may',
     ),
 );

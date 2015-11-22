@@ -3,9 +3,9 @@ return array(
     'id'           => 'noganet_3s_duo_ver1',
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => '3S DUO',
-        'brand_name' => 'NOGANET',
+        'is_tablet' => 'true',
+        'brand_name' => 'Noganet',
         'can_assign_phone_number' => 'false',
         'release_date' => '2014_december',
         'physical_screen_height' => '92',

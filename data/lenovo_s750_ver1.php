@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'S750',
         'brand_name' => 'Lenovo',
+        'release_date' => '2013_june',
+        'resolution_height' => '960',
+        'resolution_width' => '540',
         'physical_screen_height' => '100',
         'physical_screen_width' => '57',
-        'resolution_width' => '540',
-        'resolution_height' => '960',
     ),
 );

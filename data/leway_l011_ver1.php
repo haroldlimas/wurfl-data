@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'L011',
         'brand_name' => 'Leway',
+        'release_date' => '2012_july',
     ),
 );

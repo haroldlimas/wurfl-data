@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => '8012',
         'brand_name' => 'Coolpad',
+        'release_date' => '2013_february',
     ),
 );

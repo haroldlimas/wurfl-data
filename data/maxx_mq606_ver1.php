@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'MQ606',
         'brand_name' => 'Maxx',
-        'resolution_width' => '220',
         'resolution_height' => '176',
+        'resolution_width' => '220',
     ),
 );

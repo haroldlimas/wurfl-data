@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'VT10416-1',
         'brand_name' => 'TrekStor',
-        'marketing_name' => 'People's Tablet',
+        'marketing_name' => 'People\'s Tablet',
         'physical_screen_height' => '126',
         'physical_screen_width' => '224',
-        'resolution_width' => '1366',
         'resolution_height' => '768',
+        'resolution_width' => '1366',
     ),
 );

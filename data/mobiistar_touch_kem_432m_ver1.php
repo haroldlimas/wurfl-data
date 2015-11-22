@@ -6,9 +6,10 @@ return array(
         'model_name' => '432m',
         'brand_name' => 'Mobiistar',
         'marketing_name' => 'Touch Kem',
+        'release_date' => '2012_november',
         'physical_screen_height' => '94',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

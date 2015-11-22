@@ -6,8 +6,8 @@ return array(
         'uaprof' => 'http://wap.sonyericsson.com/UAprof/T618R401.xml',
         'bmp' => 'true',
         'png' => 'true',
-        'mms_png' => 'true',
         'mms_bmp' => 'true',
+        'mms_png' => 'true',
         'max_data_rate' => '40',
     ),
 );

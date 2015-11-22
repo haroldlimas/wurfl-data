@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'F999',
         'brand_name' => 'Flying',
+        'release_date' => '2010_december',
         'physical_screen_height' => '53',
         'physical_screen_width' => '40',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

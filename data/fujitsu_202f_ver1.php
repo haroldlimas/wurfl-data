@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Arrows',
         'physical_screen_height' => '113',
         'physical_screen_width' => '60',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

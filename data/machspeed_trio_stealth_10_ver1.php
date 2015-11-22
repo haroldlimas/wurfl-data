@@ -3,8 +3,8 @@ return array(
     'id'           => 'machspeed_trio_stealth_10_ver1',
     'fallback'     => 'generic_android_ver4_1',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'Trio Stealth 10',
+        'is_tablet' => 'true',
         'brand_name' => 'Mach Speed',
         'can_assign_phone_number' => 'false',
         'release_date' => '2014_december',

@@ -10,7 +10,7 @@ return array(
         'max_data_rate' => '7200',
         'physical_screen_height' => '118',
         'physical_screen_width' => '66',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

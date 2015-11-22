@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'N800',
         'brand_name' => 'NEC',
+        'resolution_width' => '162',
         'max_image_width' => '162',
         'resolution_height' => '216',
-        'resolution_width' => '162',
         'max_image_height' => '216',
         'streaming_real_media' => 'none',
     ),

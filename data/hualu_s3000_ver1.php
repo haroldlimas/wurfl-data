@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'S3000',
         'brand_name' => 'Hualu',
+        'release_date' => '2011_november',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

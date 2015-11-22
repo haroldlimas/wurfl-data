@@ -6,7 +6,7 @@ return array(
         'mobile_browser_version' => '40',
         'model_name' => 'SM-G900M',
         'device_os_version' => '5.0',
-        'model_extra_info' => 'for Vodafone',
         'marketing_name' => 'Galaxy S5',
+        'model_extra_info' => 'for Vodafone',
     ),
 );

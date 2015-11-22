@@ -6,11 +6,11 @@ return array(
         'max_data_rate' => '40',
         'model_name' => 'VPA Compact ii',
         'brand_name' => 'Vodafone',
-        'playback_mp4' => 'true',
+        'playback_3g2' => 'true',
         'playback_3gpp' => 'true',
+        'playback_mp4' => 'true',
         'playback_acodec_amr' => 'nb',
         'playback_wmv' => '7',
-        'playback_3g2' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

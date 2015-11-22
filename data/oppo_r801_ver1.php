@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'R801',
         'brand_name' => 'OPPO',
-        'marketing_name' => 'R801 Real',
         'release_date' => '2012_november',
+        'marketing_name' => 'R801 Real',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

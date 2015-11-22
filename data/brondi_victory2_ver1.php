@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Victory 2',
         'brand_name' => 'Brondi',
+        'release_date' => '2013_october',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

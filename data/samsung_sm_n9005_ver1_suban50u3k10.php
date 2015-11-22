@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'UCWeb',
         'mobile_browser_version' => '10',
+        'device_os_version' => '5.0',
     ),
 );

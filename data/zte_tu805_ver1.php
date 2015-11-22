@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'TU805',
         'brand_name' => 'ZTE',
+        'release_date' => '2011_december',
     ),
 );

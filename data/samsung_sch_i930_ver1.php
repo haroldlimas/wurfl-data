@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'SCH-I930',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'for Verizon',
         'marketing_name' => 'ATIV Odyssey',
         'release_date' => '2012_november',
+        'model_extra_info' => 'for Verizon',
     ),
 );

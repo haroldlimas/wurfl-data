@@ -6,9 +6,10 @@ return array(
         'mobile_browser_version' => '28',
         'model_name' => 'SM-W2014',
         'brand_name' => 'Samsung',
+        'release_date' => '2013_november',
         'physical_screen_height' => '80',
         'physical_screen_width' => '48',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

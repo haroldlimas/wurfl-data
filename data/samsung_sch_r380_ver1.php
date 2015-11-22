@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'SCH-R380',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'MetroPCS',
         'marketing_name' => 'Freeform III',
+        'model_extra_info' => 'MetroPCS',
         'physical_screen_height' => '34',
         'physical_screen_width' => '45',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

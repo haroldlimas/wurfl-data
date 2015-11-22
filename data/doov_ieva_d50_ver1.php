@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'iEva D50',
         'brand_name' => 'DOOV',
+        'release_date' => '2013_january',
     ),
 );

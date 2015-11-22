@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'iMO 850',
         'brand_name' => 'Opsson',
+        'release_date' => '2012_june',
     ),
 );

@@ -3,12 +3,12 @@ return array(
     'id'           => 'tsm_5m_ver1',
     'fallback'     => 'opwv_v62_generic',
     'capabilities' => array(
-        'model_name' => 'TSM-5m',
         'brand_name' => 'Vitelcom',
-        'wallpaper_png' => 'true',
+        'model_name' => 'TSM-5m',
         'wallpaper_colors' => '8',
-        'wallpaper_jpg' => 'true',
         'wallpaper_gif' => 'true',
+        'wallpaper_jpg' => 'true',
+        'wallpaper_png' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

@@ -3,8 +3,8 @@ return array(
     'id'           => 'megatone_sdm72_ver1',
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'SD-M72',
+        'is_tablet' => 'true',
         'brand_name' => 'Megatone',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '92',

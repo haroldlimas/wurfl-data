@@ -8,10 +8,10 @@ return array(
         'marketing_name' => 'Vega S5',
         'release_date' => '2012_july',
         'physical_screen_height' => '111',
-        'density_class' => '2.0',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
+        'density_class' => '2.0',
         'nfc_support' => 'true',
     ),
 );

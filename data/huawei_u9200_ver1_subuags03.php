@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'huawei_u9200_ver1',
     'capabilities' => array(
         'model_name' => 'GS03',
-        'manufacturer_name' => 'Huawei',
         'brand_name' => 'Emobile',
+        'manufacturer_name' => 'Huawei',
         'marketing_name' => 'Ascend P1 U9200 GS03',
     ),
 );

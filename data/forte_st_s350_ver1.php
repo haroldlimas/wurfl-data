@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Forte',
         'physical_screen_height' => '75',
         'physical_screen_width' => '50',
-        'resolution_width' => '640',
         'resolution_height' => '960',
+        'resolution_width' => '640',
     ),
 );

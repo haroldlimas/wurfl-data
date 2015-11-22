@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Kata',
         'physical_screen_height' => '167',
         'physical_screen_width' => '117',
-        'resolution_width' => '720',
         'resolution_height' => '1024',
+        'resolution_width' => '720',
     ),
 );

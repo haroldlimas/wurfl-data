@@ -8,6 +8,7 @@ return array(
         'model_name' => 'S350A',
         'brand_name' => 'Posh Mobile',
         'marketing_name' => 'Orion Mini',
+        'release_date' => '2014_december',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

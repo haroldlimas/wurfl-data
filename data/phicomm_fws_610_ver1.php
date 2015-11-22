@@ -5,8 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'FWS610',
         'brand_name' => 'Phicomm',
+        'release_date' => '2012_july',
         'physical_screen_height' => '68',
-        'density_class' => '1.0',
         'physical_screen_width' => '46',
+        'density_class' => '1.0',
     ),
 );

@@ -7,10 +7,11 @@ return array(
         'model_name' => 'SM701',
         'brand_name' => 'Smartisan',
         'marketing_name' => 'T1',
+        'release_date' => '2014_september',
         'physical_screen_height' => '110',
         'physical_screen_width' => '62',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

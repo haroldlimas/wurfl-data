@@ -11,8 +11,8 @@ return array(
         'xhtml_support_level' => '3',
         'columns' => '11',
         'rows' => '6',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
         'colors' => '256',
     ),
 );

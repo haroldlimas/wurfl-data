@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Regza AT1S0',
         'physical_screen_height' => '95',
         'physical_screen_width' => '151',
-        'max_image_width' => '961',
         'resolution_height' => '800',
+        'max_image_width' => '961',
     ),
 );

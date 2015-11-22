@@ -7,8 +7,8 @@ return array(
         'brand_name' => 'Micromax',
         'columns' => '11',
         'rows' => '6',
-        'resolution_width' => '176',
         'resolution_height' => '220',
+        'resolution_width' => '176',
         'colors' => '256',
     ),
 );

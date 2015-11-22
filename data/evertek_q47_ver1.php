@@ -7,9 +7,9 @@ return array(
         'brand_name' => 'Evertek',
         'marketing_name' => 'Evervivid Q47',
         'release_date' => '2014_december',
+        'resolution_height' => '800',
+        'resolution_width' => '480',
         'physical_screen_height' => '103',
         'physical_screen_width' => '62',
-        'resolution_width' => '480',
-        'resolution_height' => '800',
     ),
 );

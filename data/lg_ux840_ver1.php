@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'lg_840_ver1',
     'capabilities' => array(
         'model_name' => 'UX840',
-        'model_extra_info' => 'US Cellular',
         'marketing_name' => 'Tritan',
+        'model_extra_info' => 'US Cellular',
         'max_image_width' => '240',
         'resolution_height' => '400',
         'max_image_height' => '400',

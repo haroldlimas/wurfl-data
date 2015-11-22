@@ -6,7 +6,7 @@ return array(
         'device_os_version' => '2.3',
         'physical_screen_height' => '89',
         'physical_screen_width' => '50',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

@@ -4,15 +4,15 @@ return array(
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
         'model_name' => 'ISW13F',
-        'manufacturer_name' => 'Fujitsu',
         'brand_name' => 'KDDI',
+        'manufacturer_name' => 'Fujitsu',
         'marketing_name' => 'Arrows Z ISW13F',
         'release_date' => '2012_july',
         'nfc_support' => 'true',
         'physical_screen_height' => '111',
-        'density_class' => '2.0',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
+        'density_class' => '2.0',
     ),
 );

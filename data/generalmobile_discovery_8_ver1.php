@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'General Mobile',
         'physical_screen_height' => '178',
         'physical_screen_width' => '100',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

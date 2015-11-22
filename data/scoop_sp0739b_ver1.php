@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'generic_android_ver4_2_tablet',
     'capabilities' => array(
         'model_name' => 'SP0739B',
-        'brand_name' => 'Scoop',
+        'brand_name' => 'Scope',
         'physical_screen_height' => '90',
         'physical_screen_width' => '154',
-        'resolution_width' => '1024',
         'resolution_height' => '600',
+        'resolution_width' => '1024',
     ),
 );

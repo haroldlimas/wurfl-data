@@ -7,6 +7,7 @@ return array(
         'model_name' => 'VS415PP',
         'brand_name' => 'LG',
         'marketing_name' => 'LG Optimus Zone 2',
+        'release_date' => '2014_april',
         'physical_screen_height' => '74',
         'physical_screen_width' => '49',
     ),

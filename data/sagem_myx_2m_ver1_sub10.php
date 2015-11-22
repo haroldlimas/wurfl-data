@@ -4,9 +4,9 @@ return array(
     'fallback'     => 'sagem_myx_2g_ver1',
     'capabilities' => array(
         'max_deck_size' => '102400',
+        'ringtone_imelody' => 'true',
         'ringtone_voices' => '8',
         'ringtone_amr' => 'true',
-        'ringtone_imelody' => 'true',
         'ringtone_wav' => 'true',
     ),
 );

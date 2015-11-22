@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'T36',
         'brand_name' => 'Tecno',
-        'resolution_width' => '220',
         'resolution_height' => '176',
+        'resolution_width' => '220',
     ),
 );

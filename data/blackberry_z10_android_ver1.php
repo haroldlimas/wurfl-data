@@ -8,8 +8,8 @@ return array(
         'physical_screen_height' => '92',
         'physical_screen_width' => '55',
         'max_image_width' => '342',
-        'resolution_width' => '768',
         'resolution_height' => '1280',
+        'resolution_width' => '768',
         'nfc_support' => 'true',
     ),
 );

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Globe 4.0',
         'brand_name' => 'Bloom',
+        'release_date' => '2014_september',
     ),
 );

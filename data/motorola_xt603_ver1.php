@@ -6,10 +6,11 @@ return array(
         'model_name' => 'XT603',
         'brand_name' => 'Motorola',
         'marketing_name' => 'Admiral',
+        'release_date' => '2011_october',
         'physical_screen_height' => '63',
-        'density_class' => '1.5',
         'physical_screen_width' => '48',
-        'resolution_width' => '480',
         'resolution_height' => '640',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

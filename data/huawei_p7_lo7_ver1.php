@@ -6,9 +6,10 @@ return array(
         'model_name' => 'P7- L07',
         'brand_name' => 'Huawei',
         'release_date' => '2014_june',
+        'marketing_name' => 'Ascend',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Honor 3C',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

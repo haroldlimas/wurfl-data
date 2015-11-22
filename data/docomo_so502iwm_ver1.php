@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'max_deck_size' => '10240',
         'colors' => '256',
-        'max_image_width' => '120',
         'rows' => '7',
-        'resolution_width' => '120',
         'resolution_height' => '120',
+        'max_image_width' => '120',
+        'resolution_width' => '120',
         'max_image_height' => '113',
         'model_name' => 'SO502iWM',
         'preferred_markup' => 'html_wi_imode_html_2',

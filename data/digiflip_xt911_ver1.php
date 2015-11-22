@@ -5,13 +5,13 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'mobile_browser_version' => '37',
-        'is_tablet' => 'true',
         'model_name' => 'XT911',
+        'is_tablet' => 'true',
         'brand_name' => 'Digiflip',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '120',
         'physical_screen_width' => '192',
-        'resolution_width' => '1920',
         'resolution_height' => '1200',
+        'resolution_width' => '1920',
     ),
 );

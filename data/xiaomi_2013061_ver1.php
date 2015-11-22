@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => '2013061',
         'brand_name' => 'Xiaomi',
+        'marketing_name' => 'Mi-Three',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

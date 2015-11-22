@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'C350i',
         'jpg' => 'true',
-        'wallpaper_preferred_height' => '64',
         'screensaver' => 'true',
+        'wallpaper_preferred_height' => '64',
         'max_image_width' => '94',
         'max_image_height' => '48',
         'streaming_real_media' => 'none',

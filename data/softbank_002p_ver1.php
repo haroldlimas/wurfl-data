@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => '002P',
         'release_date' => '2011_february',
-        'max_image_width' => '236',
-        'resolution_height' => '427',
         'resolution_width' => '240',
+        'resolution_height' => '427',
+        'max_image_width' => '236',
         'max_image_height' => '369',
         'flash_lite_version' => '2_0',
     ),

@@ -6,6 +6,7 @@ return array(
         'model_name' => 'H867G',
         'brand_name' => 'Huawei',
         'marketing_name' => 'Inspira',
+        'release_date' => '2013_january',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

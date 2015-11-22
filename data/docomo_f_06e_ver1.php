@@ -4,13 +4,13 @@ return array(
     'fallback'     => 'generic_android_ver4_2',
     'capabilities' => array(
         'model_name' => 'F-06E',
-        'manufacturer_name' => 'Fujitsu',
         'brand_name' => 'DoCoMo',
+        'manufacturer_name' => 'Fujitsu',
         'marketing_name' => 'Arrows NX',
         'release_date' => '2013_june',
         'physical_screen_height' => '116',
         'physical_screen_width' => '65',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

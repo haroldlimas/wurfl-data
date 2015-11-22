@@ -9,8 +9,8 @@ return array(
         'ajax_support_javascript' => 'false',
         'columns' => '11',
         'rows' => '6',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
         'colors' => '256',
     ),
 );

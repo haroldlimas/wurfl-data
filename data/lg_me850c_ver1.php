@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'ME850c',
         'marketing_name' => 'PRADA',
-        'ringtone_voices' => '16',
         'wallpaper_preferred_width' => '240',
         'wallpaper_preferred_height' => '400',
+        'ringtone_voices' => '16',
         'video' => 'true',
         'max_image_width' => '120',
         'playback_3gpp' => 'true',

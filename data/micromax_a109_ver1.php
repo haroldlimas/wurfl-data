@@ -7,9 +7,10 @@ return array(
         'model_name' => 'A109',
         'brand_name' => 'Micromax',
         'marketing_name' => 'Canvas XL2',
+        'release_date' => '2014_august',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

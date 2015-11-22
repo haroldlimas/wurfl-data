@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'A47',
         'brand_name' => 'Solone',
+        'release_date' => '2014_november',
         'physical_screen_height' => '103',
         'physical_screen_width' => '62',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

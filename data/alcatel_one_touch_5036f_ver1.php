@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'One Touch 5036F',
         'brand_name' => 'Alcatel',
+        'marketing_name' => 'POP C5',
         'physical_screen_height' => '100',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

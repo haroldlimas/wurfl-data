@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'motorola_xt1097_ver1_subuaxt1092',
     'capabilities' => array(
         'mobile_browser' => 'UCWeb',
+        'device_os_version' => '5.0',
     ),
 );

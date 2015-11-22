@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-X210',
         'preferred_markup' => 'html_wi_w3_xhtmlbasic',
-        'wallpaper_png' => 'true',
         'ringtone_voices' => '40',
+        'wallpaper_png' => 'true',
         'wallpaper_preferred_width' => '128',
         'wallpaper_preferred_height' => '160',
         'streaming_real_media' => 'none',

@@ -5,7 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Aqua Speed',
         'brand_name' => 'Intex',
-        'resolution_width' => '540',
+        'release_date' => '2014_october',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

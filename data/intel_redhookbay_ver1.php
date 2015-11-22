@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'RedhookBay',
         'brand_name' => 'Intel',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

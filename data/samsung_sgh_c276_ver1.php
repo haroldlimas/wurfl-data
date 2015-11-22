@@ -6,8 +6,8 @@ return array(
         'model_name' => 'SGH C276',
         'brand_name' => 'Samsung',
         'release_date' => '2009_january',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
         'max_image_height' => '130',
     ),
 );

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'LG221C',
         'brand_name' => 'LG',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
     ),
 );

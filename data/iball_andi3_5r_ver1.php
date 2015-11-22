@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Andi3.5r',
         'brand_name' => 'iBall',
+        'release_date' => '2013_june',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

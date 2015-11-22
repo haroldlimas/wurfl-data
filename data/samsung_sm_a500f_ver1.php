@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'SM-A500F',
         'brand_name' => 'Samsung',
+        'release_date' => '2015_january',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

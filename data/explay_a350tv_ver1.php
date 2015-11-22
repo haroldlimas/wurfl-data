@@ -6,7 +6,7 @@ return array(
         'model_name' => 'A350 TV',
         'brand_name' => 'Explay',
         'release_date' => '2013_march',
-        'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

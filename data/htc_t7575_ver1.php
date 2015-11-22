@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'T7575',
         'brand_name' => 'HTC',
-        'model_extra_info' => 'for Sprint',
         'marketing_name' => 'Arrive',
+        'model_extra_info' => 'for Sprint',
         'release_date' => '2011_january',
         'physical_screen_height' => '79',
         'physical_screen_width' => '48',

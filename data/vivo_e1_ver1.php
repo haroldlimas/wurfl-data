@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'E1',
         'brand_name' => 'Vivo',
+        'release_date' => '2012_june',
         'physical_screen_height' => '68',
         'physical_screen_width' => '46',
     ),

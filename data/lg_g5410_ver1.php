@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'G5410',
         'ringtone_voices' => '16',
-        'ringtone_mmf' => 'true',
         'wallpaper_colors' => '8',
         'ringtone_midi_polyphonic' => 'true',
+        'ringtone_mmf' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

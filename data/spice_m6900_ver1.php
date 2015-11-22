@@ -10,7 +10,7 @@ return array(
         'marketing_name' => 'Spice',
         'physical_screen_height' => '74',
         'physical_screen_width' => '49',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
     ),
 );

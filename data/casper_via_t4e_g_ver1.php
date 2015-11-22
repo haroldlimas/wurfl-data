@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Casper',
         'physical_screen_height' => '159',
         'physical_screen_width' => '119',
-        'resolution_width' => '768',
         'resolution_height' => '1024',
+        'resolution_width' => '768',
     ),
 );

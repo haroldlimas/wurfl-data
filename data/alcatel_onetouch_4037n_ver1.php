@@ -7,7 +7,7 @@ return array(
         'model_name' => 'ONE TOUCH 4037N',
         'brand_name' => 'Alcatel',
         'marketing_name' => 'Pixi',
-        'release_date' => '2013_august',
+        'release_date' => '2014_september',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

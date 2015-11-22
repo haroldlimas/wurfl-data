@@ -3,9 +3,9 @@ return array(
     'id'           => 'nokia_301_ver1',
     'fallback'     => 'nokia_generic_series40_ovibrosr_dp71',
     'capabilities' => array(
-        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/Nokia301r100.xml',
         'model_name' => '301',
         'marketing_name' => 'Asha 301',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/Nokia301r100.xml',
         'release_date' => '2013_february',
         'playback_acodec_aac' => 'heaac2',
         'playback_3gpp' => 'true',

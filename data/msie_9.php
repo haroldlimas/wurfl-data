@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'mobile_browser_version' => '9.0',
         'svgt_1_1' => 'true',
+        'canvas_support' => 'full',
     ),
 );

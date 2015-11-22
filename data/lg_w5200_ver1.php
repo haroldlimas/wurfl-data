@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'W5200',
         'ringtone_voices' => '16',
-        'ringtone_mmf' => 'true',
         'wallpaper_gif' => 'true',
         'ringtone_midi_polyphonic' => 'true',
+        'ringtone_mmf' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

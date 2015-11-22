@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => '793',
         'brand_name' => 'Avvio',
+        'release_date' => '2014_december',
     ),
 );

@@ -6,8 +6,8 @@ return array(
         'model_name' => 'M900',
         'j2me_midp_2_0' => 'true',
         'j2me_cldc_1_0' => 'true',
-        'xhtml_support_level' => '-1',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'streaming_real_media' => 'none',
     ),
 );

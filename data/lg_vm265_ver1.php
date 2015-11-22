@@ -7,8 +7,8 @@ return array(
         'model_name' => 'VM265',
         'brand_name' => 'LG',
         'max_image_width' => '228',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
         'max_image_height' => '280',
     ),
 );

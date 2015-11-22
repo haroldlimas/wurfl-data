@@ -5,11 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'N9101',
         'brand_name' => 'ZTE',
-        'model_extra_info' => 'US Cellular',
         'marketing_name' => 'Imperial',
+        'model_extra_info' => 'US Cellular',
+        'release_date' => '2013_june',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

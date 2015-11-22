@@ -6,7 +6,7 @@ return array(
         'model_name' => 'LG530G',
         'physical_screen_height' => '35',
         'physical_screen_width' => '47',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

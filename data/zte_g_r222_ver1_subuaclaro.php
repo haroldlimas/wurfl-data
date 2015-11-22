@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Teleca-Obigo',
         'mobile_browser_version' => 'Q03C',
-        'manufacturer_name' => 'ZTE',
         'brand_name' => 'Claro',
+        'manufacturer_name' => 'ZTE',
     ),
 );

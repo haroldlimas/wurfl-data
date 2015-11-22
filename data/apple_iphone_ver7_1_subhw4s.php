@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'iPhone 4S',
         'model_extra_info' => '',
+        'density_class' => '2.0',
     ),
 );

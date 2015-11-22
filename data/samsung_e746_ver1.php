@@ -7,10 +7,10 @@ return array(
         'wallpaper_colors' => '16',
         'wallpaper_preferred_width' => '128',
         'wallpaper_preferred_height' => '160',
-        'playback_mp4' => 'true',
         'playback_3gpp' => 'true',
-        'playback_acodec_amr' => 'nb',
+        'playback_mp4' => 'true',
         'playback_vcodec_mpeg4_sp' => '0',
+        'playback_acodec_amr' => 'nb',
         'streaming_real_media' => 'none',
     ),
 );

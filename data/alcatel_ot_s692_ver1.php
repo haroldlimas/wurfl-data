@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Teleca-Obigo',
         'mobile_browser_version' => '1.2',
-        'model_name' => 'OT S692',
         'can_skip_aligned_link_row' => 'true',
+        'model_name' => 'OT S692',
         'brand_name' => 'Alcatel',
         'release_date' => '2008_may',
         'resolution_height' => '160',

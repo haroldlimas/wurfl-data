@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Jiake',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

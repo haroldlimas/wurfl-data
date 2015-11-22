@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-T404G',
         'brand_name' => 'Samsung',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

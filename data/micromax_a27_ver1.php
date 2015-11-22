@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'A27',
         'brand_name' => 'Micromax',
-        'marketing_name' => 'Ninja',
         'release_date' => '2013_february',
+        'marketing_name' => 'Ninja',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

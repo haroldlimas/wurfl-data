@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'colors' => '256',
         'max_image_width' => '120',
-        'resolution_width' => '120',
-        'resolution_height' => '120',
         'max_image_height' => '113',
+        'resolution_height' => '120',
+        'resolution_width' => '120',
         'preferred_markup' => 'html_wi_imode_html_3',
         'model_name' => 'SO210i',
         'flash_lite_version' => '',

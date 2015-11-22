@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'D141T',
         'brand_name' => 'Blu',
-        'marketing_name' => 'Dash JR TV',
         'release_date' => '2013_september',
+        'marketing_name' => 'Dash JR TV',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

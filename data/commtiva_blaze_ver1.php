@@ -7,9 +7,9 @@ return array(
         'model_name' => 'Blaze',
         'brand_name' => 'Commtiva',
         'model_extra_info' => 'Cincinnati Bell',
-        'density_class' => '1.0',
         'max_image_width' => '300',
         'resolution_height' => '400',
         'max_image_height' => '360',
+        'density_class' => '1.0',
     ),
 );
