@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'mot_v66m_ver1',
     'capabilities' => array(
         'model_name' => 'V66i',
-        'ringtone_imelody' => 'true',
         'ringtone' => 'true',
+        'ringtone_imelody' => 'true',
         'j2me_cldc_1_0' => 'true',
         'j2me_midp_1_0' => 'true',
         'ems' => 'true',

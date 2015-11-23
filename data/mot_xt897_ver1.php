@@ -5,13 +5,14 @@ return array(
     'capabilities' => array(
         'model_name' => 'XT897',
         'brand_name' => 'Motorola',
-        'model_extra_info' => 'for Sprint',
         'marketing_name' => 'Photon Q 4G LTE',
+        'model_extra_info' => 'for Sprint',
+        'release_date' => '2012_august',
         'physical_screen_height' => '96',
-        'density_class' => '1.5',
         'physical_screen_width' => '54',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'density_class' => '1.5',
         'nfc_support' => 'true',
     ),
 );

@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'W377',
         'ringtone_amr' => 'true',
-        'physical_screen_height' => '36',
         'physical_screen_width' => '29',
+        'physical_screen_height' => '36',
         'streaming_real_media' => 'none',
     ),
 );

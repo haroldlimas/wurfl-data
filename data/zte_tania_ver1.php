@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'V965W',
         'brand_name' => 'ZTE',
-        'marketing_name' => 'Tania',
         'release_date' => '2012_january',
+        'marketing_name' => 'Tania',
         'physical_screen_height' => '94',
         'physical_screen_width' => '57',
     ),

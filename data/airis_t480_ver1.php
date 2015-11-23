@@ -9,8 +9,8 @@ return array(
         'marketing_name' => 'T480',
         'pdf_support' => 'true',
         'colors' => '65536',
-        'wav' => 'true',
         'mp3' => 'true',
+        'wav' => 'true',
         'max_data_rate' => '40',
     ),
 );

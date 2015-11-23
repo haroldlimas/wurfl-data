@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'A854',
         'brand_name' => 'Motorola',
+        'density_class' => '1.5',
         'physical_screen_height' => '82',
         'physical_screen_width' => '47',
-        'density_class' => '1.5',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

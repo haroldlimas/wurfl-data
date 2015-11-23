@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'KAZAM',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

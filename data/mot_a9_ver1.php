@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'i410',
         'brand_name' => 'Motorola',
-        'model_extra_info' => 'for Boost Mobile and Nextel',
         'marketing_name' => 'iDEN i410',
+        'model_extra_info' => 'for Boost Mobile and Nextel',
         'release_date' => '2009_august',
         'physical_screen_height' => '34',
         'max_image_width' => '96',

@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'W939',
         'brand_name' => 'TCL',
+        'release_date' => '2012_february',
         'physical_screen_height' => '68',
         'physical_screen_width' => '46',
     ),

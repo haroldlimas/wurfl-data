@@ -3,8 +3,8 @@ return array(
     'id'           => 'leotec_letab921_ver1',
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'LETAB921',
+        'is_tablet' => 'true',
         'brand_name' => 'LEOTEC',
         'marketing_name' => 'L-Pad Meteor Q 9',
         'can_assign_phone_number' => 'false',

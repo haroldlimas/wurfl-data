@@ -6,5 +6,6 @@ return array(
         'model_name' => 'G830DC',
         'brand_name' => 'Master G',
         'marketing_name' => 'Chronos G830DC',
+        'release_date' => '2013_august',
     ),
 );

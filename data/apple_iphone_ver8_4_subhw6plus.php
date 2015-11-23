@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
-        'model_name' => 'iPhone 6 plus',
+        'model_name' => 'iPhone 6 Plus',
     ),
 );

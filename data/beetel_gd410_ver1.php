@@ -8,7 +8,7 @@ return array(
         'brand_name' => 'Beetel',
         'physical_screen_height' => '64',
         'physical_screen_width' => '51',
-        'resolution_width' => '176',
         'resolution_height' => '220',
+        'resolution_width' => '176',
     ),
 );

@@ -4,9 +4,9 @@ return array(
     'fallback'     => 'generic_android_ver2_1',
     'capabilities' => array(
         'max_image_width' => '320',
-        'resolution_width' => '320',
         'resolution_height' => '480',
-        'model_name' => 'C R750',
+        'resolution_width' => '320',
         'brand_name' => 'ZTE',
+        'model_name' => 'C R750',
     ),
 );

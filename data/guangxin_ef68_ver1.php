@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'EF68',
         'brand_name' => 'Guangxin',
+        'release_date' => '2012_july',
         'physical_screen_height' => '85',
         'physical_screen_width' => '57',
     ),

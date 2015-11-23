@@ -7,10 +7,10 @@ return array(
         'brand_name' => 'Xiaomi',
         'release_date' => '2012_october',
         'physical_screen_height' => '89',
-        'density_class' => '1.5',
         'physical_screen_width' => '50',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
         'max_data_rate' => '14400',
     ),
 );

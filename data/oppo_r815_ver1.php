@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'R815',
         'brand_name' => 'OPPO',
+        'marketing_name' => 'Real',
         'physical_screen_height' => '94',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

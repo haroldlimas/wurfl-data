@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => '831SH s',
         'marketing_name' => 'Gent',
-        'dual_orientation' => 'true',
         'resolution_height' => '400',
         'max_image_height' => '350',
+        'dual_orientation' => 'true',
         'flash_lite_version' => '3_0',
         'max_data_rate' => '1800',
     ),

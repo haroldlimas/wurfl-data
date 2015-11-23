@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'alcatel_ot5020_ver1',
     'capabilities' => array(
         'model_name' => 'AURUS III',
-        'manufacturer_name' => 'Alcatel',
         'brand_name' => 'Idea',
+        'manufacturer_name' => 'Alcatel',
         'marketing_name' => '',
     ),
 );

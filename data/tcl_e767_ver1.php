@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'e767',
         'brand_name' => 'TCL',
-        'max_image_width' => '169',
         'resolution_width' => '176',
+        'max_image_width' => '169',
         'streaming_real_media' => 'none',
     ),
 );

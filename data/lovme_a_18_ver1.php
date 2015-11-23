@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'A18',
         'brand_name' => 'Lovme',
+        'release_date' => '2011_november',
     ),
 );

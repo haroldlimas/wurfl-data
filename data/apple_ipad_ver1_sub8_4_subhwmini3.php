@@ -8,7 +8,7 @@ return array(
         'nfc_support' => 'true',
         'physical_screen_height' => '161',
         'physical_screen_width' => '121',
-        'resolution_width' => '1536',
         'resolution_height' => '2048',
+        'resolution_width' => '1536',
     ),
 );

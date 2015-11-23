@@ -6,8 +6,8 @@ return array(
         'mobile_browser' => 'Android Webkit',
         'mobile_browser_version' => '',
         'device_os_version' => '4.4',
-        'model_extra_info' => '4G LTE',
         'marketing_name' => 'Optimus G LG-Gee',
+        'model_extra_info' => '4G LTE',
         'release_date' => '2013_march',
     ),
 );

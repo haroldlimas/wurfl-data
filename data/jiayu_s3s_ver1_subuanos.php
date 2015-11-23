@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'jiayu_s3s_ver1',
     'capabilities' => array(
         'model_name' => 'JY-S3',
+        'nfc_support' => 'false',
     ),
 );

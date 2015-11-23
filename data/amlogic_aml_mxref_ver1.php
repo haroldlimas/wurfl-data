@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Amlogic',
         'physical_screen_height' => '154',
         'physical_screen_width' => '206',
-        'resolution_width' => '1024',
         'resolution_height' => '768',
+        'resolution_width' => '1024',
     ),
 );

@@ -4,6 +4,6 @@ return array(
     'fallback'     => 'samsung_sm_g900_ver1',
     'capabilities' => array(
         'model_name' => 'SM-G900P',
-        'model_extra_info' => '',
+        'model_extra_info' => 'for Sprint',
     ),
 );

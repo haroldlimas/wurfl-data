@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '30',
-        'model_name' => 'verykool',
+        'model_name' => 'S3501',
         'brand_name' => 'Verykool',
         'marketing_name' => 'Lynx',
         'release_date' => '2014_november',

@@ -11,8 +11,8 @@ return array(
         'mp3' => 'true',
         'midi_monophonic' => 'true',
         'midi_polyphonic' => 'true',
-        'resolution_width' => '240',
         'resolution_height' => '400',
+        'resolution_width' => '240',
         'playback_3gpp' => 'true',
     ),
 );

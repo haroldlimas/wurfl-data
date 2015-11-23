@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'CA002',
         'colors' => '262144',
-        'max_image_width' => '234',
         'resolution_height' => '400',
         'max_image_height' => '333',
+        'max_image_width' => '234',
         'flash_lite_version' => '2_0',
     ),
 );

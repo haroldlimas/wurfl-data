@@ -7,8 +7,8 @@ return array(
         'device_os_version' => '7.0',
         'model_extra_info' => '7.0',
         'release_date' => '2013_june',
-        'resolution_width' => '640',
         'resolution_height' => '960',
+        'resolution_width' => '640',
         'accept_third_party_cookie' => 'false',
     ),
 );

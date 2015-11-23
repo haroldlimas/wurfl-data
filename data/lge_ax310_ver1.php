@@ -3,8 +3,8 @@ return array(
     'id'           => 'lge_ax310_ver1',
     'fallback'     => 'lg_ax300_ver1',
     'capabilities' => array(
-        'uaprof' => 'http://www.alltel.net/uaprof/lg/ax310/ax310.xml',
         'model_name' => 'AX310',
+        'uaprof' => 'http://www.alltel.net/uaprof/lg/ax310/ax310.xml',
         'brand_name' => 'LG',
         'marketing_name' => 'Helix',
         'release_date' => '2009_april',

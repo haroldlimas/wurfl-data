@@ -6,10 +6,10 @@ return array(
         'model_name' => 'IM-A630K',
         'brand_name' => 'Pantech',
         'marketing_name' => 'SKY Izar',
+        'density_class' => '1.5',
         'physical_screen_height' => '70',
         'physical_screen_width' => '42',
-        'density_class' => '1.5',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

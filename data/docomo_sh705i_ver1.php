@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'SH705i',
         'max_image_width' => '240',
-        'resolution_width' => '240',
         'resolution_height' => '400',
+        'resolution_width' => '240',
         'xhtml_table_support' => 'true',
         'flash_lite_version' => '1_1',
         'preferred_markup' => 'html_wi_imode_htmlx_2_1',

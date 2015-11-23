@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'MI363',
         'brand_name' => 'Switch',
+        'release_date' => '2013_june',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

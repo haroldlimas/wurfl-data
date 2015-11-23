@@ -7,9 +7,10 @@ return array(
         'mobile_browser_version' => '28',
         'model_name' => 'V8501',
         'brand_name' => 'Viettel',
+        'release_date' => '2012_december',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

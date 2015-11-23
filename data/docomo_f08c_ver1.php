@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'F-08C',
         'release_date' => '2011_april',
+        'resolution_width' => '240',
+        'resolution_height' => '400',
         'physical_screen_height' => '61',
         'physical_screen_width' => '37',
-        'resolution_height' => '400',
-        'resolution_width' => '240',
     ),
 );

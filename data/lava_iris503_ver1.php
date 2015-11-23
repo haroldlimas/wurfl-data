@@ -6,9 +6,9 @@ return array(
         'model_name' => 'Iris 503',
         'brand_name' => 'Lava',
         'release_date' => '2013_october',
+        'resolution_width' => '540',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
         'resolution_height' => '960',
-        'resolution_width' => '540',
     ),
 );

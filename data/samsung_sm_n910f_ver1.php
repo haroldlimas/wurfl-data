@@ -6,9 +6,10 @@ return array(
         'model_name' => 'SM-N910F',
         'brand_name' => 'Samsung',
         'marketing_name' => 'Samsung Galaxy Note 4',
+        'release_date' => '2014_september',
         'physical_screen_height' => '127',
         'physical_screen_width' => '71',
-        'resolution_width' => '1440',
         'resolution_height' => '2560',
+        'resolution_width' => '1440',
     ),
 );

@@ -5,8 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'MultiPad',
         'brand_name' => 'Prestigio',
-        'physical_screen_height' => '151',
-        'physical_screen_width' => '95',
+        'is_tablet' => 'true',
+        'physical_screen_height' => '95',
+        'physical_screen_width' => '151',
         'resolution_width' => '1280',
     ),
 );

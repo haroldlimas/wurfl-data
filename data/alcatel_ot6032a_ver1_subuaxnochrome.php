@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Android Webkit',
         'mobile_browser_version' => '',
-        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL_ONE_TOUCH_6032X.xml',
         'model_name' => '6032X',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL_ONE_TOUCH_6032X.xml',
     ),
 );

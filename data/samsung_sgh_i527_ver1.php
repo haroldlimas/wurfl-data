@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-I527',
         'brand_name' => 'Samsung',
+        'marketing_name' => 'Samsung Galaxy Mega 6.3',
         'model_extra_info' => 'for AT&T',
-        'marketing_name' => 'Samsung Galaxy Mega',
+        'release_date' => '2013_june',
         'physical_screen_height' => '79',
         'physical_screen_width' => '140',
-        'resolution_width' => '1280',
         'resolution_height' => '720',
+        'resolution_width' => '1280',
         'nfc_support' => 'true',
     ),
 );

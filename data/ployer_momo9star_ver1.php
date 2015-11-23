@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Ployer',
         'physical_screen_height' => '121',
         'physical_screen_width' => '201',
-        'resolution_width' => '800',
         'resolution_height' => '480',
+        'resolution_width' => '800',
     ),
 );

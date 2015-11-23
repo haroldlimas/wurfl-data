@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => '8726MX',
         'brand_name' => 'Amlogic',
+        'release_date' => '2013_may',
     ),
 );

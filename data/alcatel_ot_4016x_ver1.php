@@ -5,7 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => '4016X',
         'brand_name' => 'Alcatel',
-        'marketing_name' => 'Alcatel One Touch Pop C1',
+        'marketing_name' => 'One Touch Pop C1',
+        'release_date' => '2014_march',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

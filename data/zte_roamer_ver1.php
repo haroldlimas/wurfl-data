@@ -6,6 +6,7 @@ return array(
         'model_name' => '',
         'brand_name' => 'ZTE',
         'marketing_name' => 'Roamer',
+        'release_date' => '2011_november',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

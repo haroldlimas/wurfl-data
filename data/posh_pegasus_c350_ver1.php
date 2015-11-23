@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Pegasus C350',
         'brand_name' => 'Posh',
+        'release_date' => '2014_january',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

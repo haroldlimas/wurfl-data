@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Boss M-5470',
         'physical_screen_height' => '66',
         'physical_screen_width' => '49',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

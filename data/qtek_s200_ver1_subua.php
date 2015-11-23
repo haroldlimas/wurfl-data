@@ -3,9 +3,9 @@ return array(
     'id'           => 'qtek_s200_ver1_subua',
     'fallback'     => 'qtek_s200_ver1',
     'capabilities' => array(
-        'mobile_browser' => 'Microsoft Mobile Explorer',
-        'model_name' => 'S200',
         'brand_name' => 'Qtek',
+        'model_name' => 'S200',
+        'mobile_browser' => 'Microsoft Mobile Explorer',
         'j2me_midp_2_0' => 'true',
         'j2me_cldc_1_1' => 'true',
         'ringtone_mp3' => 'true',
@@ -15,8 +15,8 @@ return array(
         'xhtml_support_level' => '3',
         'columns' => '15',
         'rows' => '7',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
         'colors' => '4096',
     ),
 );

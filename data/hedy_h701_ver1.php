@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'H701',
         'brand_name' => 'HEDY',
+        'release_date' => '2011_october',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

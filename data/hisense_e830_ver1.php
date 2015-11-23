@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'E830',
         'brand_name' => 'Hisense',
+        'release_date' => '2012_september',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

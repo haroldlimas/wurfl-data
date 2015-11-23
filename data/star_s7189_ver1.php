@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Star',
         'physical_screen_height' => '119',
         'physical_screen_width' => '75',
-        'resolution_width' => '540',
         'resolution_height' => '854',
+        'resolution_width' => '540',
     ),
 );

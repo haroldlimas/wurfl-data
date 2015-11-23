@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Iris Browser',
         'brand_name' => 'Generic',
-        'unique' => 'false',
         'release_date' => '2008_january',
+        'unique' => 'false',
         'xhtml_avoid_accesskeys' => 'true',
         'viewport_width' => 'device_width_token',
         'viewport_supported' => 'true',

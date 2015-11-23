@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'SH330T',
         'brand_name' => 'Sharp',
+        'release_date' => '2012_june',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

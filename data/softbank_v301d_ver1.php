@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'V301D',
         'max_image_width' => '132',
-        'resolution_width' => '132',
         'resolution_height' => '136',
+        'resolution_width' => '132',
         'max_image_height' => '136',
         'preferred_markup' => 'html_wi_mml_html',
     ),

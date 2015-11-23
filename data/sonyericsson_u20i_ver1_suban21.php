@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'sonyericsson_u20i_ver1',
     'capabilities' => array(
         'uaprof' => 'http://wap.sonyericsson.com/UAprof/U20iR201.xml',
-        'device_os_version' => '2.1',
         'release_date' => '2010_september',
+        'device_os_version' => '2.1',
         'streaming_vcodec_h264_bp' => '1.2',
         'streaming_vcodec_mpeg4_sp' => '1',
     ),

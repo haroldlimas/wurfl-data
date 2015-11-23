@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'N707',
         'brand_name' => 'Minte',
+        'release_date' => '2013_july',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

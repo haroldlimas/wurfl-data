@@ -5,7 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'A860',
         'brand_name' => 'TCL',
-        'resolution_width' => '480',
+        'release_date' => '2012_april',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

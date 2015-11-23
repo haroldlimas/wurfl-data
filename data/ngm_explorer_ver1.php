@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Wemove Explorer',
         'brand_name' => 'NGM',
+        'release_date' => '2012_july',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
         'max_data_rate' => '7200',

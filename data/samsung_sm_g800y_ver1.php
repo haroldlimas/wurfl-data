@@ -8,8 +8,8 @@ return array(
         'brand_name' => 'Samsung',
         'marketing_name' => 'S5 Mini LTE-A',
         'release_date' => '2014_july',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

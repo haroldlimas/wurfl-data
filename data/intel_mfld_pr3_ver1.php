@@ -7,8 +7,8 @@ return array(
         'brand_name' => 'Intel',
         'physical_screen_height' => '88',
         'physical_screen_width' => '52',
-        'resolution_width' => '600',
         'resolution_height' => '1024',
+        'resolution_width' => '600',
         'nfc_support' => 'true',
     ),
 );

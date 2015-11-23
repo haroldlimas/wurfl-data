@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'max_data_rate' => '200',
         'mobile_browser' => 'Safari',
-        'nokia_feature_pack' => '1',
         'mobile_browser_version' => '4.13',
+        'nokia_feature_pack' => '1',
         'accept_third_party_cookie' => 'false',
         'css_supports_width_as_percentage' => 'true',
     ),

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'N90S',
         'brand_name' => 'Vido',
-        'resolution_width' => '768',
         'resolution_height' => '1024',
+        'resolution_width' => '768',
     ),
 );

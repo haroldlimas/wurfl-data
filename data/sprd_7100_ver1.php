@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => '7100',
         'brand_name' => 'SPRD',
-        'marketing_name' => 'Dual SIM 7100',
         'release_date' => '2012_december',
+        'marketing_name' => 'Dual SIM 7100',
         'physical_screen_height' => '109',
         'physical_screen_width' => '66',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

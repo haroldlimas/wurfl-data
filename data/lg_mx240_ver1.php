@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'MX240',
         'brand_name' => 'LG',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
         'max_image_height' => '130',
         'streaming_real_media' => 'none',
     ),

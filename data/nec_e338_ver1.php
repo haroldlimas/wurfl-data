@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'nec_e313_ver1',
     'capabilities' => array(
         'model_name' => 'e338',
-        'physical_screen_height' => '40',
         'physical_screen_width' => '32',
+        'physical_screen_height' => '40',
         'playback_mp4' => 'true',
         'streaming_real_media' => 'none',
     ),

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'UCWeb',
         'mobile_browser_version' => '10',
-        'model_name' => 'GT-I9300I',
         'device_os_version' => '4.4',
+        'model_name' => 'GT-I9300I',
     ),
 );

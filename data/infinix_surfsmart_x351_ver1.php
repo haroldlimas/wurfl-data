@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
         'model_name' => 'SurfSmart X351',
-        'brand_name' => 'Xnfin',
+        'brand_name' => 'Infinix',
         'release_date' => '2014_december',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',

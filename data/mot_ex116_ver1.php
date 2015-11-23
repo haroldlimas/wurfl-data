@@ -10,8 +10,8 @@ return array(
         'release_date' => '2012_april',
         'physical_screen_height' => '32',
         'physical_screen_width' => '40',
-        'resolution_width' => '220',
         'resolution_height' => '176',
+        'resolution_width' => '220',
         'xhtml_file_upload' => 'supported',
     ),
 );

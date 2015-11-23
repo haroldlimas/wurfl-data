@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'V812 Quad Core Tablet',
         'physical_screen_height' => '163',
         'physical_screen_width' => '122',
-        'resolution_width' => '768',
         'resolution_height' => '1024',
+        'resolution_width' => '768',
     ),
 );

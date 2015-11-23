@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'sony_xperia_sgp312_ver1',
     'capabilities' => array(
         'device_os_version' => '5.0',
+        'mobile_browser' => 'Chrome Mobile',
     ),
 );

@@ -8,7 +8,7 @@ return array(
         'model_extra_info' => 'Tracfone',
         'physical_screen_height' => '38',
         'physical_screen_width' => '25',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
     ),
 );

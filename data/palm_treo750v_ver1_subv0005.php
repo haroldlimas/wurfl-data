@@ -3,8 +3,8 @@ return array(
     'id'           => 'palm_treo750v_ver1_subv0005',
     'fallback'     => 'palm_treo750v_ver1',
     'capabilities' => array(
-        'uaprof' => 'http://downloads.palm.com/profiles/Treo750R2.rdf',
         'model_name' => 'Treo 750',
+        'uaprof' => 'http://downloads.palm.com/profiles/Treo750R2.rdf',
         'softkey_support' => 'true',
         'bmp' => 'true',
         'png' => 'true',

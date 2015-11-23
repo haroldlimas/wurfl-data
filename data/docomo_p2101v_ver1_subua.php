@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'voices' => '16',
         'colors' => '262144',
-        'doja_2_1' => 'false',
         'doja_2_0' => 'false',
+        'doja_2_1' => 'false',
         'streaming_real_media' => 'none',
     ),
 );

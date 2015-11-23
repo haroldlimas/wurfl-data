@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'L-06D',
         'device_os_version' => '4.0',
-        'manufacturer_name' => 'LG',
         'brand_name' => 'DoCoMo',
+        'manufacturer_name' => 'LG',
     ),
 );

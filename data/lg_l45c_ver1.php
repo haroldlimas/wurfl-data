@@ -5,10 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'L45C',
         'brand_name' => 'LG',
-        'model_extra_info' => 'Net10',
         'marketing_name' => 'Optimus Net',
+        'model_extra_info' => 'Net10',
+        'release_date' => '2011_december',
         'physical_screen_height' => '68',
-        'density_class' => '1.0',
         'physical_screen_width' => '46',
+        'density_class' => '1.0',
     ),
 );

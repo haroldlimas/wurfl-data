@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'uaprof' => 'http://extranet.sagem.com/UAProfile/898012.xml',
         'directdownload_support' => 'true',
-        'aac' => 'true',
         'mp3' => 'true',
+        'aac' => 'true',
     ),
 );

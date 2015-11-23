@@ -5,10 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'E5',
         'brand_name' => 'Aole',
-        'physical_screen_height' => '64',
-        'density_class' => '3.14',
-        'physical_screen_width' => '48',
-        'resolution_width' => '240',
+        'release_date' => '2012_november',
         'resolution_height' => '320',
+        'resolution_width' => '240',
+        'physical_screen_height' => '64',
+        'physical_screen_width' => '48',
+        'density_class' => '3.14',
     ),
 );

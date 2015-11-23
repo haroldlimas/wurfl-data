@@ -6,6 +6,7 @@ return array(
         'model_name' => 'SCH-I619',
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Ace Dear',
+        'release_date' => '2012_april',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

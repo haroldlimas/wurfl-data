@@ -6,9 +6,9 @@ return array(
         'model_name' => 'i011',
         'brand_name' => 'Onida',
         'release_date' => '2013_september',
-        'physical_screen_height' => '77',
         'physical_screen_width' => '46',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'physical_screen_height' => '77',
     ),
 );

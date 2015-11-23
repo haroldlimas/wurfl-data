@@ -10,7 +10,7 @@ return array(
         'marketing_name' => 'One Max',
         'physical_screen_height' => '131',
         'physical_screen_width' => '74',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

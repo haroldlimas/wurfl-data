@@ -6,5 +6,6 @@ return array(
         'model_name' => 'M805HC',
         'brand_name' => 'Nextbook',
         'marketing_name' => 'Premium 8se',
+        'release_date' => '2012_april',
     ),
 );

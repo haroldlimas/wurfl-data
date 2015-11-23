@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => '823P',
         'marketing_name' => 'Tropical',
-        'dual_orientation' => 'true',
         'max_image_width' => '231',
         'resolution_height' => '427',
         'max_image_height' => '350',
+        'dual_orientation' => 'true',
         'flash_lite_version' => '2_0',
         'max_data_rate' => '1800',
     ),

@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'KingSing',
         'physical_screen_height' => '98',
         'physical_screen_width' => '49',
-        'resolution_width' => '400',
         'resolution_height' => '800',
+        'resolution_width' => '400',
     ),
 );

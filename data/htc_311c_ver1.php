@@ -5,5 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => '311C',
         'brand_name' => 'HTC',
+        'physical_screen_height' => '100',
+        'physical_screen_width' => '57',
+        'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

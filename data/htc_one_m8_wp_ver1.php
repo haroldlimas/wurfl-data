@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'HTC6995LVW',
         'brand_name' => 'HTC',
-        'model_extra_info' => 'for Verizon',
         'marketing_name' => 'One M8',
+        'model_extra_info' => 'for Verizon',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

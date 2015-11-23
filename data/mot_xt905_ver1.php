@@ -9,8 +9,9 @@ return array(
         'release_date' => '2012_september',
         'physical_screen_height' => '96',
         'physical_screen_width' => '54',
-        'max_image_width' => '360',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'max_image_width' => '270',
+        'density_class' => '2.0',
     ),
 );

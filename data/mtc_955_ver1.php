@@ -6,7 +6,7 @@ return array(
         'model_name' => '955',
         'brand_name' => 'MTC',
         'release_date' => '2011_december',
-        'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

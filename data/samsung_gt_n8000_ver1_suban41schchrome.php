@@ -6,7 +6,7 @@ return array(
         'mobile_browser' => 'Chrome Mobile',
         'model_name' => 'SCH-I925',
         'device_os_version' => '4.1',
-        'model_extra_info' => 'for Verizon',
         'marketing_name' => 'Galaxy Note 10.1 LTE',
+        'model_extra_info' => 'for Verizon',
     ),
 );

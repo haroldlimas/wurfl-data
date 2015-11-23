@@ -6,9 +6,10 @@ return array(
         'model_name' => 'One touch 6042D',
         'brand_name' => 'Alcatel',
         'release_date' => '2014_september',
+        'marketing_name' => 'Flash',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

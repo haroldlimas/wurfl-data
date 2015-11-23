@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Android 4.2',
         'device_os_version' => '4.2',
+        'release_date' => '2012_october',
     ),
 );

@@ -10,7 +10,7 @@ return array(
         'brand_name' => 'LG',
         'physical_screen_height' => '36',
         'physical_screen_width' => '47',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

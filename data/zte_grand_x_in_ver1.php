@@ -8,8 +8,8 @@ return array(
         'release_date' => '2012_august',
         'physical_screen_height' => '96',
         'physical_screen_width' => '54',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
         'nfc_support' => 'true',
     ),
 );

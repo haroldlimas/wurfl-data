@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'B92',
         'brand_name' => 'StarPAD',
+        'release_date' => '2012_october',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

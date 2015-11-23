@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'D157f',
         'brand_name' => 'LG',
+        'release_date' => '2014_may',
         'physical_screen_height' => '68',
         'physical_screen_width' => '46',
     ),

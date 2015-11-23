@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'LG',
         'model_extra_info' => 'TELUS',
         'streaming_real_media' => 'none',
-        'physical_screen_height' => '50',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '50',
     ),
 );

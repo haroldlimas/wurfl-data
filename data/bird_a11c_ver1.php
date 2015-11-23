@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'A11C',
         'brand_name' => 'Bird',
+        'release_date' => '2012_november',
     ),
 );

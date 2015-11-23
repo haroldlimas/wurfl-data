@@ -3,12 +3,12 @@ return array(
     'id'           => 'samsung_sph_m820_ver1',
     'fallback'     => 'generic_android_ver2_2',
     'capabilities' => array(
-        'model_name' => 'SPH-M820-BST',
         'brand_name' => 'Samsung',
+        'model_name' => 'SPH-M820-BST',
         'marketing_name' => 'Galaxy Prevail',
-        'density_class' => '1.0',
-        'max_image_width' => '320',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
+        'max_image_width' => '320',
+        'density_class' => '1.0',
     ),
 );

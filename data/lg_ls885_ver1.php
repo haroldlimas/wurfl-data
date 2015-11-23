@@ -8,9 +8,9 @@ return array(
         'brand_name' => 'LG',
         'marketing_name' => 'G2 Mini',
         'release_date' => '2014_february',
+        'resolution_height' => '960',
+        'resolution_width' => '540',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '540',
-        'resolution_height' => '960',
     ),
 );

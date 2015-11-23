@@ -7,9 +7,10 @@ return array(
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Player 5.8',
         'can_assign_phone_number' => 'false',
+        'release_date' => '2012_september',
         'physical_screen_height' => '129',
         'physical_screen_width' => '73',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

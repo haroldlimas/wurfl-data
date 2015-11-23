@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'opwv_v6_generic',
     'capabilities' => array(
         'mobile_browser_version' => '6.3',
-        'model_name' => 'W397',
         'can_skip_aligned_link_row' => 'true',
+        'model_name' => 'W397',
         'brand_name' => 'Motorola',
         'model_extra_info' => 'Vodafone',
         'release_date' => '2009_january',

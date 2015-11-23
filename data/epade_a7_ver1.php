@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'A7',
         'brand_name' => 'Epade',
+        'release_date' => '2012_july',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

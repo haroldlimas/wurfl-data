@@ -8,5 +8,6 @@ return array(
         'model_name' => 'A60',
         'brand_name' => 'Lenovo',
         'model_extra_info' => 'China Unicom',
+        'release_date' => '2010_december',
     ),
 );

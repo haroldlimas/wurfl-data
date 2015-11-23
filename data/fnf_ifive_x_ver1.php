@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'FNF',
         'physical_screen_height' => '198',
         'physical_screen_width' => '148',
-        'resolution_width' => '768',
         'resolution_height' => '1024',
+        'resolution_width' => '768',
     ),
 );

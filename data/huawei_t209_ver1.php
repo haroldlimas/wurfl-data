@@ -9,7 +9,7 @@ return array(
         'resolution_height' => '128',
         'max_image_height' => '100',
         'max_data_rate' => '40',
-        'j2me_cldc_1_0' => 'true',
         'j2me_midp_1_0' => 'true',
+        'j2me_cldc_1_0' => 'true',
     ),
 );

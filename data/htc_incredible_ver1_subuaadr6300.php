@@ -4,13 +4,13 @@ return array(
     'fallback'     => 'htc_incredible_ver1',
     'capabilities' => array(
         'has_qwerty_keyboard' => 'false',
-        'uaprof' => 'http://uaprof.vtext.com/pcd/adr63k/adr63k.xm',
         'model_name' => 'Incredible ADR6300',
-        'model_extra_info' => 'Verizon',
+        'uaprof' => 'http://uaprof.vtext.com/pcd/adr63k/adr63k.xm',
         'marketing_name' => 'Incredible C',
+        'model_extra_info' => 'Verizon',
         'physical_screen_height' => '81',
         'physical_screen_width' => '49',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

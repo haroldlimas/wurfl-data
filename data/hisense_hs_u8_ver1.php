@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'HS-U8',
         'brand_name' => 'Hisense',
+        'release_date' => '2012_april',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

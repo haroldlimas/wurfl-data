@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'ZTE',
         'release_date' => '2011_november',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'A5',
         'brand_name' => 'Hoow',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

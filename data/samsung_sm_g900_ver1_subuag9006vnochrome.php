@@ -5,5 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Android Webkit',
         'device_os_version' => '4.2',
+        'model_name' => 'SM-G9006V',
+        'model_extra_info' => '',
     ),
 );

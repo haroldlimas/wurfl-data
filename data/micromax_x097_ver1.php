@@ -6,7 +6,7 @@ return array(
         'model_name' => 'X097',
         'brand_name' => 'Micromax',
         'physical_screen_width' => '36',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

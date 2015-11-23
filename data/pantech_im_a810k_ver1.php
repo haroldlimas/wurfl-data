@@ -6,9 +6,10 @@ return array(
         'model_name' => 'IM-A810K',
         'brand_name' => 'Pantech',
         'marketing_name' => 'SKY Vega',
+        'release_date' => '2011_december',
+        'resolution_height' => '1280',
+        'resolution_width' => '800',
         'physical_screen_height' => '98',
         'physical_screen_width' => '61',
-        'resolution_width' => '800',
-        'resolution_height' => '1280',
     ),
 );

@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'MI-ONE Plus',
         'brand_name' => 'Xiaomi',
-        'model_extra_info' => 'aka MIUI Millet',
         'marketing_name' => 'M1 Plus',
+        'model_extra_info' => 'aka MIUI Millet',
         'physical_screen_height' => '89',
-        'density_class' => '1.5',
         'physical_screen_width' => '50',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

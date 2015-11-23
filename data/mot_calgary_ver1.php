@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'Calgary',
         'brand_name' => 'Motorola',
-        'physical_screen_height' => '65',
         'dual_orientation' => 'true',
-        'physical_screen_width' => '43',
-        'max_image_width' => '320',
-        'resolution_width' => '320',
         'resolution_height' => '480',
         'max_image_height' => '450',
+        'resolution_width' => '320',
+        'max_image_width' => '320',
+        'physical_screen_height' => '65',
+        'physical_screen_width' => '43',
     ),
 );

@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'W619',
         'brand_name' => 'K-Touch',
+        'release_date' => '2012_april',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

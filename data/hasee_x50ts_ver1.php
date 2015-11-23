@@ -6,9 +6,10 @@ return array(
         'model_name' => 'X50TS',
         'brand_name' => 'Hasee',
         'release_date' => '2014_december',
+        'device_os_version' => '4.4',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

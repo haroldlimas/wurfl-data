@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'mot_v870_ver1',
     'capabilities' => array(
         'model_name' => 'V875',
-        'ringtone_mp3' => 'true',
         'ringtone_voices' => '40',
-        'max_image_width' => '174',
+        'ringtone_mp3' => 'true',
         'resolution_width' => '178',
+        'max_image_width' => '174',
         'streaming_real_media' => 'none',
     ),
 );

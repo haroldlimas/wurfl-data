@@ -6,8 +6,8 @@ return array(
         'model_name' => '5',
         'brand_name' => 'Archos',
         'max_image_width' => '390',
-        'resolution_width' => '400',
         'resolution_height' => '800',
+        'resolution_width' => '400',
         'max_image_height' => '780',
     ),
 );

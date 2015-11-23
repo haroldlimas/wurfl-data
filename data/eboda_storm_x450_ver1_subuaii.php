@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'eboda_storm_x450_ver1',
     'capabilities' => array(
         'model_name' => 'X450 II',
+        'device_os_version' => '4.4',
     ),
 );

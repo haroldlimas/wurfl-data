@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'lenovo_a3000_ver1',
     'capabilities' => array(
         'model_name' => 'A3000-H',
-        'device_os_version' => '4.1',
         'marketing_name' => 'IdeaTab A3000-H',
+        'device_os_version' => '4.1',
     ),
 );

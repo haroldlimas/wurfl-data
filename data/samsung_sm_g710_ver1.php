@@ -8,9 +8,10 @@ return array(
         'model_name' => 'SM-G710',
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Grand 2',
+        'release_date' => '2014_march',
         'physical_screen_height' => '117',
         'physical_screen_width' => '66',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

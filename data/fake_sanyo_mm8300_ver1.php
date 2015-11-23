@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'MM-8300',
         'video' => 'true',
-        'playback_mp4' => 'true',
-        'playback_3gpp' => 'true',
-        'playback_acodec_amr' => 'nb',
         'playback_3g2' => 'true',
+        'playback_3gpp' => 'true',
+        'playback_mp4' => 'true',
+        'playback_acodec_amr' => 'nb',
         'streaming_real_media' => 'none',
         'streaming_3gpp' => 'true',
     ),

@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-C510L',
         'video' => 'true',
-        'physical_screen_height' => '33',
         'physical_screen_width' => '26',
+        'physical_screen_height' => '33',
         'playback_mp4' => 'true',
         'streaming_real_media' => 'none',
     ),

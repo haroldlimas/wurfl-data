@@ -11,9 +11,9 @@ return array(
         'physical_screen_width' => '43',
         'wifi' => 'true',
         'max_data_rate' => '40',
+        'j2me_midp_1_0' => 'true',
         'j2me_midp_2_0' => 'true',
         'j2me_cldc_1_0' => 'true',
         'j2me_cldc_1_1' => 'true',
-        'j2me_midp_1_0' => 'true',
     ),
 );

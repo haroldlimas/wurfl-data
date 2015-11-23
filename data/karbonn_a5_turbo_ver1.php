@@ -6,5 +6,6 @@ return array(
         'model_name' => 'A5',
         'brand_name' => 'Karbonn',
         'marketing_name' => 'A5 Turbo',
+        'release_date' => '2014_august',
     ),
 );

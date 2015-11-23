@@ -6,5 +6,6 @@ return array(
         'model_name' => '5.5',
         'brand_name' => 'Blu',
         'marketing_name' => 'Dash 5.5',
+        'release_date' => '2014_july',
     ),
 );

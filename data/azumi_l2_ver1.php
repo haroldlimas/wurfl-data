@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'L2',
         'brand_name' => 'Azumi',
+        'resolution_height' => '160',
         'physical_screen_height' => '36',
         'physical_screen_width' => '29',
-        'resolution_height' => '160',
     ),
 );

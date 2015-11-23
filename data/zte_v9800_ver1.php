@@ -1,0 +1,15 @@
+<?php
+return array(
+    'id'           => 'zte_v9800_ver1',
+    'fallback'     => 'generic_android_ver4',
+    'capabilities' => array(
+        'model_name' => 'V9800',
+        'brand_name' => 'ZTE',
+        'marketing_name' => 'TMN Smart A60',
+        'release_date' => '2012_december',
+        'physical_screen_height' => '100',
+        'physical_screen_width' => '57',
+        'resolution_height' => '854',
+        'resolution_width' => '480',
+    ),
+);

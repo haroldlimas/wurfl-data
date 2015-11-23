@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'P3',
         'brand_name' => 'Lemon',
+        'release_date' => '2013_may',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

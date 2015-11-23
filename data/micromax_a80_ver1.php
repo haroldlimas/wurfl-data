@@ -6,6 +6,7 @@ return array(
         'model_name' => 'A80',
         'brand_name' => 'Micromax',
         'marketing_name' => 'Superfone Infinity',
+        'release_date' => '2012_august',
         'physical_screen_height' => '79',
         'physical_screen_width' => '53',
     ),

@@ -6,6 +6,7 @@ return array(
         'model_name' => 'G7500',
         'brand_name' => 'Huawei',
         'marketing_name' => 'Ascend',
+        'release_date' => '2011_november',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

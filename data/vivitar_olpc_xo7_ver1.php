@@ -4,11 +4,11 @@ return array(
     'fallback'     => 'generic_android_ver4_1_tablet',
     'capabilities' => array(
         'model_name' => 'XO Tablet',
-        'manufacturer_name' => 'Vivitar',
         'brand_name' => 'OLPC',
+        'manufacturer_name' => 'Vivitar',
         'physical_screen_height' => '154',
         'physical_screen_width' => '90',
-        'resolution_width' => '600',
         'resolution_height' => '1024',
+        'resolution_width' => '600',
     ),
 );

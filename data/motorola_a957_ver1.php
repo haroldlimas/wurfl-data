@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'A957',
         'brand_name' => 'Motorola',
-        'model_extra_info' => 'aka Droid Pro',
         'marketing_name' => 'Milestone Plus',
+        'model_extra_info' => 'aka Droid Pro',
         'physical_screen_height' => '66',
-        'density_class' => '1.0',
         'physical_screen_width' => '44',
+        'density_class' => '1.0',
     ),
 );

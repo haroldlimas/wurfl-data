@@ -6,5 +6,6 @@ return array(
         'model_name' => 'P517',
         'brand_name' => 'Onyx',
         'marketing_name' => 'Point of View TAB',
+        'release_date' => '2013_march',
     ),
 );

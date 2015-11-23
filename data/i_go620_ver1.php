@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'i-GO 620',
         'imelody' => 'true',
-        'ringtone_voices' => '40',
         'wallpaper_png' => 'true',
-        'ringtone_amr' => 'true',
+        'ringtone_voices' => '40',
         'ringtone_imelody' => 'true',
-        'xhtml_support_level' => '-1',
+        'ringtone_amr' => 'true',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'streaming_real_media' => 'none',
     ),
 );

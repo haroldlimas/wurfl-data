@@ -6,10 +6,10 @@ return array(
         'model_name' => 'N-06B',
         'release_date' => '2010_june',
         'columns' => '12',
-        'max_image_width' => '240',
         'rows' => '16',
-        'resolution_width' => '240',
+        'max_image_width' => '240',
         'resolution_height' => '427',
+        'resolution_width' => '240',
         'flash_lite_version' => '3_0',
     ),
 );

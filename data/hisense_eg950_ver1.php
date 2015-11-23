@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'EG950',
         'brand_name' => 'Hisense',
+        'release_date' => '2012_october',
         'physical_screen_height' => '100',
         'physical_screen_width' => '57',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

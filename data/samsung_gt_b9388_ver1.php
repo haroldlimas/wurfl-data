@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'GT-B9388',
         'brand_name' => 'Samsung',
+        'release_date' => '2013_february',
         'physical_screen_height' => '81',
         'physical_screen_width' => '49',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

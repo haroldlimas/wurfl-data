@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '90',
         'physical_screen_width' => '54',
-        'model_name' => 'Venue Pro',
-        'brand_name' => 'Dell',
         'model_extra_info' => 'Lightning',
         'release_date' => '2010_november',
+        'model_name' => 'Venue Pro',
+        'brand_name' => 'Dell',
     ),
 );

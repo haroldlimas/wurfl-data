@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'ZTE',
         'model_extra_info' => 'aka U812',
         'release_date' => '2011_october',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
     ),
 );

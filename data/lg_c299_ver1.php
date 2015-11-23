@@ -6,7 +6,7 @@ return array(
         'model_name' => 'C299',
         'physical_screen_height' => '34',
         'physical_screen_width' => '45',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

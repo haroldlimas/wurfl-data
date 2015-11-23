@@ -6,6 +6,7 @@ return array(
         'model_name' => 'Mi-349',
         'brand_name' => 'Spice',
         'marketing_name' => 'Smart Flo Edge',
+        'release_date' => '2013_september',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

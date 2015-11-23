@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'G905',
         'brand_name' => 'Yxtel',
+        'release_date' => '2013_november',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

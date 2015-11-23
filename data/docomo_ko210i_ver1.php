@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'KO210i',
         'max_image_width' => '96',
-        'resolution_width' => '96',
         'resolution_height' => '96',
         'max_image_height' => '96',
+        'resolution_width' => '96',
         'colors' => '256',
         'preferred_markup' => 'html_wi_imode_html_2',
         'flash_lite_version' => '',

@@ -8,7 +8,7 @@ return array(
         'brand_name' => 'Azumi',
         'physical_screen_height' => '32',
         'physical_screen_width' => '40',
-        'resolution_width' => '220',
         'resolution_height' => '176',
+        'resolution_width' => '220',
     ),
 );

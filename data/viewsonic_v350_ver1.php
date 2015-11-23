@@ -5,8 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'V350',
         'brand_name' => 'ViewSonic',
+        'release_date' => '2011_february',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

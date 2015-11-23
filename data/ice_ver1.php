@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Teleca-Obigo',
         'mobile_browser_version' => 'Q04C1',
-        'uaprof' => 'http://www.curitel.com/UAProf/Ice.xml',
         'model_name' => 'Ice',
-        'xhtml_support_level' => '-1',
+        'uaprof' => 'http://www.curitel.com/UAProf/Ice.xml',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'cookie_support' => 'true',
         'streaming_real_media' => 'none',
         'directdownload_support' => 'true',

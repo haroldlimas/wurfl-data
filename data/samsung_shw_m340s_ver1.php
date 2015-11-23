@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'SHW-M340S',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'for SKT',
         'marketing_name' => 'Galaxy M Style',
+        'model_extra_info' => 'for SKT',
+        'release_date' => '2012_january',
         'physical_screen_height' => '88',
-        'density_class' => '1.5',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

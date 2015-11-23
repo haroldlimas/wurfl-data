@@ -5,6 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'KYY23',
         'brand_name' => 'Kyocera',
+        'marketing_name' => 'L03',
+        'release_date' => '2014_may',
         'nfc_support' => 'true',
     ),
 );

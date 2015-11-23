@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Excite 13',
         'physical_screen_height' => '166',
         'physical_screen_width' => '295',
-        'resolution_width' => '1600',
         'resolution_height' => '900',
+        'resolution_width' => '1600',
     ),
 );

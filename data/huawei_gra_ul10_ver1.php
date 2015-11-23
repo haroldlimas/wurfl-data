@@ -6,9 +6,10 @@ return array(
         'model_name' => 'GRA-UL10',
         'brand_name' => 'Huawei',
         'marketing_name' => 'P8',
+        'release_date' => '2015_april',
         'physical_screen_height' => '116',
         'physical_screen_width' => '65',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

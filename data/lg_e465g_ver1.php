@@ -6,6 +6,7 @@ return array(
         'model_name' => 'E465g',
         'brand_name' => 'LG',
         'marketing_name' => 'Optimus L4',
+        'release_date' => '2013_september',
         'physical_screen_height' => '100',
         'physical_screen_width' => '67',
     ),

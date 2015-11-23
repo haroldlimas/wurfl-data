@@ -8,10 +8,10 @@ return array(
         'marketing_name' => 'Galaxy Tab 8.9',
         'release_date' => '2011_october',
         'physical_screen_height' => '120',
-        'density_class' => '1.0',
         'physical_screen_width' => '192',
-        'max_image_width' => '1280',
         'resolution_height' => '800',
+        'density_class' => '1.0',
+        'max_image_width' => '1280',
         'has_cellular_radio' => 'false',
     ),
 );

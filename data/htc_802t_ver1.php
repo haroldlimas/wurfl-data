@@ -6,9 +6,10 @@ return array(
         'model_name' => '802t',
         'brand_name' => 'HTC',
         'marketing_name' => 'One',
+        'release_date' => '2013_august',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

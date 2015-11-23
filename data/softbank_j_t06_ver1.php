@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'J-T06',
         'max_image_width' => '120',
-        'resolution_width' => '120',
         'resolution_height' => '126',
+        'resolution_width' => '120',
         'max_image_height' => '126',
         'colors' => '65536',
         'preferred_markup' => 'html_wi_mml_html',

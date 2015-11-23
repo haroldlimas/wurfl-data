@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'colors' => '2',
         'max_image_width' => '120',
-        'resolution_width' => '120',
-        'resolution_height' => '72',
         'max_image_height' => '72',
+        'resolution_height' => '72',
+        'resolution_width' => '120',
         'preferred_markup' => 'html_wi_imode_html_2',
         'model_name' => 'ER209i',
         'flash_lite_version' => '',

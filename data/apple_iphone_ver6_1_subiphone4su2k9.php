@@ -6,7 +6,7 @@ return array(
         'mobile_browser' => 'UCWeb',
         'mobile_browser_version' => '9',
         'model_name' => 'iPhone 4S',
-        'resolution_width' => '640',
         'resolution_height' => '960',
+        'resolution_width' => '640',
     ),
 );

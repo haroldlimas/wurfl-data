@@ -5,14 +5,14 @@ return array(
     'capabilities' => array(
         'model_name' => 'N850',
         'brand_name' => 'NEC',
-        'physical_screen_height' => '38',
         'columns' => '14',
-        'physical_screen_width' => '30',
-        'max_image_width' => '169',
         'rows' => '9',
-        'resolution_width' => '176',
+        'max_image_width' => '169',
         'resolution_height' => '220',
+        'resolution_width' => '176',
         'max_image_height' => '200',
+        'physical_screen_width' => '30',
+        'physical_screen_height' => '38',
         'streaming_real_media' => 'none',
     ),
 );

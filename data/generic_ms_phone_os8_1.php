@@ -6,5 +6,6 @@ return array(
         'mobile_browser_version' => '11',
         'model_name' => 'Windows Phone 8.1',
         'device_os_version' => '8.1',
+        'release_date' => '2014_april',
     ),
 );

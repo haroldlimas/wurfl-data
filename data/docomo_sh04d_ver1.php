@@ -6,10 +6,11 @@ return array(
         'model_name' => 'SH-04D',
         'brand_name' => 'DoCoMo',
         'marketing_name' => 'Q-pot.Phone SH-04D',
+        'release_date' => '2012_february',
         'physical_screen_height' => '82',
-        'density_class' => '1.5',
         'physical_screen_width' => '47',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'density_class' => '1.5',
     ),
 );

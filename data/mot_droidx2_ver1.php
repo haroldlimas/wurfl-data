@@ -4,11 +4,11 @@ return array(
     'fallback'     => 'mot_droidx_ver1',
     'capabilities' => array(
         'model_name' => 'Droid X2',
-        'device_os_version' => '2.2',
         'release_date' => '2011_july',
+        'device_os_version' => '2.2',
         'max_image_width' => '500',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
         'max_image_height' => '920',
     ),
 );

@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'D15',
         'brand_name' => 'Woxter',
-        'marketing_name' => 'Zielo',
         'release_date' => '2014_may',
+        'marketing_name' => 'Zielo',
         'physical_screen_height' => '100',
         'physical_screen_width' => '57',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

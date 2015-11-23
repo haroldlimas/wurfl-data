@@ -5,10 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => '809T',
         'brand_name' => 'M Pai',
+        'release_date' => '2014_march',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

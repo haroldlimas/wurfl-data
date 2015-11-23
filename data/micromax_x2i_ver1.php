@@ -10,8 +10,8 @@ return array(
         'xhtml_support_level' => '3',
         'columns' => '15',
         'rows' => '50',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
         'colors' => '16777216',
     ),
 );

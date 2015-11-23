@@ -6,7 +6,7 @@ return array(
         'model_name' => '9300',
         'brand_name' => 'Feiteng',
         'release_date' => '2012_september',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

@@ -6,9 +6,10 @@ return array(
         'model_name' => 'QBA769',
         'brand_name' => 'Qbex',
         'marketing_name' => 'Slim Note',
+        'release_date' => '2013_september',
         'physical_screen_height' => '120',
         'physical_screen_width' => '68',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

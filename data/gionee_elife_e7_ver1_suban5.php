@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Gionee',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

@@ -4,14 +4,14 @@ return array(
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
         'model_name' => 'MaxiPRO5',
-        'manufacturer_name' => 'Huawei',
         'brand_name' => 'Turkcell',
+        'manufacturer_name' => 'Huawei',
         'release_date' => '2012_july',
         'physical_screen_height' => '89',
-        'density_class' => '1.5',
         'physical_screen_width' => '50',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
         'nfc_support' => 'true',
     ),
 );

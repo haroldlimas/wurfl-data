@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Posh',
         'physical_screen_height' => '129',
         'physical_screen_width' => '77',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

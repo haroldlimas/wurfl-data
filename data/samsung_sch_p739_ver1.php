@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Samsung',
         'physical_screen_height' => '192',
         'physical_screen_width' => '120',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
     ),
 );

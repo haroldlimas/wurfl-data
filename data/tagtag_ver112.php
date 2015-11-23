@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'generic_mobile',
     'capabilities' => array(
         'max_image_width' => '170',
-        'jpg' => 'true',
         'gif' => 'true',
-        'colors' => '4096',
+        'jpg' => 'true',
         'png' => 'true',
+        'colors' => '4096',
         'max_deck_size' => '10240',
     ),
 );

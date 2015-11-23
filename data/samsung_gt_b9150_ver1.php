@@ -7,5 +7,6 @@ return array(
         'brand_name' => 'Samsung',
         'marketing_name' => 'Home Sync',
         'release_date' => '2013_march',
+        'is_smarttv' => 'true',
     ),
 );

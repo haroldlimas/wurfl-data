@@ -8,7 +8,7 @@ return array(
         'brand_name' => 'ZTE',
         'physical_screen_height' => '50',
         'physical_screen_width' => '40',
-        'resolution_width' => '176',
         'resolution_height' => '220',
+        'resolution_width' => '176',
     ),
 );

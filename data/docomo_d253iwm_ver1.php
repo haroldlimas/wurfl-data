@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'colors' => '262144',
         'max_image_width' => '220',
-        'resolution_width' => '220',
         'resolution_height' => '176',
+        'resolution_width' => '220',
         'preferred_markup' => 'html_wi_imode_html_5',
         'model_name' => 'D253iWM',
         'flash_lite_version' => '',

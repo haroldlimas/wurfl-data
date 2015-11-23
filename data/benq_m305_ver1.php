@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'M305',
         'brand_name' => 'BenQ',
-        'max_image_width' => '118',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
+        'max_image_width' => '118',
         'streaming_real_media' => 'none',
     ),
 );

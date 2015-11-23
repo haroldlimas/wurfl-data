@@ -8,8 +8,8 @@ return array(
         'marketing_name' => 'Galaxy Camera',
         'physical_screen_height' => '60',
         'physical_screen_width' => '107',
-        'resolution_width' => '1280',
         'resolution_height' => '720',
+        'resolution_width' => '1280',
         'nfc_support' => 'true',
     ),
 );

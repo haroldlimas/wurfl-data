@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'KS306',
         'brand_name' => 'Koobee',
+        'release_date' => '2012_july',
     ),
 );

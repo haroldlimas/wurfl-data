@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'MK802 III',
         'brand_name' => 'Rikomagic',
-        'model_extra_info' => 'Android Mini PC',
         'release_date' => '2012_december',
+        'model_extra_info' => 'Android Mini PC',
     ),
 );

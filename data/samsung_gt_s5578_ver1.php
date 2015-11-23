@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'GT S5578',
         'brand_name' => 'Samsung',
+        'release_date' => '2012_march',
         'physical_screen_height' => '88',
         'physical_screen_width' => '66',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

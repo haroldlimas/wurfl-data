@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => '3300',
         'model_extra_info' => 'United States',
-        'jpg' => 'false',
         'png' => 'false',
+        'jpg' => 'false',
         'awb' => 'true',
         'ringtone_awb' => 'true',
         'video' => 'true',

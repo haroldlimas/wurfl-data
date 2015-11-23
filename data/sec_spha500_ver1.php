@@ -3,10 +3,10 @@ return array(
     'id'           => 'sec_spha500_ver1',
     'fallback'     => 'uptext_generic',
     'capabilities' => array(
-        'model_name' => 'SPH-A500',
         'brand_name' => 'Samsung',
-        'max_image_width' => '116',
+        'model_name' => 'SPH-A500',
         'resolution_width' => '128',
+        'max_image_width' => '116',
         'streaming_real_media' => 'none',
     ),
 );

@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Nextbook',
         'physical_screen_height' => '151',
         'physical_screen_width' => '196',
-        'resolution_width' => '1024',
         'resolution_height' => '788',
+        'resolution_width' => '1024',
     ),
 );

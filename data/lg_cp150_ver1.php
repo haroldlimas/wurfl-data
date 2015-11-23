@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'CP150',
         'brand_name' => 'LG',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
     ),
 );

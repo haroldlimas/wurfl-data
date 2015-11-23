@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'N60',
         'brand_name' => 'Amoi',
+        'release_date' => '2011_august',
         'physical_screen_height' => '70',
         'physical_screen_width' => '42',
-        'resolution_width' => '240',
         'resolution_height' => '400',
+        'resolution_width' => '240',
     ),
 );

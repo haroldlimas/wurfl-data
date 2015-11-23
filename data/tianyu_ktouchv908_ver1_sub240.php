@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'tianyu_ktouchv908_ver1',
     'capabilities' => array(
         'accept_third_party_cookie' => 'false',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

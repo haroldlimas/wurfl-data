@@ -5,11 +5,12 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '95',
         'physical_screen_width' => '151',
-        'resolution_width' => '1440',
         'resolution_height' => '900',
-        'model_name' => 'U6',
+        'resolution_width' => '1440',
         'is_tablet' => 'true',
-        'brand_name' => 'PiPO',
         'can_assign_phone_number' => 'false',
+        'model_name' => 'U6',
+        'brand_name' => 'PiPO',
+        'release_date' => '2013_june',
     ),
 );

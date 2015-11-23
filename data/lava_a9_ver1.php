@@ -9,7 +9,7 @@ return array(
         'brand_name' => 'Lava',
         'physical_screen_height' => '82',
         'physical_screen_width' => '61',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

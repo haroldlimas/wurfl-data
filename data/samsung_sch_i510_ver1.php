@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'SCH-I510',
         'brand_name' => 'Samsung',
-        'marketing_name' => 'Droid Charge',
         'release_date' => '2011_august',
+        'marketing_name' => 'Droid Charge',
         'density_class' => '1.5',
     ),
 );

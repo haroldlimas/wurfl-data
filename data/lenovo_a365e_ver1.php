@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'A365e',
         'brand_name' => 'Lenovo',
+        'release_date' => '2013_february',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

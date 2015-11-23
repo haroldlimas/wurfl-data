@@ -7,10 +7,11 @@ return array(
         'model_name' => 'SC-04E',
         'brand_name' => 'Samsung',
         'release_date' => '2013_june',
+        'marketing_name' => 'Galaxy S4',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

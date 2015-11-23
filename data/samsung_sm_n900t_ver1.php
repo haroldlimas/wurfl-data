@@ -5,11 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'SM-N900T',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'For T-mobile',
         'marketing_name' => 'Samsung Galaxy Note',
+        'model_extra_info' => 'For T-mobile',
+        'release_date' => '2013_november',
         'physical_screen_height' => '127',
         'physical_screen_width' => '71',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

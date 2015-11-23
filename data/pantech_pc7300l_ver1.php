@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'PC-7300L',
         'brand_name' => 'Pantech',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
     ),
 );

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'MT6589',
         'brand_name' => 'MediaTek',
+        'release_date' => '2013_january',
     ),
 );

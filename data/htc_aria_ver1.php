@@ -7,9 +7,9 @@ return array(
         'brand_name' => 'HTC',
         'marketing_name' => 'Aria',
         'xhtml_file_upload' => 'supported',
-        'density_class' => '1.0',
         'max_image_width' => '320',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
+        'density_class' => '1.0',
     ),
 );

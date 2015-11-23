@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'P-03B',
         'max_image_width' => '240',
-        'resolution_width' => '240',
         'resolution_height' => '427',
+        'resolution_width' => '240',
         'max_image_height' => '331',
         'flash_lite_version' => '3_1',
     ),

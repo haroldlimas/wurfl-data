@@ -6,8 +6,9 @@ return array(
         'model_name' => 'L55c',
         'brand_name' => 'LG',
         'marketing_name' => 'Optimus Q',
+        'release_date' => '2011_november',
         'physical_screen_height' => '68',
-        'density_class' => '1.0',
         'physical_screen_width' => '46',
+        'density_class' => '1.0',
     ),
 );

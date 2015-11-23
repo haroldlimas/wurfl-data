@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'A326',
         'brand_name' => 'Lenovo',
+        'release_date' => '2012_september',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

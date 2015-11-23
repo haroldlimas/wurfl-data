@@ -8,7 +8,7 @@ return array(
         'model_name' => 'GT-C3322i',
         'brand_name' => 'Samsung',
         'physical_screen_height' => '45',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

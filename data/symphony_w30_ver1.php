@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'W30',
         'brand_name' => 'Symphony',
+        'release_date' => '2013_march',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

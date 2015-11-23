@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Mi-362',
         'brand_name' => 'Spice',
-        'marketing_name' => 'Stellar',
         'release_date' => '2014_november',
+        'marketing_name' => 'Stellar Mi-362',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'lg_f320_ver1',
     'capabilities' => array(
         'model_name' => 'LS980',
-        'device_os_version' => '4.4',
         'model_extra_info' => 'for Sprint',
+        'device_os_version' => '4.4',
     ),
 );

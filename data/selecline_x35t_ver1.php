@@ -8,7 +8,7 @@ return array(
         'model_extra_info' => 'Dual Sim',
         'physical_screen_height' => '72',
         'physical_screen_width' => '54',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

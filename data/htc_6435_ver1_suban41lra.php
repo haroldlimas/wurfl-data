@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'htc_6435_ver1',
     'capabilities' => array(
         'model_name' => 'HTC6435LRA',
+        'device_os_version' => '4.1',
     ),
 );

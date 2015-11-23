@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Walton',
         'physical_screen_height' => '95',
         'physical_screen_width' => '55',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

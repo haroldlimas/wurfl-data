@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'UCWeb',
         'mobile_browser_version' => 'browser_root_ucweb',
+        'utf8_support' => 'true',
     ),
 );

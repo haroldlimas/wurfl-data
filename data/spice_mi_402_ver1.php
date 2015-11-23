@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Mi-402',
         'brand_name' => 'Spice',
+        'release_date' => '2015_january',
         'physical_screen_height' => '85',
         'physical_screen_width' => '57',
     ),

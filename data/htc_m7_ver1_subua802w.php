@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'model_name' => '802W',
         'device_os_version' => '4.1',
         'brand_name' => 'HTC',

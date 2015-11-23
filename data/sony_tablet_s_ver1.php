@@ -6,8 +6,8 @@ return array(
         'model_name' => 'Tablet S',
         'brand_name' => 'Sony',
         'release_date' => '2011_november',
-        'density_class' => '1.0',
-        'resolution_width' => '1280',
         'resolution_height' => '800',
+        'resolution_width' => '1280',
+        'density_class' => '1.0',
     ),
 );

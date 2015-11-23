@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'C8655',
         'brand_name' => 'Huawei',
+        'release_date' => '2012_june',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

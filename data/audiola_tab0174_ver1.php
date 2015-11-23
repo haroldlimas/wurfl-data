@@ -3,8 +3,8 @@ return array(
     'id'           => 'audiola_tab0174_ver1',
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'TAB 0174',
+        'is_tablet' => 'true',
         'brand_name' => 'Audiola',
         'can_assign_phone_number' => 'false',
         'release_date' => '2014_october',

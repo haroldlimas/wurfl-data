@@ -4,10 +4,10 @@ return array(
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
         'model_name' => 'L-05D',
-        'manufacturer_name' => 'LG',
         'brand_name' => 'DoCoMo',
-        'model_extra_info' => 'for NTT DoCoMo',
+        'manufacturer_name' => 'LG',
         'marketing_name' => 'Optimus it',
+        'model_extra_info' => 'for NTT DoCoMo',
         'release_date' => '2012_july',
         'density_class' => '1.5',
     ),

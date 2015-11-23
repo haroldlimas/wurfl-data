@@ -8,8 +8,8 @@ return array(
         'marketing_name' => 'Steel',
         'columns' => '30',
         'rows' => '7',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
         'colors' => '65536',
     ),
 );

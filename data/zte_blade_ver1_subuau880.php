@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'zte_blade_ver1',
     'capabilities' => array(
         'model_name' => 'U880',
-        'device_os_version' => '2.2',
         'marketing_name' => 'Blade',
+        'device_os_version' => '2.2',
     ),
 );

@@ -6,9 +6,9 @@ return array(
         'model_name' => 'J7',
         'brand_name' => 'Tecno',
         'release_date' => '2015_april',
-        'physical_screen_height' => '63',
-        'physical_screen_width' => '111',
-        'resolution_width' => '720',
+        'physical_screen_height' => '111',
+        'physical_screen_width' => '63',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

@@ -6,8 +6,8 @@ return array(
         'nokia_edition' => '0',
         'release_date' => '2011_july',
         'max_image_width' => '168',
-        'resolution_width' => '176',
         'resolution_height' => '220',
+        'resolution_width' => '176',
         'max_image_height' => '180',
     ),
 );

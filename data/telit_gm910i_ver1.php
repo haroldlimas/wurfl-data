@@ -6,8 +6,8 @@ return array(
         'model_name' => 'GM910i',
         'brand_name' => 'Telit',
         'release_date' => '2001_january',
-        'resolution_width' => '97',
         'resolution_height' => '32',
+        'resolution_width' => '97',
         'max_image_height' => '30',
     ),
 );

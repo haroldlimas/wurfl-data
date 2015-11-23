@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'myC5-3',
         'ringtone_mp3' => 'true',
-        'screensaver_gif' => 'true',
         'screensaver' => 'true',
-        'aac' => 'true',
+        'screensaver_gif' => 'true',
         'mp3' => 'true',
+        'aac' => 'true',
         'max_image_width' => '121',
         'streaming_real_media' => 'none',
     ),

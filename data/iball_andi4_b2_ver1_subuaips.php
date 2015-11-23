@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'iball_andi4_b2_ver1',
     'capabilities' => array(
         'model_name' => 'Andi4-B2 IPS',
+        'device_os_version' => '4.4',
     ),
 );

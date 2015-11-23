@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Aqua N11',
         'brand_name' => 'Intex',
+        'release_date' => '2014_september',
     ),
 );

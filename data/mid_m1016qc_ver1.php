@@ -6,9 +6,10 @@ return array(
         'model_name' => 'M1016QC',
         'brand_name' => 'MID',
         'can_assign_phone_number' => 'false',
+        'is_tablet' => 'true',
         'physical_screen_height' => '130',
         'physical_screen_width' => '222',
-        'resolution_width' => '1024',
         'resolution_height' => '600',
+        'resolution_width' => '1024',
     ),
 );

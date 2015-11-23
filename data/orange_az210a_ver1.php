@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'AZ210A',
         'brand_name' => 'Orange',
+        'release_date' => '2012_february',
         'physical_screen_height' => '88',
         'physical_screen_width' => '52',
-        'resolution_width' => '600',
         'resolution_height' => '1024',
+        'resolution_width' => '600',
     ),
 );

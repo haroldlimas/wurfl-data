@@ -6,10 +6,11 @@ return array(
         'model_name' => 'T00P',
         'brand_name' => 'Asus',
         'marketing_name' => 'Zenfone 5',
+        'release_date' => '2014_july',
         'physical_screen_height' => '102',
         'physical_screen_width' => '58',
-        'resolution_height' => '1280',
         'resolution_width' => '720',
+        'resolution_height' => '1280',
         'nfc_support' => 'true',
     ),
 );

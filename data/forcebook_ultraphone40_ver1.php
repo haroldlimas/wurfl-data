@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'UltraPhone 40',
         'brand_name' => 'Forcebook',
+        'release_date' => '2013_july',
         'physical_screen_height' => '85',
         'physical_screen_width' => '57',
     ),

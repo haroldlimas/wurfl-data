@@ -9,7 +9,7 @@ return array(
         'marketing_name' => 'Galaxy Tab 4 8.0',
         'physical_screen_height' => '173',
         'physical_screen_width' => '108',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
     ),
 );

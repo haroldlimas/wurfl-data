@@ -9,8 +9,8 @@ return array(
         'brand_name' => 'Micromax',
         'columns' => '50',
         'rows' => '50',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
         'colors' => '256',
     ),
 );

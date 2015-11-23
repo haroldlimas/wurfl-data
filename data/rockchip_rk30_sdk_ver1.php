@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'RK30 SDK',
         'brand_name' => 'Rockchip',
+        'release_date' => '2012_november',
     ),
 );

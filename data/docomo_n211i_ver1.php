@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'colors' => '4096',
         'max_image_width' => '118',
-        'resolution_width' => '120',
-        'resolution_height' => '145',
         'max_image_height' => '128',
+        'resolution_height' => '145',
+        'resolution_width' => '120',
         'preferred_markup' => 'html_wi_imode_html_3',
         'model_name' => 'N211i',
         'flash_lite_version' => '',

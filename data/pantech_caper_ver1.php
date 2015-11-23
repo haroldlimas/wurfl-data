@@ -9,7 +9,7 @@ return array(
         'model_extra_info' => 'Verizon',
         'physical_screen_height' => '42',
         'physical_screen_width' => '52',
-        'resolution_width' => '220',
         'resolution_height' => '176',
+        'resolution_width' => '220',
     ),
 );

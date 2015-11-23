@@ -7,10 +7,10 @@ return array(
         'model_name' => '50b',
         'brand_name' => 'Archos',
         'marketing_name' => '50b Platinum',
-        'release_date' => '2013_june',
+        'release_date' => '2014_september',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

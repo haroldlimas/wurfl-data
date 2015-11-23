@@ -6,6 +6,7 @@ return array(
         'model_name' => 'Xperia St21a',
         'brand_name' => 'Sony',
         'marketing_name' => 'Xperia tipo',
+        'release_date' => '2012_august',
         'physical_screen_height' => '64',
         'physical_screen_width' => '43',
     ),

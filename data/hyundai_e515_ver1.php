@@ -5,13 +5,14 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '30',
-        'is_tablet' => 'true',
         'model_name' => 'E515',
+        'is_tablet' => 'true',
         'brand_name' => 'Hyundai',
         'can_assign_phone_number' => 'false',
+        'release_date' => '2014_july',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

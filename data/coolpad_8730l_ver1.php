@@ -5,10 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => '8730L',
         'brand_name' => 'Coolpad',
+        'release_date' => '2014_october',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'nfc_support' => 'true',
     ),
 );

@@ -5,5 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'VF1497',
         'brand_name' => 'Alcatel',
+        'marketing_name' => 'Vodafone Tab prime 6',
+        'release_date' => '2015_may',
     ),
 );

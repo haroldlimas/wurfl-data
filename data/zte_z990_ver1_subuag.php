@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'zte_z990_ver1',
     'capabilities' => array(
         'model_name' => 'Z990g',
-        'model_extra_info' => 'for Straight Talk',
         'marketing_name' => 'Merit',
+        'model_extra_info' => 'for Straight Talk',
     ),
 );

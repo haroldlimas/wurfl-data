@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'samsung_s200_ver1',
     'capabilities' => array(
         'model_name' => 'SGH-S208',
-        'xhtml_support_level' => '-1',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'streaming_real_media' => 'none',
     ),
 );

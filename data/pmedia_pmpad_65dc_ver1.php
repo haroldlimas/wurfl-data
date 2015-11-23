@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Pmedia',
         'physical_screen_height' => '142',
         'physical_screen_width' => '85',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

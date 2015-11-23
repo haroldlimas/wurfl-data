@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-T999L',
         'device_os_version' => '4.1',
-        'model_extra_info' => 'for T-Mobile',
         'marketing_name' => 'Galaxy SIII LTE',
+        'model_extra_info' => 'for T-Mobile',
     ),
 );

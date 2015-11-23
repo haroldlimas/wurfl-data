@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'F2051',
         'columns' => '12',
-        'max_image_width' => '176',
         'rows' => '13',
-        'resolution_width' => '176',
         'resolution_height' => '182',
+        'max_image_width' => '176',
         'max_image_height' => '182',
+        'resolution_width' => '176',
         'streaming_real_media' => 'none',
         'colors' => '65536',
         'preferred_markup' => 'html_wi_imode_htmlx_1',

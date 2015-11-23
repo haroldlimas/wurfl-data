@@ -3,12 +3,12 @@ return array(
     'id'           => 'sendos620_ver1',
     'fallback'     => 'generic_mobile',
     'capabilities' => array(
-        'model_name' => 'S620',
         'brand_name' => 'Sendo',
-        'connectionless_service_indication' => 'true',
+        'model_name' => 'S620',
         'wap_push_support' => 'true',
-        'xhtml_support_level' => '-1',
+        'connectionless_service_indication' => 'true',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'streaming_real_media' => 'none',
     ),
 );

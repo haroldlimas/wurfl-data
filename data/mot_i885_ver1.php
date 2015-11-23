@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'i885',
         'video' => 'true',
-        'playback_mp4' => 'true',
         'playback_vcodec_h263_0' => '10',
+        'playback_mp4' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

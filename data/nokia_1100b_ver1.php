@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => '1100b',
         'nokiaring' => 'true',
+        'picturemessage' => 'true',
         'operatorlogo' => 'true',
         'callericon' => 'true',
-        'picturemessage' => 'true',
         'wallpaper_gif' => 'true',
         'streaming_real_media' => 'none',
     ),

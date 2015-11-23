@@ -6,7 +6,7 @@ return array(
         'model_name' => 'SGH A667',
         'brand_name' => 'Samsung',
         'physical_screen_width' => '30',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

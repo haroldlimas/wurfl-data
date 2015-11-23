@@ -6,6 +6,7 @@ return array(
         'model_name' => 'GT-S6800',
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Ace Advance',
+        'release_date' => '2012_june',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

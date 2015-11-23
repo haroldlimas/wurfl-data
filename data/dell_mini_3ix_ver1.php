@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Mini 3iX',
         'physical_screen_height' => '78',
         'physical_screen_width' => '44',
-        'resolution_width' => '360',
         'resolution_height' => '640',
+        'resolution_width' => '360',
     ),
 );

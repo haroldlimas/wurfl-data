@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'L601i',
         'colors' => '65536',
-        'preferred_markup' => 'html_wi_imode_htmlx_1_1',
         'html_wi_imode_htmlx_1_1' => 'true',
+        'preferred_markup' => 'html_wi_imode_htmlx_1_1',
         'max_image_width' => '170',
-        'resolution_width' => '176',
         'resolution_height' => '220',
+        'resolution_width' => '176',
         'max_image_height' => '189',
         'flash_lite_version' => '',
     ),

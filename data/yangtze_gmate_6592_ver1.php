@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Gmate 6592',
         'physical_screen_height' => '143',
         'physical_screen_width' => '81',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

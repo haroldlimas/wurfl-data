@@ -9,7 +9,7 @@ return array(
         'marketing_name' => 'Theory',
         'physical_screen_height' => '37',
         'physical_screen_width' => '49',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

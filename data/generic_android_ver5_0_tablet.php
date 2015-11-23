@@ -3,14 +3,14 @@ return array(
     'id'           => 'generic_android_ver5_0_tablet',
     'fallback'     => 'generic_android_ver5_0',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'Android 5.0 Tablet',
+        'is_tablet' => 'true',
         'can_assign_phone_number' => 'false',
         'physical_screen_height' => '153',
         'physical_screen_width' => '92',
         'max_image_width' => '600',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
         'max_image_height' => '1024',
     ),
 );

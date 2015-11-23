@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'H5018',
         'brand_name' => 'Changhong',
+        'release_date' => '2012_may',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

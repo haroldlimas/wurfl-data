@@ -9,10 +9,10 @@ return array(
         'release_date' => '2012_september',
         'nfc_support' => 'true',
         'physical_screen_height' => '96',
-        'density_class' => '1.5',
         'physical_screen_width' => '54',
-        'max_image_width' => '360',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'density_class' => '2.0',
+        'max_image_width' => '270',
     ),
 );

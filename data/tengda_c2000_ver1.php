@@ -6,9 +6,10 @@ return array(
         'mobile_browser_version' => '30',
         'model_name' => 'C2000',
         'brand_name' => 'Tengda',
+        'release_date' => '2013_april',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

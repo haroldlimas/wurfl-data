@@ -9,7 +9,7 @@ return array(
         'brand_name' => 'HP',
         'physical_screen_height' => '216',
         'physical_screen_width' => '135',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
     ),
 );

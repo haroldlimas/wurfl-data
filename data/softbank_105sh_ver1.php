@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Pantone 105SH',
         'physical_screen_height' => '64',
         'physical_screen_width' => '38',
-        'resolution_width' => '240',
         'resolution_height' => '400',
+        'resolution_width' => '240',
     ),
 );

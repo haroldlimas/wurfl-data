@@ -6,5 +6,6 @@ return array(
         'model_name' => 'X2',
         'brand_name' => 'QMobile',
         'marketing_name' => 'Noir',
+        'release_date' => '2014_january',
     ),
 );

@@ -8,7 +8,7 @@ return array(
         'release_date' => '2014_june',
         'physical_screen_height' => '63',
         'physical_screen_width' => '111',
-        'resolution_width' => '960',
         'resolution_height' => '540',
+        'resolution_width' => '960',
     ),
 );

@@ -7,8 +7,8 @@ return array(
         'max_deck_size' => '2800',
         'wallpaper_gif' => 'true',
         'max_image_height' => '36',
-        'xhtml_support_level' => '-1',
         'preferred_markup' => 'wml_1_1',
+        'xhtml_support_level' => '-1',
         'streaming_real_media' => 'none',
     ),
 );

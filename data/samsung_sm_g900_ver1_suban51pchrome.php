@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'SM-G900P',
         'device_os_version' => '5.1',
+        'model_extra_info' => 'for Sprint',
     ),
 );

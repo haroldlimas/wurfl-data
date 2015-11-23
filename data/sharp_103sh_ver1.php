@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'SBM103SH',
         'brand_name' => 'Sharp',
-        'model_extra_info' => 'SoftBank Mobile',
         'marketing_name' => 'Aquos Phone 103SH',
+        'model_extra_info' => 'SoftBank Mobile',
+        'release_date' => '2011_december',
         'physical_screen_height' => '89',
-        'density_class' => '1.5',
         'physical_screen_width' => '50',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'density_class' => '1.5',
     ),
 );

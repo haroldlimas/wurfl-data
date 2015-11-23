@@ -6,5 +6,6 @@ return array(
         'model_name' => 'Y625-U21',
         'brand_name' => 'Huawei',
         'marketing_name' => 'Huawei Ascend Y625',
+        'release_date' => '2015_april',
     ),
 );

@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'lg_kg800_ver1',
     'capabilities' => array(
         'model_name' => 'TG800',
-        'model_extra_info' => 'Canada',
         'marketing_name' => 'Chocolate',
+        'model_extra_info' => 'Canada',
         'max_data_rate' => '40',
     ),
 );

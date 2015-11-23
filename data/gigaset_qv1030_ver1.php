@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Gigaset',
         'physical_screen_height' => '137',
         'physical_screen_width' => '218',
-        'resolution_width' => '217',
         'resolution_height' => '136',
+        'resolution_width' => '217',
     ),
 );

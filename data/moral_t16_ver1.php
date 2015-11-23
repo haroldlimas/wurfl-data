@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'T16',
         'brand_name' => 'MORAL',
+        'release_date' => '2012_march',
         'physical_screen_height' => '120',
         'physical_screen_width' => '63',
     ),

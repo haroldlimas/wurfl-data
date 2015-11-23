@@ -5,11 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'D800',
         'brand_name' => 'LG',
-        'model_extra_info' => 'for AT&T',
         'marketing_name' => 'LG G2',
+        'model_extra_info' => 'for AT&T',
+        'release_date' => '2013_september',
         'physical_screen_height' => '116',
         'physical_screen_width' => '65',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

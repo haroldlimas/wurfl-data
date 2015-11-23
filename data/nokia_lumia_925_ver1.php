@@ -5,5 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Lumia 925',
         'release_date' => '2013_may',
+        'marketing_name' => 'Lumia 925',
+        'density_class' => '2.4',
     ),
 );

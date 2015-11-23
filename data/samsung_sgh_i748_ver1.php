@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'SGH-I748',
         'brand_name' => 'Samsung',
+        'release_date' => '2012_december',
     ),
 );

@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Ciphone',
         'model_extra_info' => 'aka SHMA A90',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

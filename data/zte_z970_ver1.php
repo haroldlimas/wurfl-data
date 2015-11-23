@@ -7,6 +7,6 @@ return array(
         'model_name' => 'Z970',
         'brand_name' => 'ZTE',
         'marketing_name' => 'Olympia',
-        'release_date' => '',
+        'release_date' => '2014_april',
     ),
 );

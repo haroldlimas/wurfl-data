@@ -7,10 +7,10 @@ return array(
         'xhtml_display_accesskey' => 'false',
         'xhtml_format_as_attribute' => 'false',
         'max_data_rate' => '200',
-        'ajax_xhr_type' => 'standard',
-        'ajax_support_getelementbyid' => 'true',
         'ajax_support_javascript' => 'true',
-        'ajax_support_inner_html' => 'true',
         'ajax_manipulate_css' => 'true',
+        'ajax_support_getelementbyid' => 'true',
+        'ajax_support_inner_html' => 'true',
+        'ajax_xhr_type' => 'standard',
     ),
 );

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Android Webkit',
         'mobile_browser_version' => '',
-        'model_name' => 'PMP7280C3G DUO',
         'device_os_version' => '4.1',
+        'model_name' => 'PMP7280C3G DUO',
     ),
 );

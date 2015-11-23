@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'SH700i',
         'max_image_width' => '240',
-        'awb' => 'true',
-        'voices' => '64',
         'amr' => 'true',
+        'awb' => 'true',
         'midi_monophonic' => 'true',
+        'voices' => '64',
         'wml_make_phone_call_string' => 'none',
     ),
 );

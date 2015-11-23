@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'T710',
         'brand_name' => 'Smart',
+        'release_date' => '2011_september',
         'physical_screen_height' => '85',
         'physical_screen_width' => '57',
     ),

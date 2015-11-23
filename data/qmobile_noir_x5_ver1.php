@@ -6,7 +6,7 @@ return array(
         'model_name' => 'Noir X5',
         'brand_name' => 'QMobile',
         'release_date' => '2014_december',
-        'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

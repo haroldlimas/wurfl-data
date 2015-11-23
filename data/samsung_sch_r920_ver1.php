@@ -6,8 +6,9 @@ return array(
         'model_name' => 'SCH-R920',
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Attain 4G',
+        'release_date' => '2012_january',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

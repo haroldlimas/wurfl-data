@@ -6,8 +6,8 @@ return array(
         'model_name' => 'Disguised as Macintosh',
         'brand_name' => 'HTC',
         'max_image_width' => '320',
-        'resolution_width' => '340',
         'resolution_height' => '480',
+        'resolution_width' => '340',
         'max_image_height' => '400',
     ),
 );

@@ -6,9 +6,9 @@ return array(
         'model_name' => 'X5L',
         'brand_name' => 'Vivo',
         'release_date' => '2014_september',
+        'resolution_height' => '1280',
+        'resolution_width' => '720',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
-        'resolution_height' => '1280',
     ),
 );

@@ -9,7 +9,7 @@ return array(
         'release_date' => '2010_january',
         'physical_screen_height' => '34',
         'physical_screen_width' => '45',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

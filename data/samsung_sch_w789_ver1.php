@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'SCH-W789',
         'brand_name' => 'Samsung',
+        'release_date' => '2013_august',
         'physical_screen_height' => '70',
         'physical_screen_width' => '47',
     ),

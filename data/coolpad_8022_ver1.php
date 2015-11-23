@@ -6,6 +6,7 @@ return array(
         'model_name' => '8022',
         'brand_name' => 'Coolpad',
         'can_assign_phone_number' => 'false',
+        'release_date' => '2012_may',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

@@ -6,9 +6,10 @@ return array(
         'model_name' => 'Z750C',
         'brand_name' => 'ZTE',
         'marketing_name' => 'Savvy',
+        'release_date' => '2013_october',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

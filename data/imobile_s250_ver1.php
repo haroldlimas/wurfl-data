@@ -7,7 +7,7 @@ return array(
         'pointing_method' => 'touchscreen',
         'model_name' => 's250',
         'brand_name' => 'i-mobile',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
     ),
 );

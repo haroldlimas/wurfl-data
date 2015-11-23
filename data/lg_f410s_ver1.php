@@ -5,12 +5,14 @@ return array(
     'capabilities' => array(
         'model_name' => 'F410S',
         'brand_name' => 'LG',
-        'marketing_name' => 'G3',
         'release_date' => '2014_august',
+        'marketing_name' => 'G3',
         'physical_screen_height' => '116',
         'physical_screen_width' => '65',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
+        'density_class' => '4.0',
+        'max_image_width' => '360',
         'nfc_support' => 'true',
     ),
 );

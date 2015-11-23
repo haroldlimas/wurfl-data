@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'L40G',
         'brand_name' => 'LG',
+        'release_date' => '2012_november',
         'physical_screen_height' => '85',
         'physical_screen_width' => '57',
     ),

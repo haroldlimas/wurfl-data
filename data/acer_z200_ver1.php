@@ -6,10 +6,10 @@ return array(
         'model_name' => 'Z200',
         'brand_name' => 'Acer',
         'marketing_name' => 'Liquid',
-        'release_date' => '2014_june',
+        'release_date' => '2014_september',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

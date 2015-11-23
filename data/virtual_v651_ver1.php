@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Virtual',
         'physical_screen_height' => '144',
         'physical_screen_width' => '81',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'F328',
         'brand_name' => 'Star',
+        'release_date' => '2012_october',
     ),
 );

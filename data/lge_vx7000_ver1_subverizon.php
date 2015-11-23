@@ -6,8 +6,8 @@ return array(
         'model_name' => 'VX7000',
         'model_extra_info' => 'Verizon Wireless',
         'ringtone_qcelp' => 'true',
-        'playback_mp4' => 'true',
         'playback_3g2' => 'true',
+        'playback_mp4' => 'true',
         'streaming_real_media' => 'none',
     ),
 );

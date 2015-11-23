@@ -3,8 +3,8 @@ return array(
     'id'           => 'mc01_ver1',
     'fallback'     => 'uptext_generic',
     'capabilities' => array(
-        'model_name' => 'T8167',
         'brand_name' => 'Motorola',
+        'model_name' => 'T8167',
         'streaming_real_media' => 'none',
     ),
 );

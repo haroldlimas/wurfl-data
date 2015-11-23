@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '750',
         'resolution_height' => '1134',
+        'resolution_width' => '750',
         'nfc_support' => 'true',
         'model_name' => 'iPhone 6',
     ),

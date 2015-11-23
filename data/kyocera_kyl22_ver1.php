@@ -7,9 +7,10 @@ return array(
         'model_name' => 'KYL22',
         'brand_name' => 'Kyocera',
         'release_date' => '2013_december',
+        'marketing_name' => 'Digno M',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

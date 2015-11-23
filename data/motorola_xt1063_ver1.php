@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'XT1063',
         'brand_name' => 'Motorola',
-        'model_extra_info' => '2nd Gen',
-        'marketing_name' => 'Moto G',
+        'marketing_name' => 'Moto G (2nd Gen)',
         'release_date' => '2014_september',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
+        'density_class' => '2.0',
+        'max_image_width' => '360',
     ),
 );

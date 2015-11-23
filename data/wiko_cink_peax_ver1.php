@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Cink Peax',
         'brand_name' => 'Wiko',
+        'release_date' => '2013_january',
     ),
 );

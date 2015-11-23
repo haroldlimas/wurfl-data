@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'BlackBerry 9650',
         'device_os_version' => '5.0',
-        'model_extra_info' => 'Verizon Wireless',
         'marketing_name' => 'Tour2',
+        'model_extra_info' => 'Verizon Wireless',
         'release_date' => '2009_december',
     ),
 );

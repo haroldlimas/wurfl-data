@@ -7,9 +7,9 @@ return array(
         'brand_name' => 'Medion',
         'release_date' => '2012_march',
         'physical_screen_height' => '216',
-        'density_class' => '1.0',
         'physical_screen_width' => '136',
-        'resolution_width' => '800',
         'resolution_height' => '1280',
+        'resolution_width' => '800',
+        'density_class' => '1.0',
     ),
 );

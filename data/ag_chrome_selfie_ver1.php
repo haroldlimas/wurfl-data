@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Chrome Selfie',
         'brand_name' => 'AG',
+        'release_date' => '2014_december',
     ),
 );

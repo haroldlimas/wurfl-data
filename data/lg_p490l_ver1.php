@@ -5,14 +5,15 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chromium',
         'mobile_browser_version' => '34',
-        'is_tablet' => 'true',
         'model_name' => 'P490L',
         'brand_name' => 'LG',
-        'marketing_name' => 'E8LTE',
+        'marketing_name' => 'G Pad 8.0',
+        'is_tablet' => 'true',
         'can_assign_phone_number' => 'false',
+        'release_date' => '2014_december',
         'physical_screen_height' => '108',
         'physical_screen_width' => '173',
-        'resolution_width' => '1280',
         'resolution_height' => '800',
+        'resolution_width' => '1280',
     ),
 );

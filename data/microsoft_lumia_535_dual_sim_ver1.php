@@ -6,5 +6,6 @@ return array(
         'model_name' => 'Lumia 535',
         'brand_name' => 'Microsoft',
         'release_date' => '2014_november',
+        'marketing_name' => 'Lumia 535',
     ),
 );

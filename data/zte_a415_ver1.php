@@ -6,11 +6,11 @@ return array(
         'has_qwerty_keyboard' => 'true',
         'model_name' => 'A415',
         'brand_name' => 'ZTE',
-        'model_extra_info' => 'Cricket Wireless',
         'marketing_name' => 'Memo',
+        'model_extra_info' => 'Cricket Wireless',
         'physical_screen_height' => '37',
         'physical_screen_width' => '49',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Flo Rainbow',
         'physical_screen_height' => '85',
         'physical_screen_width' => '57',
-        'resolution_width' => '320',
         'resolution_height' => '480',
+        'resolution_width' => '320',
     ),
 );

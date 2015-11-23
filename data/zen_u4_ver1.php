@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'U4',
         'brand_name' => 'Zen',
+        'release_date' => '2013_july',
         'physical_screen_height' => '94',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

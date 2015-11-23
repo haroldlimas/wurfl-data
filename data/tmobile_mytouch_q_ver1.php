@@ -4,12 +4,12 @@ return array(
     'fallback'     => 'generic_android_ver2_3',
     'capabilities' => array(
         'model_name' => 'C800',
-        'manufacturer_name' => 'LG',
         'brand_name' => 'T-Mobile',
+        'manufacturer_name' => 'LG',
         'marketing_name' => 'myTouch Q',
         'release_date' => '2012_august',
         'physical_screen_height' => '74',
-        'density_class' => '1.5',
         'physical_screen_width' => '50',
+        'density_class' => '1.5',
     ),
 );

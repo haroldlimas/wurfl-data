@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Lenovo',
         'physical_screen_height' => '79',
         'physical_screen_width' => '48',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

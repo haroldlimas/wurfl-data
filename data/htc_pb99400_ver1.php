@@ -8,11 +8,11 @@ return array(
         'brand_name' => 'HTC',
         'marketing_name' => 'Incredible',
         'physical_screen_height' => '80',
-        'density_class' => '1.5',
         'physical_screen_width' => '48',
         'max_image_width' => '450',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
         'max_image_height' => '760',
+        'density_class' => '1.5',
     ),
 );

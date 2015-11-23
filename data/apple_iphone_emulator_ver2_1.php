@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'iPhone',
         'device_os_version' => '2.1',
-        'model_extra_info' => '2.1 Simulator',
         'release_date' => '2008_july',
+        'model_extra_info' => '2.1 Simulator',
     ),
 );

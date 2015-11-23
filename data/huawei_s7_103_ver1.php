@@ -7,8 +7,8 @@ return array(
         'brand_name' => 'Huawei',
         'columns' => '40',
         'rows' => '10',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
         'colors' => '65536',
     ),
 );

@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'SHW-M340K',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'for KT',
         'marketing_name' => 'Galaxy M Style',
+        'model_extra_info' => 'for KT',
         'density_class' => '1.5',
     ),
 );

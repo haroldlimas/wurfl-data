@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'karbonn_a5_ver1',
     'capabilities' => array(
         'model_name' => 'A5',
-        'device_os_version' => '4.1',
         'brand_name' => 'Karbonn',
+        'device_os_version' => '4.1',
     ),
 );

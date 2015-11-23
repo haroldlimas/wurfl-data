@@ -5,10 +5,12 @@ return array(
     'capabilities' => array(
         'model_name' => 'D2203',
         'brand_name' => 'Sony',
+        'marketing_name' => 'Xperia E3',
+        'release_date' => '2014_september',
         'physical_screen_height' => '136',
         'physical_screen_width' => '76',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
         'nfc_support' => 'true',
     ),
 );

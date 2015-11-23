@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Gio',
         'physical_screen_height' => '68',
-        'density_class' => '1.0',
         'physical_screen_width' => '46',
+        'density_class' => '1.0',
     ),
 );

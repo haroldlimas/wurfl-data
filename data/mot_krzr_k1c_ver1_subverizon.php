@@ -8,10 +8,10 @@ return array(
         'gif_animated' => 'true',
         'wallpaper_jpg' => 'true',
         'ringtone_midi_polyphonic' => 'true',
-        'playback_mp4' => 'true',
-        'playback_3gpp' => 'true',
-        'playback_acodec_amr' => 'nb',
         'playback_3g2' => 'true',
+        'playback_3gpp' => 'true',
+        'playback_mp4' => 'true',
+        'playback_acodec_amr' => 'nb',
         'streaming_real_media' => 'none',
     ),
 );

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'A8',
         'brand_name' => 'Bellefonte',
+        'release_date' => '2013_april',
     ),
 );

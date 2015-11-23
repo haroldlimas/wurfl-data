@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => '8280',
         'nokiaring' => 'true',
-        'sckl_groupgraphic' => 'true',
         'sckl_ringtone' => 'true',
+        'sckl_groupgraphic' => 'true',
         'wallpaper_gif' => 'true',
         'max_image_height' => '36',
         'streaming_real_media' => 'none',

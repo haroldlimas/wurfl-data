@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'C771',
         'brand_name' => 'Casio',
-        'marketing_name' => 'G'zOne',
         'release_date' => '2011_august',
+        'marketing_name' => 'G\'zOne',
         'density_class' => '1.5',
     ),
 );

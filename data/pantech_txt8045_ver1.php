@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'TXT8045',
         'brand_name' => 'Pantech',
-        'model_extra_info' => 'for Verizon',
         'marketing_name' => 'Jest II',
+        'model_extra_info' => 'for Verizon',
         'physical_screen_height' => '37',
         'physical_screen_width' => '49',
-        'resolution_width' => '320',
         'resolution_height' => '240',
+        'resolution_width' => '320',
     ),
 );

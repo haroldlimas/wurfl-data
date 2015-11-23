@@ -5,10 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => '6535LVW',
         'brand_name' => 'HTC',
-        'marketing_name' => 'HTC One M9',
+        'marketing_name' => 'One M9',
+        'release_date' => '2015_april',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
     ),
 );

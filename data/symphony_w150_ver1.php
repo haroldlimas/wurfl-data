@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
         'model_name' => 'W150',
         'brand_name' => 'Symphony',
         'release_date' => '2014_june',

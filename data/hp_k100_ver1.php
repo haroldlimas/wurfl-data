@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'HP Slate',
         'physical_screen_height' => '268',
         'physical_screen_width' => '476',
-        'resolution_width' => '1920',
         'resolution_height' => '1080',
+        'resolution_width' => '1920',
     ),
 );

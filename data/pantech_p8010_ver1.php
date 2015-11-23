@@ -8,9 +8,9 @@ return array(
         'marketing_name' => 'Flex',
         'release_date' => '2012_october',
         'physical_screen_height' => '96',
-        'density_class' => '1.5',
         'physical_screen_width' => '54',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
+        'density_class' => '1.5',
     ),
 );

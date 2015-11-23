@@ -7,9 +7,9 @@ return array(
         'brand_name' => 'Huawei',
         'marketing_name' => 'Ideos X5',
         'release_date' => '2011_april',
-        'density_class' => '1.5',
         'physical_screen_width' => '50',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

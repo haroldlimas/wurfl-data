@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Tecno',
         'release_date' => '2012_december',
         'physical_screen_height' => '74',
-        'density_class' => '1.0',
         'physical_screen_width' => '50',
+        'density_class' => '1.0',
     ),
 );

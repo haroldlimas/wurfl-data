@@ -6,8 +6,8 @@ return array(
         'model_name' => 'SCH-R210',
         'brand_name' => 'Samsung',
         'model_extra_info' => 'MetroPCS',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
         'streaming_real_media' => 'none',
     ),
 );

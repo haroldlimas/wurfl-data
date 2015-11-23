@@ -6,10 +6,11 @@ return array(
         'model_name' => 'G6-T00',
         'brand_name' => 'Huawei',
         'release_date' => '2014_april',
+        'marketing_name' => 'Ascend G6',
         'physical_screen_height' => '100',
         'physical_screen_width' => '57',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
         'nfc_support' => 'true',
     ),
 );

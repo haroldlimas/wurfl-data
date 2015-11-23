@@ -5,7 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => '768',
         'brand_name' => 'Avvio',
-        'physical_screen_height' => '74',
+        'release_date' => '2014_october',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'lg_e980_ver1',
     'capabilities' => array(
         'model_name' => 'L-04E',
-        'manufacturer_name' => 'LG',
         'brand_name' => 'DoCoMo',
+        'manufacturer_name' => 'LG',
         'model_extra_info' => '',
     ),
 );

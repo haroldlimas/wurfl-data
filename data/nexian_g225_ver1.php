@@ -8,8 +8,8 @@ return array(
         'marketing_name' => 'Ferro',
         'columns' => '30',
         'rows' => '7',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
         'colors' => '65536',
     ),
 );

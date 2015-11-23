@@ -6,5 +6,6 @@ return array(
         'model_name' => 'G760-L01',
         'brand_name' => 'Huawei',
         'marketing_name' => 'Ascend G760-L01',
+        'release_date' => '2014_october',
     ),
 );

@@ -5,8 +5,9 @@ return array(
     'capabilities' => array(
         'model_name' => 'MK808B',
         'brand_name' => 'Androset',
+        'release_date' => '2012_december',
         'is_smarttv' => 'true',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

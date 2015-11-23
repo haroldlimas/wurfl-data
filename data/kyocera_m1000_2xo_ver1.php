@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'M1000',
         'brand_name' => 'Kyocera',
-        'resolution_width' => '160',
         'resolution_height' => '128',
+        'resolution_width' => '160',
         'max_image_height' => '120',
         'accept_third_party_cookie' => 'false',
         'streaming_real_media' => 'none',

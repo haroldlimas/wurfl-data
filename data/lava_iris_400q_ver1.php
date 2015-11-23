@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'Iris 400Q',
         'brand_name' => 'Lava',
+        'release_date' => '2014_august',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'Auxus One',
         'brand_name' => 'iBerry',
+        'release_date' => '2014_december',
         'physical_screen_height' => '99',
         'physical_screen_width' => '59',
     ),

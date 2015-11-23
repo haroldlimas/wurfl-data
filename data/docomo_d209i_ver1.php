@@ -5,9 +5,9 @@ return array(
     'capabilities' => array(
         'colors' => '256',
         'max_image_width' => '96',
-        'resolution_width' => '96',
-        'resolution_height' => '120',
         'max_image_height' => '90',
+        'resolution_height' => '120',
+        'resolution_width' => '96',
         'preferred_markup' => 'html_wi_imode_html_2',
         'model_name' => 'D209i',
         'flash_lite_version' => '',

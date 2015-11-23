@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'mot_v3_ver1',
     'capabilities' => array(
         'accept_third_party_cookie' => 'false',
+        'model_name' => 'RAZR V3S',
         'mobile_browser' => 'Openwave Mobile Browser',
         'mobile_browser_version' => '6.2',
-        'model_name' => 'RAZR V3S',
     ),
 );

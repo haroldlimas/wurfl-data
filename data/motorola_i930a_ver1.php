@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'i930a',
         'brand_name' => 'Motorola',
-        'resolution_width' => '176',
         'resolution_height' => '220',
+        'resolution_width' => '176',
     ),
 );

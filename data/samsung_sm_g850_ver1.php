@@ -9,8 +9,10 @@ return array(
         'release_date' => '2014_august',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
+        'density_class' => '2.0',
+        'max_image_width' => '360',
         'nfc_support' => 'true',
     ),
 );

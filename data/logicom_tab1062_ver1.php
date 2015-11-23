@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Logicom',
         'physical_screen_height' => '129',
         'physical_screen_width' => '220',
-        'resolution_width' => '1024',
         'resolution_height' => '600',
+        'resolution_width' => '1024',
     ),
 );

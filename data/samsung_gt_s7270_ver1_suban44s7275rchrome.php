@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'mobile_browser_version' => '37',
-        'model_name' => 'GT-S7275R',
         'device_os_version' => '4.4',
+        'model_name' => 'GT-S7275R',
     ),
 );

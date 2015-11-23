@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'opwv_v62_generic',
     'capabilities' => array(
         'has_qwerty_keyboard' => 'true',
-        'uaprof' => 'http://wapuaprof.wap.mycricket.com/txt8026.xml',
         'model_name' => 'TXT8026',
+        'uaprof' => 'http://wapuaprof.wap.mycricket.com/txt8026.xml',
         'brand_name' => 'PCD',
         'model_extra_info' => 'Cricket Wireless',
     ),

@@ -5,12 +5,12 @@ return array(
     'capabilities' => array(
         'has_qwerty_keyboard' => 'true',
         'pointing_method' => 'touchscreen',
-        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-GT350.xml',
         'model_name' => 'GT350',
-        'marketing_name' => 'Town/Etna Plus',
         'release_date' => '2010_february',
-        'columns' => '25',
+        'marketing_name' => 'Town/Etna Plus',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-GT350.xml',
         'dual_orientation' => 'true',
+        'columns' => '25',
         'rows' => '15',
     ),
 );

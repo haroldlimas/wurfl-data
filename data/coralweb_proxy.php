@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'Proxy',
         'brand_name' => 'CoralWeb',
-        'release_date' => '2008_january',
         'unique' => 'false',
+        'release_date' => '2008_january',
         'transcoder_ua_header' => 'X-Operamini-Phone-UA',
     ),
 );

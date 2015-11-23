@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'mobile_browser_version' => '30',
-        'uaprof' => 'http://uaprof.sonymobile.com/C6902R1401.xml',
         'model_name' => 'C6902',
         'device_os_version' => '4.4',
+        'uaprof' => 'http://uaprof.sonymobile.com/C6902R1401.xml',
     ),
 );

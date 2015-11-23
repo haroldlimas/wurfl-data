@@ -6,6 +6,7 @@ return array(
         'mobile_browser_version' => '30',
         'model_name' => 'LGL34C',
         'brand_name' => 'LG',
+        'release_date' => '2014_october',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

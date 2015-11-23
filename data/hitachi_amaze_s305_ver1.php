@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'generic_android_ver4_2',
     'capabilities' => array(
         'model_name' => 'Amaze S305',
-        'brand_name' => 'Hitachi',
+        'brand_name' => 'Hitech',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

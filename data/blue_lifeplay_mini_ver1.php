@@ -5,10 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'Life Play Mini',
         'brand_name' => 'Blu',
-        'release_date' => '2014_january',
+        'release_date' => '2014_october',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

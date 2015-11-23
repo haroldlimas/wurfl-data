@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
         'model_name' => 'S900',
-        'brand_name' => 'Nuovo',
+        'brand_name' => 'Laude',
         'release_date' => '2013_december',
     ),
 );

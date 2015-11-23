@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'HS-EG901',
         'brand_name' => 'Hisense',
+        'release_date' => '2011_october',
     ),
 );

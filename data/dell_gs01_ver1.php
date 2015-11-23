@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'GS01',
         'brand_name' => 'Dell',
+        'release_date' => '2012_march',
         'physical_screen_height' => '96',
         'physical_screen_width' => '54',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

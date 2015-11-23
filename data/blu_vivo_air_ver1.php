@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'Vivo Air',
         'brand_name' => 'Blu',
+        'release_date' => '2015_january',
         'physical_screen_height' => '107',
         'physical_screen_width' => '60',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

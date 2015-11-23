@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'IQ280',
         'brand_name' => 'Fly',
+        'release_date' => '2011_december',
+        'resolution_height' => '800',
+        'resolution_width' => '480',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
-        'resolution_width' => '480',
-        'resolution_height' => '800',
     ),
 );

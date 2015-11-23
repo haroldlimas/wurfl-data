@@ -6,7 +6,7 @@ return array(
         'model_name' => 'ONE TOUCH 985D',
         'brand_name' => 'Alcatel',
         'release_date' => '2012_march',
-        'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

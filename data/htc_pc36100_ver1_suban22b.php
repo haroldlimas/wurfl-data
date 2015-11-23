@@ -7,7 +7,7 @@ return array(
         'device_os_version' => '2.2',
         'brand_name' => 'HTC',
         'marketing_name' => 'HTC EVO WiMAX',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

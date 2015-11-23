@@ -8,9 +8,9 @@ return array(
         'marketing_name' => 'Element',
         'release_date' => '2012_january',
         'physical_screen_height' => '123',
-        'density_class' => '1.0',
         'physical_screen_width' => '164',
-        'resolution_height' => '768',
         'resolution_width' => '1024',
+        'resolution_height' => '768',
+        'density_class' => '1.0',
     ),
 );

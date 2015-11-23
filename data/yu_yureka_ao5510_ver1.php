@@ -4,11 +4,12 @@ return array(
     'fallback'     => 'generic_android_ver5_0',
     'capabilities' => array(
         'model_name' => 'AO5510',
-        'brand_name' => 'YU Yureka',
+        'brand_name' => 'Micromax',
         'release_date' => '2015_january',
+        'marketing_name' => 'YU Yureka',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

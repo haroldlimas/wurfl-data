@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Android 6.0',
         'device_os_version' => '6.0',
+        'release_date' => '2015_october',
     ),
 );

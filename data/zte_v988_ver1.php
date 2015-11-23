@@ -6,10 +6,11 @@ return array(
         'model_name' => 'V988',
         'brand_name' => 'ZTE',
         'marketing_name' => 'Grand S Athena',
+        'release_date' => '2013_june',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '1080',
         'resolution_height' => '1920',
+        'resolution_width' => '1080',
         'nfc_support' => 'true',
     ),
 );

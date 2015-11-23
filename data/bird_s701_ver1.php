@@ -6,8 +6,8 @@ return array(
         'model_name' => 'S701',
         'brand_name' => 'Bird',
         'max_image_width' => '120',
-        'resolution_width' => '128',
         'resolution_height' => '128',
+        'resolution_width' => '128',
         'max_image_height' => '100',
     ),
 );

@@ -5,9 +5,10 @@ return array(
     'capabilities' => array(
         'model_name' => 'Auxus Aura A1',
         'brand_name' => 'iBerry',
+        'release_date' => '2014_september',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '540',
         'resolution_height' => '960',
+        'resolution_width' => '540',
     ),
 );

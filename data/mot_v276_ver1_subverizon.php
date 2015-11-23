@@ -9,8 +9,8 @@ return array(
         'midi_polyphonic' => 'true',
         'wallpaper_png' => 'false',
         'ringtone_midi_monophonic' => 'true',
-        'ringtone_qcelp' => 'false',
         'ringtone_midi_polyphonic' => 'true',
+        'ringtone_qcelp' => 'false',
         'streaming_real_media' => 'none',
     ),
 );

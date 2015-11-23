@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'SU870',
         'brand_name' => 'LG',
-        'model_extra_info' => 'for SKT',
         'marketing_name' => 'Optimus 3D Cube',
+        'model_extra_info' => 'for SKT',
+        'release_date' => '2012_february',
         'physical_screen_height' => '94',
-        'density_class' => '1.5',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
+        'density_class' => '1.5',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

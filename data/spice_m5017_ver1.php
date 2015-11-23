@@ -8,7 +8,7 @@ return array(
         'marketing_name' => 'Boss Fun',
         'physical_screen_height' => '36',
         'physical_screen_width' => '29',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
     ),
 );

@@ -6,9 +6,10 @@ return array(
         'model_name' => 'SCH-i509',
         'brand_name' => 'Samsung',
         'marketing_name' => 'Galaxy Young CDMA',
+        'release_date' => '2012_may',
         'physical_screen_height' => '61',
-        'physical_screen_width' => '46',
-        'resolution_width' => '240',
         'resolution_height' => '320',
+        'resolution_width' => '240',
+        'physical_screen_width' => '46',
     ),
 );

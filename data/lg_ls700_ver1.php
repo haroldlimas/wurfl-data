@@ -6,6 +6,7 @@ return array(
         'model_name' => 'LS700',
         'brand_name' => 'LG',
         'marketing_name' => 'Gelato Q',
+        'release_date' => '2011_october',
         'physical_screen_height' => '68',
         'physical_screen_width' => '46',
     ),

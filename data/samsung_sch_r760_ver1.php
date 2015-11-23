@@ -5,12 +5,13 @@ return array(
     'capabilities' => array(
         'model_name' => 'SCH-R760',
         'brand_name' => 'Samsung',
-        'model_extra_info' => 'US Cellular',
         'marketing_name' => 'Galaxy S II',
+        'model_extra_info' => 'US Cellular',
+        'release_date' => '2012_march',
         'physical_screen_height' => '99',
-        'density_class' => '1.5',
         'physical_screen_width' => '60',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
+        'density_class' => '1.5',
     ),
 );

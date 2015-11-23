@@ -8,7 +8,7 @@ return array(
         'release_date' => '2014_december',
         'physical_screen_height' => '120',
         'physical_screen_width' => '72',
-        'resolution_width' => '1536',
         'resolution_height' => '2560',
+        'resolution_width' => '1536',
     ),
 );

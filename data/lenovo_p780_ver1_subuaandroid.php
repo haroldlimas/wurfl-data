@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'device_os' => 'Android',
-        'mobile_browser_version' => '35',
         'device_os_version' => '4.4',
+        'mobile_browser_version' => '35',
     ),
 );

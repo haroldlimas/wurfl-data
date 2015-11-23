@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'IS01',
         'brand_name' => 'Sharp',
-        'physical_screen_height' => '57',
-        'dual_orientation' => 'false',
-        'physical_screen_width' => '114',
-        'max_image_width' => '320',
-        'resolution_width' => '960',
         'resolution_height' => '480',
+        'resolution_width' => '960',
+        'max_image_width' => '320',
+        'dual_orientation' => 'false',
+        'physical_screen_height' => '57',
+        'physical_screen_width' => '114',
     ),
 );

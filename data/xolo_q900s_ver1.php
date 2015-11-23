@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'Q900S',
         'brand_name' => 'Xolo',
-        'marketing_name' => 'Win',
         'release_date' => '2014_july',
+        'marketing_name' => 'Win',
         'physical_screen_height' => '105',
         'physical_screen_width' => '59',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );

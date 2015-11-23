@@ -5,11 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'E2100',
         'brand_name' => 'Samsung',
-        'physical_screen_height' => '35',
-        'physical_screen_width' => '28',
-        'resolution_width' => '128',
         'resolution_height' => '160',
+        'resolution_width' => '128',
         'max_image_height' => '130',
+        'physical_screen_width' => '28',
+        'physical_screen_height' => '35',
         'max_data_rate' => '40',
     ),
 );

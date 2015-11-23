@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'ITP-S110WD',
         'brand_name' => 'Kyowon',
+        'release_date' => '2012_january',
     ),
 );

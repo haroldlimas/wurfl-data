@@ -5,9 +5,11 @@ return array(
     'capabilities' => array(
         'model_name' => 'R833T',
         'brand_name' => 'OPPO',
+        'marketing_name' => 'Real',
+        'release_date' => '2013_october',
         'physical_screen_height' => '94',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '800',
+        'resolution_width' => '480',
     ),
 );

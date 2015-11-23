@@ -6,9 +6,10 @@ return array(
         'model_name' => 'Q371',
         'brand_name' => 'Micromax',
         'marketing_name' => 'Canvas Pep',
+        'release_date' => '2015_february',
         'physical_screen_height' => '100',
         'physical_screen_width' => '57',
-        'resolution_width' => '480',
         'resolution_height' => '854',
+        'resolution_width' => '480',
     ),
 );

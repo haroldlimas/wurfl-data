@@ -3,8 +3,8 @@ return array(
     'id'           => 'digma_idj7n_ver1',
     'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
-        'is_tablet' => 'true',
         'model_name' => 'iDj7n',
+        'is_tablet' => 'true',
         'brand_name' => 'Digma',
         'can_assign_phone_number' => 'false',
         'release_date' => '2013_february',

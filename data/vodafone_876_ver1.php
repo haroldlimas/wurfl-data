@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Vodafone',
         'marketing_name' => 'Smart Mini',
         'release_date' => '2014_august',
-        'physical_screen_height' => '74',
         'physical_screen_width' => '50',
+        'physical_screen_height' => '74',
     ),
 );

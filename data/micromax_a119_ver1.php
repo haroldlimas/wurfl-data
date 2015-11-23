@@ -7,9 +7,9 @@ return array(
         'brand_name' => 'Micromax',
         'marketing_name' => 'Canvas XL',
         'release_date' => '2014_january',
+        'resolution_width' => '540',
         'physical_screen_height' => '133',
         'physical_screen_width' => '75',
         'resolution_height' => '960',
-        'resolution_width' => '540',
     ),
 );

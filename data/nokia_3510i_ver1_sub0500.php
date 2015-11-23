@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'max_data_rate' => '40',
         'wallpaper_max_height' => '65',
-        'wallpaper_max_width' => '95',
         'wallpaper_jpg' => 'true',
+        'wallpaper_max_width' => '95',
     ),
 );

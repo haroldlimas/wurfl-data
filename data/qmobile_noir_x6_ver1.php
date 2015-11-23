@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'Noir X6',
         'brand_name' => 'QMobile',
+        'release_date' => '2014_december',
     ),
 );

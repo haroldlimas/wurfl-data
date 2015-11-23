@@ -6,6 +6,7 @@ return array(
         'model_name' => 'One Touch 988',
         'brand_name' => 'Alcatel',
         'marketing_name' => 'Shockwave',
+        'release_date' => '2012_october',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
     ),

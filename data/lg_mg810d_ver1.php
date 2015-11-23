@@ -8,9 +8,9 @@ return array(
         'wallpaper_colors' => '16',
         'wallpaper_preferred_width' => '96',
         'wallpaper_preferred_height' => '96',
+        'playback_vcodec_h263_0' => '10',
         'playback_3gpp' => 'true',
         'playback_acodec_amr' => 'nb',
-        'playback_vcodec_h263_0' => '10',
         'streaming_real_media' => 'none',
     ),
 );

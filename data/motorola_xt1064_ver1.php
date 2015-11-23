@@ -7,9 +7,10 @@ return array(
         'model_name' => 'XT1064',
         'brand_name' => 'Motorola',
         'release_date' => '2014_september',
+        'marketing_name' => 'Moto G (2nd Gen)',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
-        'resolution_width' => '720',
         'resolution_height' => '1280',
+        'resolution_width' => '720',
     ),
 );
