@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_september',
         'brand_name' => 'Prestigio',
         'model_name' => 'PAP4322 DUO',
+        'uaprof' => 'http://wap.dl.prestigio.com/uaprofile/smartphones/PAP4322DUO_V1.xml',
         'table_support' => 'true',
         'columns' => '25',
         'resolution_height' => '800',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2008_october',
         'brand_name' => 'Philips',
         'model_name' => '598',
+        'uaprof' => 'http://218.249.89.125/UAProf/uapP598.xml',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'wml_1_2' => 'true',

@@ -1,10 +1,11 @@
 <?php
 return array(
     'id'           => 'samsung_sgh_f210l_ver1',
-    'fallback'     => 'samsung_sgh_f210_ver1_sub1',
+    'fallback'     => 'samsung_sgh_f210_ver1',
     'capabilities' => array(
         'release_date' => '2007_april',
         'uaprof' => 'http://wap.samsungmobile.com/uaprof/f210_10.xml',
+        'model_name' => 'SGH-F210L',
         'softkey_support' => 'true',
         'columns' => '17',
         'max_image_height' => '180',

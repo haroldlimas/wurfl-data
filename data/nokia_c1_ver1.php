@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_june',
         'brand_name' => 'Nokia',
         'model_name' => 'C1-01',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NokiaC1-01r100.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '15',

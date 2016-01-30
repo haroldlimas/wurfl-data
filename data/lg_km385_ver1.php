@@ -6,6 +6,7 @@ return array(
         'release_date' => '2008_november',
         'model_name' => 'LG-KM385',
         'uaprof2' => 'http://gsm.lge.com/html/gsm/LG-KM385.xml',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-KM385.xml',
         'columns' => '12',
         'max_image_height' => '280',
         'max_image_width' => '228',

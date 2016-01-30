@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2010_october',
         'model_name' => 'BlackBerry 9670',
-        'uaprof' => 'http://www.blackberry.net/go/mobile/profiles/uaprof/9670_evdo/6.0.0.rdf',
+        'uaprof' => 'http://www.blackberry.net/go/mobile/profiles/uaprof/9670/6.0.0.rdf',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'wml_1_2' => 'true',

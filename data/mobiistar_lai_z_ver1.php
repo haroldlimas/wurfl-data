@@ -6,6 +6,7 @@ return array(
         'model_name' => 'LAI Z',
         'brand_name' => 'Mobiistar',
         'release_date' => '2015_june',
+        'marketing_name' => 'LAI Z',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
         'resolution_height' => '854',

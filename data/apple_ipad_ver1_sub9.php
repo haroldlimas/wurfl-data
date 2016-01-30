@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'device_os_version' => '9.0',
         'model_extra_info' => '9.0',
+        'mobile_browser_version' => '9.0',
     ),
 );

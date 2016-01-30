@@ -3,7 +3,7 @@ return array(
     'id'           => 'mot_k1m_ver1_boost',
     'fallback'     => 'mot_k1m_ver1',
     'capabilities' => array(
-        'model_name' => 'K1m',
+        'model_name' => 'K1m-boost',
         'uaprof' => 'http://device.sprintpcs.com/Motorola/K1m-boost/10E0.rdf',
         'model_extra_info' => 'Boost Mobile',
         'columns' => '20',

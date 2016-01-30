@@ -3,7 +3,7 @@ return array(
     'id'           => 'softbank_j_n03b_ver1',
     'fallback'     => 'softbank_generic',
     'capabilities' => array(
-        'model_name' => 'J-N03Ⅱ',
+        'model_name' => 'J-N03B',
         'colors' => '256',
         'max_image_width' => '120',
         'resolution_height' => '126',

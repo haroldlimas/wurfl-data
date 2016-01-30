@@ -6,6 +6,7 @@ return array(
         'release_date' => '2008_november',
         'brand_name' => 'Fly',
         'model_name' => 'Fly-SX315',
+        'uaprof' => 'http://www.fly-phone.ru/UAP/Fly_SX315.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

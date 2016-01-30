@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'kyocera_s1300_ver1_sub0320',
-    'fallback'     => 'opwv_v72_generic',
+    'fallback'     => 'kyocera_s1300_ver1',
     'capabilities' => array(
         'model_name' => 'S1300/0320',
         'brand_name' => 'Kyocera',

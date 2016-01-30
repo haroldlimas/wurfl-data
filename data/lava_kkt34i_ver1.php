@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_september',
         'brand_name' => 'Lava',
         'model_name' => 'KKT34i',
+        'uaprof' => 'http://www.1066.cn/uaprof/prof/lava/KKT34i.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

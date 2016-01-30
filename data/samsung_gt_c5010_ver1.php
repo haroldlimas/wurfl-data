@@ -6,7 +6,7 @@ return array(
         'release_date' => '2010_september',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-C5010',
-        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-C5010_2G.rdf',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-C5010_3G.rdf',
         'uaprof2' => 'http://wap.samsungmobile.com/uaprof/GT-C5010_3G.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',

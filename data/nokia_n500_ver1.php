@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_february',
         'brand_name' => 'Nokia',
         'model_name' => '500',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N500r100-VF3G.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

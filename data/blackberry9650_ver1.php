@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'RIM',
         'model_name' => 'BlackBerry 9650',
         'marketing_name' => 'Bold',
-        'uaprof' => 'http://www.blackberry.net/go/mobile/profiles/uaprof/9650_umts/5.0.0.rdf',
+        'uaprof' => 'http://www.blackberry.net/go/mobile/profiles/uaprof/9650_1x/5.0.0.rdf',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'wml_1_2' => 'true',

@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2008_october',
         'model_name' => 'W385',
+        'uaprof' => 'http://device.telusmobility.com/motorola/W385-0.rdf',
         'columns' => '7',
         'max_image_height' => '130',
         'max_image_width' => '120',

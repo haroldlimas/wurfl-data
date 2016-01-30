@@ -6,7 +6,7 @@ return array(
         'release_date' => '2009_september',
         'brand_name' => 'Samsung',
         'model_name' => 'E1310C',
-        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-E1130.xml',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/E1310.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

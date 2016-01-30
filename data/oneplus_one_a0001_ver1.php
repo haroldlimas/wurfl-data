@@ -6,7 +6,7 @@ return array(
         'mobile_browser_version' => '',
         'model_name' => 'A0001',
         'brand_name' => 'OnePlus',
-        'marketing_name' => 'One A0001',
+        'marketing_name' => 'One',
         'release_date' => '2014_april',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',

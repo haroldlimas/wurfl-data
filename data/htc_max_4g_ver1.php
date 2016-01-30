@@ -7,6 +7,7 @@ return array(
         'brand_name' => 'HTC',
         'model_name' => 'Max 4G',
         'mobile_browser_version' => '7.11',
+        'uaprof' => 'http://www.htcmms.com.tw/gen/quartz-1.0.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

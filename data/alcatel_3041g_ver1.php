@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Alcatel',
         'model_name' => '3041G',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL_3041G.rdf',
         'table_support' => 'true',
         'wml_1_3' => 'true',
         'columns' => '36',

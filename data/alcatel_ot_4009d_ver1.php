@@ -6,6 +6,7 @@ return array(
         'release_date' => '2015_may',
         'brand_name' => 'Alcatel',
         'model_name' => '4009D',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/4009D.xml',
         'table_support' => 'true',
         'wml_1_3' => 'true',
         'columns' => '36',

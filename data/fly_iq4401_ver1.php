@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'fly_iq4401_ver1',
-    'fallback'     => 'generic_android_ver4_2',
+    'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
         'release_date' => '2015_april',
         'brand_name' => 'FLY',

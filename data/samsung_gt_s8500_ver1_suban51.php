@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'samsung_gt_s8500_ver1',
     'capabilities' => array(
         'device_os_version' => '5.1',
+        'device_os' => 'Android',
     ),
 );

@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'samsung_sch_u450_ver1',
     'capabilities' => array(
         'model_extra_info' => 'Verizon Wireless',
+        'model_name' => 'samu450',
     ),
 );

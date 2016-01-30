@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'huawei_u8180_ver1',
     'capabilities' => array(
         'release_date' => '2012_february',
+        'uaprof' => 'http://wap1.huawei.com/uaprof/HuaweiU8180WCDMA.xml',
         'columns' => '10',
         'max_image_height' => '280',
         'max_image_width' => '228',

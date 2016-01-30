@@ -6,7 +6,7 @@ return array(
         'release_date' => '2009_september',
         'brand_name' => 'ZTE',
         'model_name' => 'F102',
-        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-F102(YoigoF102).xml',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-F102(H3GF102).xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

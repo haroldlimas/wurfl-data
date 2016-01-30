@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'nokia_6555_ver1',
     'capabilities' => array(
         'playback_vcodec_mpeg4_sp' => '0',
+        'model_name' => '6555b',
     ),
 );

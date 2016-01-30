@@ -7,6 +7,7 @@ return array(
         'brand_name' => 'BenQ-Siemens',
         'model_name' => 'C81',
         'mobile_browser_version' => '7.1',
+        'uaprof' => 'http://communication-market.siemens.de/portal/UAProf/UAP.aspx?device=C81&v=00',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

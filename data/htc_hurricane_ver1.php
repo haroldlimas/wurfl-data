@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_january',
         'brand_name' => 'HTC',
         'model_name' => 'ST21',
+        'uaprof' => 'http://www.htcmms.com.tw/gen/st21-1.0.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

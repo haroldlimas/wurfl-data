@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-S5530',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-S5530.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

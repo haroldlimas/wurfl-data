@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_april',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-S5511T',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-S5511TUAProf.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

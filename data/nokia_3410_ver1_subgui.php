@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'nokia_3410_ver1_subgui',
-    'fallback'     => 'opwv_v62_generic',
+    'fallback'     => 'nokia_3410_ver1',
     'capabilities' => array(
         'brand_name' => 'Nokia',
         'model_name' => '3410',

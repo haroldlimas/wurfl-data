@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2012_january',
         'device_os_version' => '2.1',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/E15aR202.xml',
         'columns' => '25',
         'max_image_width' => '300',
         'resolution_height' => '480',

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'model_name' => 'M810',
         'brand_name' => 'Infocus',
-        'release_date' => '2015_july',
+        'release_date' => '2014_july',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
         'resolution_height' => '1920',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_february',
         'brand_name' => 'MediaTek',
         'model_name' => 'mt6577_phone',
+        'uaprof' => 'http://218.249.47.94/Xianghe/MTK_Phone_JB_UAprofile.xml',
         'columns' => '25',
         'rows' => '21',
         'bmp' => 'true',

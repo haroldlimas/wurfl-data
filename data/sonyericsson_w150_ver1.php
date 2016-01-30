@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'SonyEricsson',
         'model_name' => 'W150',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/W150R101.xml',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'wml_1_2' => 'true',

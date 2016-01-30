@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_november',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-S5050',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/S5050.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

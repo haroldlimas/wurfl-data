@@ -8,6 +8,8 @@ return array(
         'marketing_name' => 'Intex Cloud X12',
         'mobile_browser_version' => '8',
         'release_date' => '2014_february',
+        'device_os' => 'Android',
+        'device_os_version' => '4.1',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',
         'resolution_height' => '480',

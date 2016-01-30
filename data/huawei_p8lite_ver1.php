@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'huawei_p8lite_ver1',
-    'fallback'     => 'generic_android_ver5_0',
+    'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
         'model_name' => 'ALE-UL00',
         'brand_name' => 'Huawei',

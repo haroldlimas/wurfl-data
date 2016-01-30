@@ -5,7 +5,8 @@ return array(
     'capabilities' => array(
         'model_name' => 'XT1585',
         'brand_name' => 'Motorola',
-        'release_date' => '2015_june',
+        'release_date' => '2015_october',
+        'marketing_name' => 'Droid Turbo 2',
         'physical_screen_height' => '122',
         'physical_screen_width' => '69',
         'resolution_height' => '2560',

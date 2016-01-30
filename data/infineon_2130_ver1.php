@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_june',
         'brand_name' => 'Infineon',
         'model_name' => '2130',
+        'uaprof' => 'http://122.166.59.167/xmm2130-1r-2g.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

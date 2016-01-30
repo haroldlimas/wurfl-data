@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'LG',
         'model_name' => 'LG/D500',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/D500-M10-D1.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '15',

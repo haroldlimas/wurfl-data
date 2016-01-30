@@ -1,10 +1,10 @@
 <?php
 return array(
     'id'           => 'samsung_gt_i9507_ver1',
-    'fallback'     => 'generic_android_ver4_3',
+    'fallback'     => 'generic_android_ver4_2',
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
-        'mobile_browser_version' => '28',
+        'mobile_browser_version' => '18',
         'model_name' => 'GT-I9507',
         'brand_name' => 'Samsung',
         'release_date' => '2013_november',

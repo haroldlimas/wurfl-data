@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_june',
         'brand_name' => 'Samsung',
         'model_name' => 'C5110',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/C5110_3G.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

@@ -5,8 +5,6 @@ return array(
     'capabilities' => array(
         'model_name' => 'A11',
         'brand_name' => 'K-Touch',
-        'mobile_browser' => 'UCWeb',
-        'mobile_browser_version' => '9',
         'release_date' => '2013_april',
         'physical_screen_height' => '74',
         'physical_screen_width' => '50',

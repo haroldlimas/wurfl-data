@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'RIM',
         'model_name' => 'BlackBerry 9981',
         'uaprof' => 'http://www.blackberry.net/go/mobile/profiles/uaprof/9981/7.0.0.rdf',
-        'marketing_name' => 'Porsche Design P’9981',
+        'marketing_name' => 'Porsche Design 9981',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'wml_1_2' => 'true',

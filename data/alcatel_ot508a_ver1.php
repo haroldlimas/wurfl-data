@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_july',
         'brand_name' => 'Alcatel',
         'model_name' => 'OT-508A',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL-OT-508A.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

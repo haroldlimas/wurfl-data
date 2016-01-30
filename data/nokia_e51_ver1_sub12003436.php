@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'nokia_e51_ver1',
     'capabilities' => array(
         'release_date' => '2008_october',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NE51-1r100.xml',
         'columns' => '21',
         'max_image_height' => '280',
         'max_image_width' => '224',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_february',
         'brand_name' => 'DOOV',
         'model_name' => 'iEva D900S',
+        'uaprof' => 'http://218.249.47.94/Xianghe/MTK_Athens15_UAProfile.xml',
         'columns' => '25',
         'resolution_height' => '800',
         'resolution_width' => '480',

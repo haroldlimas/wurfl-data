@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_april',
         'brand_name' => 'ZTE',
         'model_name' => 'R220',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/R220.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

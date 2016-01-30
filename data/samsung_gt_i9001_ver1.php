@@ -7,6 +7,7 @@ return array(
         'brand_name' => 'Samsung',
         'model_name' => 'GT-I9001',
         'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-I9001.xml',
+        'marketing_name' => 'Galaxy S Plus',
         'table_support' => 'true',
         'columns' => '25',
         'resolution_height' => '800',

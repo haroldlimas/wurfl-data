@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'brand_name' => 'Logicom',
         'model_name' => 'L-ITE 502',
-        'resolution_width' => '960',
-        'resolution_height' => '540',
+        'resolution_width' => '540',
+        'resolution_height' => '960',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
     ),

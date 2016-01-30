@@ -3,7 +3,7 @@ return array(
     'id'           => 'kddi_kc41_ver1',
     'fallback'     => 'kddi_wap20_generic',
     'capabilities' => array(
-        'model_name' => 'K006(カメラなし)',
+        'model_name' => 'KC41',
         'release_date' => '2010_october',
         'rows' => '15',
         'resolution_height' => '400',

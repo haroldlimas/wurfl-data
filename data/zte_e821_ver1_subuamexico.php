@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'zte_e821_ver1',
     'capabilities' => array(
         'release_date' => '2014_january',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-E821(Mexico_Iusacell).xml',
         'softkey_support' => 'true',
         'columns' => '14',
         'max_image_height' => '280',

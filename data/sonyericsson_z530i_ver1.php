@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2009_november',
         'model_name' => 'Z530i',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/Z530iR301.xml',
         'softkey_support' => 'true',
         'columns' => '14',
         'max_image_height' => '130',

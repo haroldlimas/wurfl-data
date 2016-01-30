@@ -3,7 +3,7 @@ return array(
     'id'           => 'fake_sanyo_mm8300_ver1',
     'fallback'     => 'sanyo_scp8300_ver1',
     'capabilities' => array(
-        'model_name' => 'MM-8300',
+        'model_name' => 'Fake MM-8300',
         'video' => 'true',
         'playback_3g2' => 'true',
         'playback_3gpp' => 'true',

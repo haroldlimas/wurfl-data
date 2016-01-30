@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_may',
         'brand_name' => 'Huawei',
         'model_name' => 'HUAWEI G3510',
+        'uaprof' => 'http://wap.huawei.com/uaprof/HuaweiG3510UAprofile.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

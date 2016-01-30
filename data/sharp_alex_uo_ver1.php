@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'Sharp',
         'model_name' => 'Alex-uo',
+        'uaprof' => 'http://sharp-mobile.com/UAProf/UA_Alex-uo_C.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

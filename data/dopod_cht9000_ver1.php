@@ -13,7 +13,7 @@ return array(
         'mms_max_size' => '614400',
         'mms_max_width' => '1600',
         'uaprof' => 'http://www.htcmms.com.tw/gen/hermes-1.0.xml',
-        'model_name' => '9000',
+        'model_name' => 'CHT 9000',
         'brand_name' => 'HTC',
         'playback_3g2' => 'true',
         'playback_3gpp' => 'true',

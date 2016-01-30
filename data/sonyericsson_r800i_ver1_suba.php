@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2012_january',
         'model_name' => 'R800a',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/R800aR301.xml',
         'columns' => '44',
         'resolution_height' => '854',
         'resolution_width' => '480',

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'resolution_height' => '2048',
         'resolution_width' => '1536',
+        'model_name' => 'iPad 4',
     ),
 );

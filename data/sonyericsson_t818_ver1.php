@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_october',
         'brand_name' => 'SonyEricsson',
         'model_name' => 'T818',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/T818R101.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

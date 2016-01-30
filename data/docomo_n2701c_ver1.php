@@ -10,5 +10,6 @@ return array(
         'resolution_width' => '176',
         'max_image_height' => '190',
         'flash_lite_version' => '',
+        'model_name' => 'NC2701',
     ),
 );

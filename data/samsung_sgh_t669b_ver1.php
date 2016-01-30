@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2010_september',
         'model_name' => 'SGH-T669B',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-T669B.xml',
         'columns' => '20',
         'max_image_height' => '280',
         'max_image_width' => '228',

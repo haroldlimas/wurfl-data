@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Micromax',
         'model_name' => 'X231',
+        'uaprof' => 'http://www.msai.in/uaprof/micromax/X231.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

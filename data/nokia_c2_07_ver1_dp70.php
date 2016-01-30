@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_march',
         'brand_name' => 'Nokia',
         'model_name' => 'C2-07',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NokiaC2-07r100.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '15',

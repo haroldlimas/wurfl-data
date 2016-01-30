@@ -3,10 +3,10 @@ return array(
     'id'           => 'lg_ls740_ver1',
     'fallback'     => 'generic_android_ver4_4',
     'capabilities' => array(
-        'release_date' => '2014_april',
+        'release_date' => '2014_may',
         'brand_name' => 'LG',
         'model_name' => 'LS740',
-        'marketing_name' => 'F90',
+        'marketing_name' => 'Volt',
         'mobile_browser_version' => '30',
         'table_support' => 'true',
         'columns' => '25',

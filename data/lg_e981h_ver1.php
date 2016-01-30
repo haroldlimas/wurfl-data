@@ -7,6 +7,10 @@ return array(
         'physical_screen_width' => '69',
         'resolution_height' => '1920',
         'resolution_width' => '1080',
-        'release_date' => '2015_march',
+        'release_date' => '2013_april',
+        'brand_name' => 'LG',
+        'model_name' => 'E981h',
+        'marketing_name' => 'Optimus G Pro',
+        'nfc_support' => 'true',
     ),
 );

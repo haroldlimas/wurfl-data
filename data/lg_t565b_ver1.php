@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'LG',
         'model_name' => 'LG-T565b',
         'pointing_method' => 'touchscreen',
-        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-T565-M3-D1.xml',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-T565b-M3-D1.xml',
         'mobile_browser' => 'Phantom',
         'mobile_browser_version' => '2.0',
         'marketing_name' => 'Viper T565',

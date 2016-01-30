@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_march',
         'brand_name' => 'Pantech',
         'model_name' => 'P8000',
+        'uaprof' => 'http://www.pantech.com/Uaprof/umts/PU-P8000.xml',
         'table_support' => 'true',
         'columns' => '25',
         'max_image_width' => '300',

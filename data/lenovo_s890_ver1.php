@@ -6,7 +6,7 @@ return array(
         'release_date' => '2013_january',
         'brand_name' => 'Lenovo',
         'model_name' => 'S890',
-        'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/Lenovo_S890_ROW_UAProfile.xml',
+        'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/Lenovo_A800_UAProfile.xml',
         'table_support' => 'true',
         'columns' => '25',
         'resolution_height' => '960',

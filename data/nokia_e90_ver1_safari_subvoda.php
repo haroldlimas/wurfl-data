@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'nokia_e90_ver1_safari_subvoda',
-    'fallback'     => 'nokia_e90_ver1_safari',
+    'fallback'     => 'nokia_e90_ver1',
     'capabilities' => array(
         'colors' => '262144',
         'max_deck_size' => '357000',

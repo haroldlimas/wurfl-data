@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_september',
         'brand_name' => 'Samsung',
         'model_name' => 'SGH-T659',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-T659.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

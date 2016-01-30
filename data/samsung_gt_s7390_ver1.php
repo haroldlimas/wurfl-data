@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_october',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-S7390',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-S7390.xml',
         'table_support' => 'true',
         'columns' => '25',
         'resolution_height' => '800',

@@ -5,5 +5,6 @@ return array(
     'capabilities' => array(
         'max_image_width' => '228',
         'css_spriting' => 'true',
+        'model_name' => 'C510v',
     ),
 );

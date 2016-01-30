@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Nokia',
         'model_name' => 'C7-00',
         'pointing_method' => 'touchscreen',
-        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NC7-00r100.xml',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NC7-00r100-VF2G.xml',
         'has_qwerty_keyboard' => 'true',
         'marketing_name' => 'Astound',
         'mobile_browser' => 'Nokia BrowserNG',

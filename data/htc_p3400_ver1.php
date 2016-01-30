@@ -4,7 +4,7 @@ return array(
     'fallback'     => 'htc_gene_ver1',
     'capabilities' => array(
         'brand_name' => 'HTC',
-        'model_name' => 'P3400',
+        'model_name' => 'HTC_P3400',
         'device_os_version' => '5.0',
         'pointing_method' => 'touchscreen',
         'softkey_support' => 'true',

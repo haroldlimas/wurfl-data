@@ -6,6 +6,7 @@ return array(
         'release_date' => '2008_october',
         'brand_name' => 'KCM',
         'model_name' => 'N110',
+        'uaprof' => 'http://www.kcmobile.net/UAProf/WAP2_SEC_MMS_N110.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

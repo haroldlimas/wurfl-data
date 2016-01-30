@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'mot_q9h_ver1_subc_vzw',
-    'fallback'     => 'mot_q9h_ver1_subie77',
+    'fallback'     => 'mot_q9h_ver1',
     'capabilities' => array(
         'model_name' => 'Q9c',
         'uaprof' => 'http://uaprof.vtext.com/mot/q2/q2v1.xml',

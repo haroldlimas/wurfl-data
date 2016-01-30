@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Huawei',
         'model_name' => 'T8620',
+        'uaprof' => 'http://wap1.huawei.com/uaprof/HUAWEI_T8620_UAProfile.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '20',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Spice',
         'model_name' => 'Spice M5180',
+        'uaprof' => 'http://www.msai.in/uaprof/spice/Spice%20M5180.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

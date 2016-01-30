@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_june',
         'brand_name' => 'Nokia',
         'model_name' => '110',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/Nokia110r100.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '15',

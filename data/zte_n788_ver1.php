@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_september',
         'brand_name' => 'ZTE',
         'model_name' => 'ZTE N788',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/N788.xml',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'columns' => '25',

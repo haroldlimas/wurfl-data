@@ -4,6 +4,5 @@ return array(
     'fallback'     => 'htc_d820u_ver1',
     'capabilities' => array(
         'device_os_version' => '5.0',
-        'model_name' => 'D820YS',
     ),
 );

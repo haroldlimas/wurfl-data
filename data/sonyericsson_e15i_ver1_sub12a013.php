@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'sonyericsson_e15i_ver1',
     'capabilities' => array(
         'release_date' => '2010_october',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/E15iR101.xml',
         'columns' => '25',
         'max_image_width' => '300',
         'resolution_height' => '480',

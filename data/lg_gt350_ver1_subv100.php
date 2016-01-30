@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2010_july',
         'model_name' => 'LG-GT350',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-GT350-ROGERS.xml',
         'softkey_support' => 'true',
         'columns' => '25',
         'max_image_height' => '360',

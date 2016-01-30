@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2009_april',
         'model_name' => '1681c',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N1681cr100.xml',
         'columns' => '18',
         'max_image_height' => '130',
         'max_image_width' => '120',

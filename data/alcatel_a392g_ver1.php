@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Alcatel',
         'model_name' => 'A392G',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL_A392G.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

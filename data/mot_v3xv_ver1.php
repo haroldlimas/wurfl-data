@@ -3,7 +3,7 @@ return array(
     'id'           => 'mot_v3xv_ver1',
     'fallback'     => 'mot_v3x_ver1',
     'capabilities' => array(
-        'model_name' => 'RAZR V3x',
+        'model_name' => 'RAZR V3xv',
         'model_extra_info' => 'Vodafone',
         'video' => 'true',
         'j2me_cldc_1_1' => 'true',

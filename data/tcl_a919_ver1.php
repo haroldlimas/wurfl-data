@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_february',
         'brand_name' => 'TCL',
         'model_name' => 'A919',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/TCL_A919.xml',
         'table_support' => 'true',
         'columns' => '36',
         'max_image_width' => '300',

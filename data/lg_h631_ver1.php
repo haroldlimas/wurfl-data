@@ -7,6 +7,7 @@ return array(
         'brand_name' => 'LG',
         'model_name' => 'H631',
         'marketing_name' => 'LG Stylo',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/5uyruBAm__1ZuYMa/H631-M10-D1.xml',
         'table_support' => 'true',
         'columns' => '15',
         'resolution_height' => '1280',

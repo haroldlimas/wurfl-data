@@ -4,8 +4,8 @@ return array(
     'fallback'     => 'generic_android_ver6_0',
     'capabilities' => array(
         'model_name' => 'Nexus 6P',
-        'brand_name' => 'Huawei',
-        'manufacturer_name' => 'Google',
+        'brand_name' => 'Google',
+        'manufacturer_name' => 'Huawei',
         'release_date' => '2015_september',
         'physical_screen_height' => '127',
         'physical_screen_width' => '71',

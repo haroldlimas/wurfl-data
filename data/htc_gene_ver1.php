@@ -13,7 +13,7 @@ return array(
         'mms_max_size' => '614400',
         'mms_max_width' => '1280',
         'uaprof' => 'http://www.htcmms.com.tw/gen/Gene-1.0.xml',
-        'model_name' => 'P3400',
+        'model_name' => 'hTCP3400',
         'brand_name' => 'HTC',
         'mobile_browser_version' => '4.01',
         'max_data_rate' => '200',

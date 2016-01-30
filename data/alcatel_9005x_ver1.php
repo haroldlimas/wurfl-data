@@ -6,7 +6,7 @@ return array(
         'model_name' => '9005X',
         'is_tablet' => 'true',
         'brand_name' => 'Alcatel',
-        'marketing_name' => 'OneTouch PIXI 3',
+        'marketing_name' => 'OneTouch PIXI 8',
         'can_assign_phone_number' => 'false',
         'release_date' => '2014_january',
         'physical_screen_height' => '173',

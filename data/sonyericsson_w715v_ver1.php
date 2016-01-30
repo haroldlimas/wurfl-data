@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2008_november',
         'brand_name' => 'SonyEricsson',
-        'model_name' => 'W715',
+        'model_name' => 'W715v',
         'uaprof' => 'http://wap.sonyericsson.com/UAprof/W715R101-HS.xml',
         'uaprof2' => 'http://wap.sonyericsson.com/UAprof/W715R101.xml',
         'softkey_support' => 'true',

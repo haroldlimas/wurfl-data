@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_july',
         'mobile_browser' => 'Nokia',
         'mobile_browser_version' => '7.2',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/Nokia5230r100-3G.xml',
         'columns' => '17',
         'resolution_height' => '640',
         'resolution_width' => '360',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_may',
         'mobile_browser_version' => '4.08',
         'uaprof' => 'http://www.sonyericsson.com/UAprof/Z300iR101.xml',
+        'model_name' => 'Z300i',
         'columns' => '14',
         'max_image_width' => '120',
         'resolution_height' => '128',
