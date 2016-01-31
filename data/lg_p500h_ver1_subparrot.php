@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2012_january',
         'model_name' => 'P500h',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/P500h-M6-D1.xml',
         'softkey_support' => 'true',
         'columns' => '25',
         'max_image_width' => '300',

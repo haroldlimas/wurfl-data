@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'blackberry7100_ver1_sub400',
-    'fallback'     => 'blackberry_generic_ver4',
+    'fallback'     => 'blackberry7100_ver1',
     'capabilities' => array(
         'model_name' => 'BlackBerry 7100',
         'uaprof' => 'http://www.blackberry.net/go/mobile/profiles/uaprof/7100_240x260/4.0.0.rdf',

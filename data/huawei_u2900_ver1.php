@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_august',
         'brand_name' => 'Huawei',
         'model_name' => 'HUAWEI U2900',
+        'uaprof' => 'http://wap.huawei.com/uaprof/HUAWEI_U2900_UAProfile.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

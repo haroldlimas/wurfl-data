@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2008_october',
         'nokia_feature_pack' => '1',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NN95-1r100.xml',
         'columns' => '15',
         'max_image_height' => '280',
         'max_image_width' => '224',

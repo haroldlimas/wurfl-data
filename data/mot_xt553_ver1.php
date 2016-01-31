@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_february',
         'brand_name' => 'Motorola',
         'model_name' => 'XT553',
+        'uaprof' => 'http://nmsc.ctvap.cn/uaprof/MOT/MOT_XT553_1_20120309.XML',
         'table_support' => 'true',
         'columns' => '25',
         'max_image_width' => '300',

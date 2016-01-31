@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'samsung_gt_b7510_ver1',
     'capabilities' => array(
         'release_date' => '2011_july',
+        'model_name' => 'GT-B7510B',
         'columns' => '25',
         'max_image_height' => '320',
         'max_image_width' => '240',

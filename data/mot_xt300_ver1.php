@@ -6,7 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'Motorola',
         'model_name' => 'XT300',
-        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/motoxt300/Profile/motoxt300.rdf',
+        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/motandroidgeneric/Profile/motandroidgeneric.rdf',
         'marketing_name' => 'Spice',
         'table_support' => 'true',
         'columns' => '25',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2008_october',
         'brand_name' => 'LG',
         'model_name' => 'MG201d',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-MG201d.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '8',

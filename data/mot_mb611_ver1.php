@@ -6,7 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'Motorola',
         'model_name' => 'MB611',
-        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/MotoMB611/profile/MotoMB611.rdf',
+        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/motandroidgeneric/Profile/motandroidgeneric.rdf',
         'table_support' => 'true',
         'columns' => '25',
         'rows' => '21',

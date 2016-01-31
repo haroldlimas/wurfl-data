@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'ZTE',
         'model_name' => 'ZTE-G R270',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/zte-R270.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

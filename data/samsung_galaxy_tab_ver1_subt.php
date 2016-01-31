@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2012_january',
         'model_name' => 'GT-P1000T',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-P1000T.xml',
         'wml_1_3' => 'true',
         'columns' => '25',
         'resolution_height' => '1024',

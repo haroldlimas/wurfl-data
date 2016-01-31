@@ -6,7 +6,7 @@ return array(
         'release_date' => '2012_june',
         'brand_name' => 'LG',
         'model_name' => 'P880',
-        'uaprof' => 'http://gsm.lge.com/html/gsm/P880-M3-D1.xml',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/P880-M6-D2.xml',
         'marketing_name' => 'Optimus 4X HD',
         'uaprof2' => 'http://gsm.lge.com/html/gsm/P880-M6-D2.xml',
         'softkey_support' => 'true',

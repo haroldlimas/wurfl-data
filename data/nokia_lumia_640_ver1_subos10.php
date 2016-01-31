@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'nokia_lumia_640_ver1',
     'capabilities' => array(
         'device_os_version' => '10',
+        'model_extra_info' => 'Dual SIM',
     ),
 );

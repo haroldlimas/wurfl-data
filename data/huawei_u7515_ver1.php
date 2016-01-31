@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_november',
         'brand_name' => 'Huawei',
         'model_name' => 'HUAWEI U7515',
+        'uaprof' => 'http://wap.huawei.com/uaprof/HuaweiU7515v100WCDMA.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

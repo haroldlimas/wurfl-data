@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_september',
         'brand_name' => 'SonyEricsson',
         'model_name' => 'W830c',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/W830cR201.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

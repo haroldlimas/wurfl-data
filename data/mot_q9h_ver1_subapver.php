@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2008_october',
         'model_name' => 'MOT-Q9H',
+        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/q-umts/Profile/mot-q9h.rdf',
         'columns' => '19',
         'max_image_height' => '224',
         'max_image_width' => '280',

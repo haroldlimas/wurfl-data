@@ -3,7 +3,6 @@ return array(
     'id'           => 'apple_iphone_ver1',
     'fallback'     => 'apple_generic',
     'capabilities' => array(
-        'model_name' => 'iPhone',
         'mobile_browser' => 'Safari',
         'pointing_method' => 'touchscreen',
         'device_os_version' => '1.0',

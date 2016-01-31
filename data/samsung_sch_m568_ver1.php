@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_july',
         'brand_name' => 'Samsung',
         'model_name' => 'SCH-M569',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/SAM-M569.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

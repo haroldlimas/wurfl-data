@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_november',
         'brand_name' => 'Samsung',
         'model_name' => 'E1360B',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/E1360B.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

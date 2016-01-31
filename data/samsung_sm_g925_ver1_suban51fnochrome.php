@@ -6,5 +6,6 @@ return array(
         'model_name' => 'SM-G925F',
         'device_os_version' => '5.1',
         'mobile_browser' => 'Samsung',
+        'mobile_browser_version' => '3.2',
     ),
 );

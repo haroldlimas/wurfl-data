@@ -7,7 +7,7 @@ return array(
         'brand_name' => 'Casio',
         'model_name' => 'C811 4G',
         'uaprof' => 'http://uaprof.vtext.com/pcd/c811/c811.xml',
-        'marketing_name' => 'G’zOne Commando 4G LTE',
+        'marketing_name' => 'GzOne Commando 4G LTE',
         'model_extra_info' => 'for Verizon',
         'table_support' => 'true',
         'columns' => '25',

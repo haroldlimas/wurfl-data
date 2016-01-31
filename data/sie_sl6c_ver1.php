@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2009_july',
         'model_name' => 'SL65-China',
+        'uaprof' => 'http://communication-market.siemens.de/portal/UAProf/UAP.aspx?device=SL6C',
         'columns' => '18',
         'resolution_height' => '130',
         'resolution_width' => '130',

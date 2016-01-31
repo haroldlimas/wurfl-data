@@ -7,6 +7,7 @@ return array(
         'brand_name' => 'Samsung',
         'model_name' => 'SPH-M350',
         'marketing_name' => 'Seek',
+        'uaprof' => 'http://uaprof.bellmobilite.ca/Samsung_SPHM350.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

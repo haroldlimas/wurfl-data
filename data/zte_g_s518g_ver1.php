@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'ZTE',
         'model_name' => 'S518G',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-G_S518G.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

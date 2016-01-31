@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_february',
         'brand_name' => 'Azumi',
         'model_name' => 'KL32',
+        'uaprof' => 'http://www.azumi-mobile.com/agenteprofile/equipos/Azumi_KL32.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '22',

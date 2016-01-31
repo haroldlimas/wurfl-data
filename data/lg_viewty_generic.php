@@ -9,7 +9,7 @@ return array(
         'mobile_browser' => 'Teleca-Obigo',
         'mobile_browser_version' => '5.0',
         'pointing_method' => 'touchscreen',
-        'model_name' => 'KU990',
+        'model_name' => '',
         'j2me_midp_1_0' => 'true',
         'j2me_midp_2_0' => 'true',
         'j2me_cldc_1_0' => 'true',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Spreadtrum',
         'model_name' => 'SC8810a',
+        'uaprof' => 'http://www.spreadtrum.com/wap/8810G_UAProfile.xml',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'wml_1_2' => 'true',

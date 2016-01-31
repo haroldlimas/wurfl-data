@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_march',
         'brand_name' => 'Nokia',
         'model_name' => 'Nokia X2-03',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NokiaX2-03r100.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '15',

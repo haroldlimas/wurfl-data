@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_march',
         'brand_name' => 'PCD',
         'model_name' => 'ADR21',
+        'uaprof' => 'http://www.pcdgsmlab.com/UAP/adr21.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '25',

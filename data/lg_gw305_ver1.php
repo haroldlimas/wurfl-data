@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'LG',
         'model_name' => 'LG-GW305',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-GW305.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

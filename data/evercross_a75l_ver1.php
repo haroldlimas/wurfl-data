@@ -6,6 +6,7 @@ return array(
         'model_name' => 'A75L',
         'brand_name' => 'Evercoss',
         'release_date' => '2015_august',
+        'marketing_name' => 'Elevate Y',
         'physical_screen_height' => '111',
         'physical_screen_width' => '63',
         'resolution_height' => '1280',

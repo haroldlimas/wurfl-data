@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'Chrome Mobile',
         'mobile_browser_version' => '36',
-        'model_name' => 'Slate 10',
+        'model_name' => 'Slate 10 HD',
         'brand_name' => 'HP',
         'physical_screen_height' => '216',
         'physical_screen_width' => '135',

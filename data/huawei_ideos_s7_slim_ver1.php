@@ -7,6 +7,7 @@ return array(
         'brand_name' => 'Huawei',
         'model_name' => 'S7_Slim',
         'is_tablet' => 'true',
+        'uaprof' => 'http://wap.huawei.com/uaprof/HuaweiS7Slimv100WIFIOnly.xml',
         'table_support' => 'true',
         'columns' => '45',
         'resolution_height' => '480',

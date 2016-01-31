@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_november',
         'brand_name' => 'Lenovo',
         'model_name' => 'Lenovo A516',
+        'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/Lenovo_A516_UAProfile.xml',
         'table_support' => 'true',
         'columns' => '25',
         'resolution_height' => '854',

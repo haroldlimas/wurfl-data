@@ -7,5 +7,7 @@ return array(
         'physical_screen_width' => '42',
         'resolution_height' => '400',
         'resolution_width' => '240',
+        'brand_name' => 'Micromax',
+        'model_name' => 'X650',
     ),
 );

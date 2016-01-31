@@ -6,7 +6,7 @@ return array(
         'release_date' => '2013_may',
         'brand_name' => 'Huawei',
         'model_name' => 'G700-U00',
-        'uaprof' => 'http://wap1.huawei.com/uaprof/HUAWEI_G700-U00_UAProfile.xml',
+        'uaprof' => 'http://wap1.huawei.com/uaprof/HUAWEI_G700-U20_UAProfile.xml',
         'marketing_name' => 'Ascend G700',
         'softkey_support' => 'true',
         'table_support' => 'true',

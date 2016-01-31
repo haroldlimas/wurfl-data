@@ -4,8 +4,9 @@ return array(
     'fallback'     => 'htc_tornado_ver1',
     'capabilities' => array(
         'brand_name' => 'HTC',
-        'model_name' => 'Tornado',
+        'model_name' => 'Xda IQ',
         'uaprof' => 'http://www.htcmms.com.tw/gen/tornado-2.0.xml',
+        'marketing_name' => 'Tornado',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'kyocera_m2000_subaan0314_ver1',
-    'fallback'     => 'opwv_v72_generic',
+    'fallback'     => 'kyocera_m2000_ver1',
     'capabilities' => array(
         'model_name' => 'M2000/AAN0314',
         'brand_name' => 'Kyocera',

@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_january',
         'brand_name' => 'Cellon',
         'model_name' => 'C691',
+        'uaprof' => 'http://uap.gsmlablatam.com/C691.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

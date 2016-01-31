@@ -6,7 +6,7 @@ return array(
         'release_date' => '2009_september',
         'brand_name' => 'Lenovo',
         'model_name' => 'P768',
-        'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/download_20071236069306.xml',
+        'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/download_20077183598158.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

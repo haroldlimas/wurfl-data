@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2010_february',
         'model_name' => 'T715a',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/T715aR101.xml',
         'columns' => '16',
         'max_image_height' => '280',
         'max_image_width' => '228',

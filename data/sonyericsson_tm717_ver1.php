@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_november',
         'brand_name' => 'SonyEricsson',
         'model_name' => 'TM717',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/TM717R101.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

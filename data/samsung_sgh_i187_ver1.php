@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_may',
         'brand_name' => 'Samsung',
         'model_name' => 'SGH-I187',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-I187.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'resolution_height' => '1280',

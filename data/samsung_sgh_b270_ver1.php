@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_july',
         'brand_name' => 'Samsung',
         'model_name' => 'SGH-B270',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/b270_10.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

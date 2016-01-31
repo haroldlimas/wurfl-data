@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_march',
         'brand_name' => 'Kyocera',
         'model_name' => 'K38',
+        'uaprof' => 'http://www.pocket.com/phone_data/K38.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

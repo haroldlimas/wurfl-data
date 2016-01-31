@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_october',
         'brand_name' => 'Nokia',
         'model_name' => 'Lumia 1520',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NokiaLumia1520r100.xml',
         'softkey_support' => 'true',
         'columns' => '16',
         'resolution_height' => '1920',

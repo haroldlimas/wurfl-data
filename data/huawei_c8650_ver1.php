@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_march',
         'brand_name' => 'Huawei',
         'model_name' => 'C8650',
+        'uaprof' => 'http://wap.huawei.com/uaprof/HW_HUAWEI_C8650.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '20',

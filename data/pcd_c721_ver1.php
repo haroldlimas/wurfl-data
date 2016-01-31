@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_october',
         'brand_name' => 'PCD',
         'model_name' => 'C721',
+        'uaprof' => 'http://uaprof.vtext.com/pcd/c721/c721.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

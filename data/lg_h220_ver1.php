@@ -9,6 +9,7 @@ return array(
         'uaprof' => 'http://gsm.lge.com/html/gsm/JMVnyLlmw2NR0pk1/H220-M3-D1.xml',
         'brand_name' => 'LG',
         'release_date' => '2015_january',
+        'marketing_name' => 'Joy',
         'physical_screen_height' => '88',
         'physical_screen_width' => '53',
         'resolution_height' => '800',

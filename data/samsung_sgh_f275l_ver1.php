@@ -6,5 +6,6 @@ return array(
         'physical_screen_width' => '32',
         'physical_screen_height' => '40',
         'streaming_real_media' => 'none',
+        'model_name' => 'SGH-F250L',
     ),
 );

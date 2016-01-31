@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_march',
         'brand_name' => 'ZTE',
         'model_name' => 'N860',
+        'uaprof' => 'http://device.sprintpcs.com/ZTE/ZTEN860ABC-BST/N860V1.0.0B06.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '38',

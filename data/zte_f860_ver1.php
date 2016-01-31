@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_march',
         'brand_name' => 'ZTE',
         'model_name' => 'F860',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-F860.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

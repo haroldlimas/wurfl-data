@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'mot_v1075_ver1',
     'capabilities' => array(
         'release_date' => '2009_march',
+        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/v1075/Profile/v1075.rdf',
         'softkey_support' => 'true',
         'columns' => '19',
         'max_image_height' => '280',

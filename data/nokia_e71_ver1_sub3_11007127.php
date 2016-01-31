@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2009_october',
         'model_name' => 'E71-3',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NE71-3r100.xml',
         'columns' => '28',
         'max_image_width' => '300',
         'resolution_height' => '240',

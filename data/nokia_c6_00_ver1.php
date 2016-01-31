@@ -8,7 +8,7 @@ return array(
         'model_name' => 'C6-00',
         'has_qwerty_keyboard' => 'true',
         'pointing_method' => 'touchscreen',
-        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NokiaC6-00r100.xml',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/NokiaC6-00.1r100.xml',
         'device_os_version' => '9.4',
         'mobile_browser' => 'Nokia BrowserNG',
         'mobile_browser_version' => '7.2',

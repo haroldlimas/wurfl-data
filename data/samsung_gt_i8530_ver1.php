@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_may',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-I8530',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-I8530.xml',
         'table_support' => 'true',
         'columns' => '25',
         'resolution_height' => '800',

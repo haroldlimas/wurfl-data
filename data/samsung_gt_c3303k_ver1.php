@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2010_september',
         'model_name' => 'GT-C3303K',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-C3303K.xml',
         'columns' => '8',
         'max_image_height' => '280',
         'max_image_width' => '228',

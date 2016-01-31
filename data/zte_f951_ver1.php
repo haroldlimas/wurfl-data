@@ -6,7 +6,7 @@ return array(
         'release_date' => '2010_august',
         'brand_name' => 'ZTE',
         'model_name' => 'F951',
-        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-F951(OrangeF951).xml',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-F951%28OrangeF951%29.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

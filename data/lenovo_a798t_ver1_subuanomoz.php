@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Lenovo',
         'model_name' => 'Lenovo-A798t',
+        'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/Lenovo_A798t_UAProfile.xml',
         'columns' => '25',
         'resolution_height' => '854',
         'resolution_width' => '480',

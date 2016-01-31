@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'sec_sgh_d836_ver1_sub10',
-    'fallback'     => 'samsung_sgh_d830_ver1_sub10',
+    'fallback'     => 'samsung_sgh_d830_ver1',
     'capabilities' => array(
         'release_date' => '2008_october',
         'model_name' => 'SGH-D836',

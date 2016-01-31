@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'mitto_a355_ver1',
-    'fallback'     => 'generic_android_ver4_1',
+    'fallback'     => 'generic_android_ver4',
     'capabilities' => array(
         'model_name' => 'A355',
         'brand_name' => 'Mitto',

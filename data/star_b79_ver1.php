@@ -8,5 +8,7 @@ return array(
         'resolution_height' => '960',
         'resolution_width' => '540',
         'release_date' => '2012_march',
+        'brand_name' => 'Star',
+        'model_name' => 'B79',
     ),
 );

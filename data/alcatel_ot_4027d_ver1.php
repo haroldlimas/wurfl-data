@@ -7,6 +7,7 @@ return array(
         'brand_name' => 'Alcatel',
         'model_name' => '4027D',
         'marketing_name' => 'Pixi 3',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/4027D.XML',
         'table_support' => 'true',
         'wml_1_3' => 'true',
         'columns' => '36',

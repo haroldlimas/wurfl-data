@@ -20,5 +20,6 @@ return array(
         'fl_browser' => 'true',
         'fl_screensaver' => 'true',
         'css_spriting' => 'true',
+        'model_name' => 'W715',
     ),
 );

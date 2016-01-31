@@ -3,7 +3,7 @@ return array(
     'id'           => 'nokia_6030b_ver1',
     'fallback'     => 'nokia_6030_ver1',
     'capabilities' => array(
-        'model_name' => '6030',
+        'model_name' => '6030b',
         'uaprof' => 'http://nds.nokia.com/uaprof/N6030br100.xml',
         'model_extra_info' => 'United States',
         'mms_mp3' => 'true',

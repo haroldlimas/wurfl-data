@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_july',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-B7810',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-B7810.xml',
         'table_support' => 'true',
         'columns' => '25',
         'resolution_height' => '360',

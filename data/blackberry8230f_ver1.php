@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2009_august',
         'brand_name' => 'RIM',
-        'model_name' => 'BlackBerry 8230',
+        'model_name' => 'BlackBerry 8230f',
         'uaprof' => 'http://www.blackberry.net/go/mobile/profiles/uaprof/8230f_evdo/4.6.1.rdf',
         'table_support' => 'true',
         'wml_1_1' => 'true',

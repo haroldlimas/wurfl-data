@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'huawei_t8833_ver1',
     'capabilities' => array(
         'release_date' => '2014_january',
+        'uaprof' => 'http://wap1.huawei.com/uaprof/HUAWEI_T8833_UAProfile.xml',
         'softkey_support' => 'true',
         'columns' => '25',
         'resolution_height' => '800',

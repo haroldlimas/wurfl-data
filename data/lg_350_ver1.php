@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'LG',
         'model_name' => 'LG-X350',
+        'uaprof' => 'http://gsm.lge.com/html/gsm/LG-X350.xml',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'wml_1_3' => 'true',

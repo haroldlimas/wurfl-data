@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'Samsung',
         'model_name' => 'SGH-T249',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-T249.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

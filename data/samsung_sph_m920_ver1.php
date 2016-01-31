@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'Samsung',
         'model_name' => 'SPH-M920',
+        'uaprof' => 'http://device.sprintpcs.com/Samsung/SPH-M920/DI11.rdf',
         'table_support' => 'true',
         'columns' => '25',
         'max_image_height' => '280',

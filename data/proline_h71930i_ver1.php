@@ -8,7 +8,7 @@ return array(
         'is_tablet' => 'true',
         'resolution_width' => '600',
         'resolution_height' => '1024',
-        'physical_screen_height' => '90',
-        'physical_screen_width' => '154',
+        'physical_screen_height' => '154',
+        'physical_screen_width' => '90',
     ),
 );

@@ -6,7 +6,7 @@ return array(
         'release_date' => '2010_october',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-B7722',
-        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-B7722_2G.rdf',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-B7722_3G.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

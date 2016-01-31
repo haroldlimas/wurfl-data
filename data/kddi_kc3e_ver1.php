@@ -3,7 +3,7 @@ return array(
     'id'           => 'kddi_kc3e_ver1',
     'fallback'     => 'kddi_wap20_generic',
     'capabilities' => array(
-        'model_name' => 'W44K IIカメラなしモデル',
+        'model_name' => 'KDDI-KC3E',
         'model_extra_info' => 'Camera',
         'mobile_browser' => 'Openwave Mobile Browser',
         'mobile_browser_version' => '6.2',

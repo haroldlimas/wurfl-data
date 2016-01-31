@@ -6,6 +6,7 @@ return array(
         'release_date' => '2008_october',
         'brand_name' => 'LG',
         'model_name' => 'AX390',
+        'uaprof' => 'http://www.alltel.net/uaprof/lg/ax390/ax390.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

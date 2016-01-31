@@ -5,8 +5,8 @@ return array(
     'capabilities' => array(
         'release_date' => '2014_august',
         'brand_name' => 'LG',
-        'model_name' => 'LG/D325/V1.0',
-        'marketing_name' => 'L70',
+        'model_name' => 'LG-D325',
+        'marketing_name' => 'Series III L70',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '15',

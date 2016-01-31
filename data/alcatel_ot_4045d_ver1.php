@@ -6,6 +6,7 @@ return array(
         'release_date' => '2015_may',
         'brand_name' => 'Alcatel',
         'model_name' => '4045D',
+        'uaprof' => 'http://www-ccpp.tcl-ta.com/files/4045D.xml',
         'table_support' => 'true',
         'columns' => '36',
         'resolution_height' => '800',

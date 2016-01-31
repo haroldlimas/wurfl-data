@@ -6,6 +6,7 @@ return array(
         'release_date' => '2011_october',
         'brand_name' => 'Nokia',
         'model_name' => '603',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N603r100.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

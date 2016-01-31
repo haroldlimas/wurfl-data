@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_november',
         'brand_name' => 'Samsung',
         'model_name' => 'B5702C',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/B5702.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

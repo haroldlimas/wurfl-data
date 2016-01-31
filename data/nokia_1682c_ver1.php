@@ -6,6 +6,7 @@ return array(
         'release_date' => '2009_november',
         'brand_name' => 'Nokia',
         'model_name' => '1682c',
+        'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N1682cr100.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '18',

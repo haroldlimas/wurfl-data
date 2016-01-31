@@ -6,6 +6,7 @@ return array(
         'release_date' => '2010_october',
         'device_os_version' => '2.2',
         'marketing_name' => 'HTC Sapphire',
+        'uaprof' => 'http://www.htcmms.com.tw/Android/Common/G2/ua-profile.xml',
         'wml_1_1' => 'true',
         'columns' => '25',
         'resolution_height' => '800',

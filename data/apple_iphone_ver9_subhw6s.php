@@ -8,5 +8,6 @@ return array(
         'resolution_height' => '1334',
         'resolution_width' => '750',
         'nfc_support' => 'true',
+        'model_name' => 'iPhone 6S',
     ),
 );

@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2010_june',
         'model_name' => 'U5a',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/U5aR000.xml',
         'wml_1_3' => 'true',
         'columns' => '17',
         'resolution_height' => '640',

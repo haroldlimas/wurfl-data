@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_august',
         'brand_name' => 'ZTE',
         'model_name' => 'ZTE N855D',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/N855D.xml',
         'table_support' => 'true',
         'wml_1_1' => 'true',
         'columns' => '25',

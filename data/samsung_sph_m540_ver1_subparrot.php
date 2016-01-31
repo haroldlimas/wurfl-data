@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'samsung_sph_m540_ver1',
     'capabilities' => array(
         'release_date' => '2009_july',
+        'uaprof' => 'http://device.telusmobility.com/samsung/sphm540-parrot-0.rdf',
         'columns' => '8',
         'max_image_height' => '180',
         'max_image_width' => '168',

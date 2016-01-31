@@ -3,7 +3,7 @@ return array(
     'id'           => 'kddi_sn28_ver1',
     'fallback'     => 'kddi_wap20_generic',
     'capabilities' => array(
-        'model_name' => 'A1402S IIカメラ無し',
+        'model_name' => 'SN28',
         'mobile_browser' => 'Openwave Mobile Browser',
         'mobile_browser_version' => '6.2',
         'jpg' => 'true',

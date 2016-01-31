@@ -6,6 +6,7 @@ return array(
         'release_date' => '2008_december',
         'brand_name' => 'ZTE',
         'model_name' => 'T6',
+        'uaprof' => 'http://www.zte.com.cn/mobile/uaprof/ZTE-T6.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

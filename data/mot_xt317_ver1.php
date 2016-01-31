@@ -6,6 +6,7 @@ return array(
         'release_date' => '2012_may',
         'brand_name' => 'Motorola',
         'model_name' => 'XT317',
+        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/xt317/Profile/xt317.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'columns' => '25',

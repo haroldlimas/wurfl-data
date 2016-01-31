@@ -7,5 +7,6 @@ return array(
         'physical_screen_width' => '50',
         'physical_screen_height' => '50',
         'streaming_real_media' => 'none',
+        'model_name' => 'U10',
     ),
 );

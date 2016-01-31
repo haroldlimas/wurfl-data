@@ -1,7 +1,7 @@
 <?php
 return array(
     'id'           => 'vivo_e5_ver1_subuaandroid',
-    'fallback'     => 'generic_android_ver4_1',
+    'fallback'     => 'vivo_e5_ver1',
     'capabilities' => array(
         'model_name' => 'E5',
         'brand_name' => 'Vivo',

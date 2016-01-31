@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2010_february',
         'model_name' => 'W205a',
+        'uaprof' => 'http://wap.sonyericsson.com/UAprof/W205aR101.xml',
         'columns' => '11',
         'max_image_height' => '130',
         'max_image_width' => '120',

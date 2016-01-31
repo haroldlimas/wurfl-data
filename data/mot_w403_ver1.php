@@ -6,6 +6,7 @@ return array(
         'release_date' => '2013_october',
         'brand_name' => 'Motorola',
         'model_name' => 'MOT-W403',
+        'uaprof' => 'http://uaprof.motorola.com/phoneconfig/w403/Profile/w403.rdf',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_3' => 'true',

@@ -5,6 +5,7 @@ return array(
     'capabilities' => array(
         'release_date' => '2012_march',
         'model_name' => 'GT-S3770L',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-S3770L_3G.xml',
         'softkey_support' => 'true',
         'columns' => '8',
         'max_image_height' => '280',

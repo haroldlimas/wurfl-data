@@ -14,6 +14,7 @@ return array(
         'mms_max_width' => '1280',
         'uaprof' => 'http://wap.samsungmobile.com/uaprof/I620VUAProf3G.rdf',
         'mobile_browser_version' => '6.12',
+        'model_name' => 'SGH-I620v',
         'playback_vcodec_h263_0' => '10',
         'playback_3gpp' => 'true',
         'playback_mp4' => 'true',

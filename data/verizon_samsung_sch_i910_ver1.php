@@ -4,5 +4,6 @@ return array(
     'fallback'     => 'samsung_sch_i910_ver1',
     'capabilities' => array(
         'model_extra_info' => 'Verizon Wireless',
+        'model_name' => 'sami910v1',
     ),
 );

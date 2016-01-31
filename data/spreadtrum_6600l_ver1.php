@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_november',
         'brand_name' => 'Spreadtrum',
         'model_name' => '6600L',
+        'uaprof' => 'http://www.spreadtrum.com/wap/6600L_DORADO_UAProfile.xml',
         'softkey_support' => 'true',
         'table_support' => 'true',
         'wml_1_1' => 'true',

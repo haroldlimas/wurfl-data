@@ -4,6 +4,7 @@ return array(
     'fallback'     => 'htc_legend_ver1',
     'capabilities' => array(
         'release_date' => '2010_october',
+        'uaprof' => 'http://www.htcmms.com.tw/Android/Common/Legend/ua-profile.xml',
         'columns' => '25',
         'max_image_width' => '300',
         'resolution_height' => '480',

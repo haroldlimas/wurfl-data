@@ -6,6 +6,7 @@ return array(
         'release_date' => '2014_january',
         'brand_name' => 'Samsung',
         'model_name' => 'GT-S6313T',
+        'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-S6313T.xml',
         'table_support' => 'true',
         'columns' => '25',
         'max_image_width' => '300',

@@ -5,7 +5,7 @@ return array(
     'capabilities' => array(
         'mobile_browser' => 'UCWeb',
         'mobile_browser_version' => '4',
-        'device_os_version' => '10',
+        'device_os_version' => '8.1',
         'model_name' => 'Nokia 920',
     ),
 );
