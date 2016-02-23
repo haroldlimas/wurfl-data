@@ -23,10 +23,11 @@
  * THE SOFTWARE.
  *
  * @category   FileLoader
- * @package    FileLoader
+ *
  * @copyright  2012-2014 Thomas Müller
  * @author     Thomas Müller <t_mueller_stolzenhain@yahoo.de>
  * @license    http://www.opensource.org/licenses/MIT MIT License
+ *
  * @link       https://github.com/mimmi20/wurfl-data/
  */
 
@@ -38,11 +39,13 @@ use WurflData\Loader;
 /**
  * class to load the the content from a data file
  *
- * @package    FileLoader
  * @author     Thomas Müller <t_mueller_stolzenhain@yahoo.de>
  * @copyright  Copyright (c) 2012-2014 Thomas Müller
+ *
  * @version    1.2
+ *
  * @license    http://www.opensource.org/licenses/MIT MIT License
+ *
  * @link       https://github.com/mimmi20/FileLoader/
  */
 class LoaderTest extends \PHPUnit_Framework_TestCase
@@ -52,7 +55,7 @@ class LoaderTest extends \PHPUnit_Framework_TestCase
      */
     public function testConstructorAddsExpectedCommands()
     {
-        $expected = array(
+        $expected = [
             'mobile_browser'                                    => 'Android Webkit',
             'nokia_feature_pack'                                => 0,
             'device_os'                                         => 'Android',
@@ -582,7 +585,7 @@ class LoaderTest extends \PHPUnit_Framework_TestCase
             'controlcap_advertised_browser'                     => 'default',
             'controlcap_is_smartphone'                          => 'default',
             'controlcap_advertised_device_os'                   => 'default',
-        );
+        ];
 
         $result = Loader::load('35phone_q4350_ver1', new Logger('test'));
         self::assertInternalType('array', $result);
@@ -593,6 +596,6 @@ class LoaderTest extends \PHPUnit_Framework_TestCase
     {
         $result = Loader::load('', new Logger('test'));
 
-        self::assertSame(array(), $result);
+        self::assertSame([], $result);
     }
 }

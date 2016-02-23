@@ -23,10 +23,11 @@
  * THE SOFTWARE.
  *
  * @category   FileLoader
- * @package    FileLoader
+ *
  * @copyright  2012-2014 Thomas Müller
  * @author     Thomas Müller <t_mueller_stolzenhain@yahoo.de>
  * @license    http://www.opensource.org/licenses/MIT MIT License
+ *
  * @link       https://github.com/mimmi20/wurfl-data/
  */
 
@@ -38,11 +39,13 @@ use Psr\Log\LoggerInterface;
 /**
  * class to load the the content from a data file
  *
- * @package    FileLoader
  * @author     Thomas Müller <t_mueller_stolzenhain@yahoo.de>
  * @copyright  Copyright (c) 2012-2014 Thomas Müller
+ *
  * @version    1.2
+ *
  * @license    http://www.opensource.org/licenses/MIT MIT License
+ *
  * @link       https://github.com/mimmi20/FileLoader/
  */
 class Loader
@@ -57,7 +60,7 @@ class Loader
      */
     public static function load($wurflKey, LoggerInterface $logger)
     {
-        $allData = array();
+        $allData = [];
 
         while (strcmp($wurflKey, 'root')) {
             if (!$wurflKey) {
